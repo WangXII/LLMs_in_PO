@@ -1,0 +1,717 @@
+patient,alteration,model,version,recommendation,reference,reference2,mechanism,clinical_study,galactica_v1,galactica_v2,bio_med_lm_v1,bio_med_lm_v2,bio_med_lm_v3,bio_med_lm_v4,perplexity_ai_v1,perplexity_v2
+1,KRAS p.G13D,Perplexity.ai,NA,cetuximab,34776511,https://www.nature.com/articles/s41392-021-00780-4,EGFR,NA,0,0,0,0,0,0,1,0
+1,KRAS p.G13D,Perplexity.ai,NA,panitumab,24558511,https://pubmed.ncbi.nlm.nih.gov/24558511/,EGFR,NA,0,0,0,0,0,0,1,0
+1,KRAS p.G13D,Perplexity.ai,NA,ly3499446,34776511,https://www.nature.com/articles/s41392-021-00780-4,ARS-1620 inhibitors,NA,0,0,0,0,0,0,1,0
+1,KRAS p.G13D,Perplexity.ai,NA,d-1553,34776511,https://www.nature.com/articles/s41392-021-00780-4,ARS-1620 inhibitors,NA,0,0,0,0,0,0,1,0
+1,KRAS p.G13D,Perplexity.ai,NA,ars-3248/jnj-74699157,34776511,https://www.nature.com/articles/s41392-021-00780-4,ARS-1620 inhibitors,NA,0,0,0,0,0,0,1,0
+1,KRAS p.G13D,Perplexity.ai,NA,nivolumab and ipilimumab,NCT05254184,NA,combination,Phase 1,0,0,0,0,0,0,0,1
+1,KRAS p.G13D,Perplexity.ai,NA,eli-002 7p,NCT05726864,NA,immunotherapy,Phase 1/2,0,0,0,0,0,0,0,1
+1,KRAS p.G13D,Perplexity.ai,NA,mrna-5671/v941 and pembrolizumab,NCT03948763,NA,combination,Phase 1,0,0,0,0,0,0,0,1
+1,TP53 p.A276G,Perplexity.ai,NA,sotorasib,35251972,https://www.frontiersin.org/articles/10.3389/fonc.2022.796832/full,NA,NA,0,0,0,0,0,0,0,1
+1,TP53 p.A276G,Perplexity.ai,NA,adagrasib,35251972,https://www.frontiersin.org/articles/10.3389/fonc.2022.796832/full,NA,NA,0,0,0,0,0,0,0,1
+1,KRAS p.G13D,ChatGPT,NA,amg 510,NCT03600883,NA,NA,Phase 1,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,ChatGPT,NA,mrtx849,NCT03785249,NA,NA,Phase 1/2,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,Galactica,v1,rmc-4630,NA,NA,SHP2 inhibitor,Phase 1,1,0,0,0,0,0,0,0
+1,KRAS p.G13D,BioMed LM,NA,izumetenib,NA,NA,IDH1 inhibitor,Phase 2,0,0,0,0,1,0,0,0
+1,KRAS p.G13D,BioMed LM,NA,carboplatin and paclitaxel,NA,NA,combination,NA,0,0,0,1,0,0,0,0
+1,KRAS p.G13D,BioMed LM,NA,mek inhibitors,NA,NA,MEK inhibitors,NA,0,0,0,0,0,1,0,0
+1,TP53 p.A276G,Perplexity.ai,NA,"afatanib, cisplatin plus pemetrexed",NA,NA,combination,NA,0,0,0,0,0,0,1,0
+1,TP53 p.A276G,Perplexity.ai,NA,tyrosine kinase inhibitors,30631578,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6297513/,Tyrosine kinase inhibitors,NA,0,0,0,0,0,0,0,1
+1,TP53 p.A276G,Perplexity.ai,NA,osimertinib,NCT03521154,NA,NA,NA,0,0,0,0,0,0,0,1
+1,TP53 p.A276G,Perplexity.ai,NA,lazertinib and amivantamab,NCT04077463,NA,combination,Phase 1,0,0,0,0,0,0,0,1
+1,TP53 p.A276G,Perplexity.ai,NA,carboplatin and pemetrexed and durvalumab,NCT03944772,NA,combination,Phase 2,0,0,0,0,0,0,0,1
+1,TP53 p.A276G,ChatGPT,NA,apr-246,NCT03588001,NA,NA,NA,0,0,0,0,0,0,0,0
+1,TP53 p.A276G,Galactica,v2,platinum-based chemotherapy,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+1,TP53 p.A276G,BioMed LM,NA,prima-1,NA,NA,NA,NA,0,0,0,0,0,1,0,0
+1,TP53 p.A276G,BioMed LM,NA,carboplatin and paclitaxel,NA,NA,NA,NA,0,0,1,1,0,0,0,0
+1,TP53 p.A276G,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+1,TP53 p.A276G,BioMed LM,NA,idelalisib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+1,TP53 p.A276G,BioMed LM,NA,venetoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+1,TP53 p.A276G,BioMed LM,NA,navitoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+1,CDH1 p.D433N,ChatGPT,NA,pembrolizumab,NCT03588001,NA,NA,Phase 2,0,0,0,0,0,0,0,0
+1,CDH1 p.D433N,BioMed LM,NA,afatinib and ibrutinib,NA,NA,combination,NA,0,0,0,0,1,0,0,0
+1,CDH1 p.D433N,BioMed LM,NA,wnt pathway inhibitors,NA,NA,WNT pathway inhibitors,NA,0,0,0,0,0,1,0,0
+1,CDH1 p.D433N,BioMed LM,NA,cisplatin and pemetrexed,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+1,ZFHX3 p.F2994L,Galactica,v2,egfr inhibitors,NA,NA,EGFR,NA,0,1,0,0,0,0,0,0
+1,ZFHX3 p.F2994L,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+1,ZFHX3 p.F2994L,BioMed LM,NA,idelalisib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+1,ZFHX3 p.F2994L,BioMed LM,NA,venetoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+1,ZFHX3 p.F2994L,BioMed LM,NA,gefitinib,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+1,PTPRS p.R238*,BioMed LM,NA,neratinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+1,PTPRS p.R238*,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+1,PTPRS p.R238*,BioMed LM,NA,gefitinib,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+1,Unspecified,Perplexity.ai,NA,lacp/acp-l dosing,NCT04988295,NA,NA,NA,0,0,0,0,0,0,0,1
+1,Unspecified,Perplexity.ai,NA,tak-788,NCT02716116,NA,NA,NA,0,0,0,0,0,0,0,1
+1,KRAS p.G13D,human,NA,avutometinib and defactinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,human,NA,binimetinib and hcq and bevacizumab,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,human,NA,trametinib and hcq,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+1,PTPRS p.R238*,human,NA,shp099,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,CiVIC,NA,erlotinib and gefitinib,15696205,NA,Resistance,NA,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,CiVIC,NA,cetuximab,20978259,NA,Colorectal cancer,NA,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,CiVIC,NA,trametinib,24915778,NA,Pancreatic Adenocarcinoma,NA,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,CiVIC,NA,dactolisib and selumetinib,22392911,NA,Colorectal Cancer,NA,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,OncoKB,NA,cobimetinib,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,OncoKB,NA,trametinib,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,OncoKB,NA,binimetinib,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,Perplexity.ai,NA,sotorasib,Blog,https://www.cancer.gov/news-events/cancer-currents-blog/2022/kras-targeted-drugs-as-immunotherapy,NA,NA,0,0,0,0,0,0,1,0
+2,KRAS p.G12V,Perplexity.ai,NA,bevacizumab,34336658,https://www.frontiersin.org/articles/10.3389/fonc.2021.662589/full,NA,Case report,0,0,0,0,0,0,0,1
+2,KRAS p.G12V,ChatGPT,NA,sotorasib,NCT03785249,NA,NA,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,ChatGPT,NA,temsirolimus,NCT01841723,NA,NA,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,Galactica,v2,mek inhibitors,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+2,CDKN2C p.L65F,Perplexity.ai,NA,gemcitabine – cisplatin combination,NA,NA,NA,NA,0,0,0,0,0,0,1,0
+2,BCORL p.R1332*,Perplexity.ai,NA,fluorouracil and leucovorin/gemcitabine/cisplatin,NCT00082706,NA,NA,Phase 2,0,0,0,0,0,0,0,1
+2,TP53 p.H214fs*7,ChatGPT,NA,apr-246,NCT03588078,NA,NA,NA,0,0,0,0,0,0,0,0
+2,TP53 p.H214fs*8,ChatGPT,NA,idasanutlin,NCT02780128,NA,MDM2 inhibitor,NA,0,0,0,0,0,0,0,0
+2,MAP3K1 p.T949_E950insT,BioMed LM,NA,trametinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,MYCN p.E47fs*8,BioMed LM,NA,"vincristine, doxorubicin, cyclophosphamide and etoposide",NA,NA,chemotherapy; combination,NA,0,0,0,1,0,0,0,0
+2,MYCN p.E47fs*8,BioMed LM,NA,jq1,NA,NA,NA,Case report,0,0,0,0,0,1,0,0
+2,MYCN p.E47fs*8,BioMed LM,NA,romidepsin,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,MYCN p.E47fs*8,BioMed LM,NA,panobinostat,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,MYCN p.E47fs*8,BioMed LM,NA,vorinostat,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,CTNNA1 p.K577_L578 > TKL,BioMed LM,NA,icg-001,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,CTNNA1 p.K577_L578 > TKL,BioMed LM,NA,nilotinib,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+2,JAK1 p.I597M,ChatGPT,NA,ruxolitinib,NCT02568796,NA,NA,NA,0,0,0,0,0,0,0,0
+2,JAK1 p.I597M,ChatGPT,NA,tofacitinib,NCT01565449,NA,NA,NA,0,0,0,0,0,0,0,0
+2,JAK1 p.I597M,BioMed LM,NA,ruxolitinib,NA,NA,NA,NA,0,0,0,1,1,0,0,0
+2,JAK1 p.I597M,BioMed LM,NA,tofacitinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,PIK3CA amplification (n>6),ChatGPT,NA,everolimus,NCT03489100,NA,NA,NA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),ChatGPT,NA,temsirolimus,NCT01841723,NA,NA,NA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),BioMed LM,NA,everolimus,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,PIK3CA amplification (n>6),BioMed LM,NA,temsirolimus,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,MYC amplification (n>6),ChatGPT,NA,omomyc,NCT04003649,NA,NA,NA,0,0,0,0,0,0,0,0
+2,MYC amplification (n>6),ChatGPT,NA,jq1,NCT02098284,NA,NA,NA,0,0,0,0,0,0,0,0
+2,MYC amplification (n>6),BioMed LM,NA,venetoclax and rituximab,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,MYCL1 amplification (n>6),BioMed LM,NA,venetoclax and rituximab,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,MYCL1 amplification (n>6),Galactica,v2,doxorubicin,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+2,SOX2 amplification (n>6),BioMed LM,NA,erlotinib,NA,NA,EGFR inhibitor,NA,0,0,0,0,0,1,0,0
+2,SOX2 amplification (n>6),BioMed LM,NA,gefitinib,NA,NA,EGFR inhibitor,NA,0,0,0,0,0,1,0,0
+2,SOX2 amplification (n>6),BioMed LM,NA,bevacizumab,NA,NA,VEGF,NA,0,0,0,0,0,1,0,0
+2,MUTYH amplification (n>6),Galactica,v1,5-fluorouracil,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+2,MUTYH amplification (n>6),BioMed LM,NA,sunitinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,MUTYH amplification (n>6),BioMed LM,NA,5-fluorouracil,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+2,MUTYH amplification (n>6),BioMed LM,NA,leucovorin,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+2,MUTYH amplification (n>6),BioMed LM,NA,oxaliplatin,NA,NA,NA,NA,0,0,0,1,1,0,0,0
+2,MUTYH amplification (n>6),BioMed LM,NA,temozolomide,NA,NA,NA,NA,0,0,0,0,0,1,0,0
+2,MUTYH amplification (n>6),BioMed LM,NA,panitumumab,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,MUTYH amplification (n>6),BioMed LM,NA,oxaliplatin,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,MUTYH amplification (n>6),BioMed LM,NA,vandetanib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,MUTYH amplification (n>6),BioMed LM,NA,sorafenib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+2,JAK1 p.I597M,human,NA,ruxolitinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),human,NA,pictilisib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),human,NA,alpelisib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,CiVIC,NA,sotorasib,"34096690, NCT03600883",NA,Lung Non-small Cell Carcinoma,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,CiVIC,NA,dactolisib and selumetinib,22392911,NA,Colorectal Cancer,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,CiVIC,NA,therapeutic tumor infiltrating lymphocytes,27959684,NA,Colorectal Cancer,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,CiVIC,NA,docetaxel and selumetinib,26125448,NA,Lung Non-small Cell Carcinoma,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,CiVIC,NA,akt inhibitor mk2206,22025163,NA,Pancreatic Carcinoma,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,CiVIC,NA,palbociclib,20609353,NA,Lung Non-small Cell Carcinoma,NA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),CiVIC,NA,pictilisib,25370471,NA,Epithelial Ovarian Cancer,NA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),CiVIC,NA,alpelisib,24608574,NA,Stomach Carcinoma,NA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),CiVIC,NA,taselisib,26589432,NA,Head And Neck Squamous Cell Carcinoma,NA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),CiVIC,NA,sulindac and aspirin and ibuprofen,30683736,NA,Head And Neck Squamous Cell Carcinoma,NA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),CiVIC,NA,lapatinib and dactolisib,19010894,NA,Her2-receptor Positive Breast Cancer,NA,0,0,0,0,0,0,0,0
+2,MYC amplification (n>6),CiVIC,NA,jq1 and panobinostat,26733615,NA,Neuroblastoma,NA,0,0,0,0,0,0,0,0
+2,MYC amplification (n>6),CiVIC,NA,fact complex-targeting curaxin cbl0137,26537256,NA,Neuroblastoma,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,OncoKB,NA,cobimetinib,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,OncoKB,NA,trametinib,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,OncoKB,NA,binimetinib,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,OncoKB,NA,sotorasib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,OncoKB,NA,adagrasib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,OncoKB,NA,adagrasib and cetuximab,NA,NA,Colorectal cancer,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,OncoKB,NA,rmc-6236,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+2,FANCL p.T367fs*12+,OncoKB,NA,olaparib,NA,NA,"Prostate Cancer, NOS, Prostate Cancer",NA,0,0,0,0,0,0,0,0
+3,Unspecified,Perplexity.ai,NA,selinexor,NA,https://www.clinicaltrialsregister.eu/ctr-search/search?query=Thymic+Carcinoma,NA,Phase II,0,0,0,0,0,0,0,1
+3,Unspecified,Perplexity.ai,NA,amrubicin,NA,https://www.cancer.net/cancer-types/thymoma-and-thymic-carcinoma/latest-research,NA,NA,0,0,0,0,0,0,0,1
+3,BRCA2 p.K3326*,Perplexity.ai,NA,parp inhibitors,NA,NA,NA,NA,0,0,0,0,0,0,1,0
+3,BRCA2 p.K3326*,ChatGPT,NA,olaparib and talazoparib,32632298,NA,Combination,Preclinical,0,0,0,0,0,0,0,0
+3,BRCA2 p.K3326*,Galactica,v2,carboplatin and paclitaxel,NA,NA,Combination,NA,0,1,0,0,0,0,0,0
+3,BRCA2 p.K3326*,BioMed LM,NA,cisplatin and etoposide,NA,NA,Combination,NA,0,0,1,0,0,0,0,0
+3,BRCA2 p.K3326*,BioMed LM,NA,carboplatin and paclitaxel,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+3,BRCA2 p.K3326*,BioMed LM,NA,olaparib,NA,NA,PARP inhibitor,NA,0,0,0,0,1,0,0,0
+3,BRCA2 p.K3326*,BioMed LM,NA,veliparib,NA,NA,PARP inhibitor,NA,0,0,0,0,1,0,0,0
+3,BRCA2 p.K3326*,BioMed LM,NA,niraparib,NA,NA,PARP inhibitor,NA,0,0,0,0,1,0,0,0
+3,BRCA2 p.K3326*,BioMed LM,NA,rucaparib,NA,NA,PARP inhibitor,NA,0,0,0,0,1,0,0,0
+3,BRCA2 p.K3326*,BioMed LM,NA,talazoparib,NA,NA,PARP inhibitor,NA,0,0,0,0,1,0,0,0
+3,BRCA2 p.K3326*,BioMed LM,NA,azd0156,NA,NA,ATM inhibitor,NA,0,0,0,0,1,0,0,0
+3,BRCA2 p.K3326*,BioMed LM,NA,ku-60019,NA,NA,ATM inhibitor,NA,0,0,0,0,1,0,0,0
+3,BRCA2 p.K3326*,BioMed LM,NA,ku-55933,NA,NA,ATM inhibitor,NA,0,0,0,0,1,0,0,0
+3,SMAD4 p.C363R,Perplexity.ai,NA,avelumab,NCT03076554,https://www.cancer.net/cancer-types/thymoma-and-thymic-carcinoma/latest-research,NA,NA,0,0,0,0,0,0,0,1
+3,SMAD4 p.C363R,Perplexity.ai,NA,pt-112,NCT05104736,NA,NA,Phase II,0,0,0,0,0,0,0,1
+3,SMAD4 p.C363R,Perplexity.ai,NA,pembrolizumab and sunitinib,NCT03463460,NA,NA,Phase II,0,0,0,0,0,0,0,1
+3,SMAD4 p.C363R,ChatGPT,NA,ly2157299,32632298,NA,NA,Preclinical,0,0,0,0,0,0,0,0
+3,SMAD4 p.C363R,ChatGPT,NA,galunisertib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+3,SMAD4 p.C363R,Galactica,v2,carboplatin and paclitaxel,NA,NA,Combination,NA,0,1,0,0,0,0,0,0
+3,SMAD4 p.C363R,BioMed LM,NA,cisplatin and etoposide,NA,NA,Combination,NA,0,0,0,1,0,0,0,0
+3,SMAD4 p.C363R,BioMed LM,NA,ibrutinib,NA,NA,Bruton's tyrosine kinase inhibitor,NA,0,0,0,0,1,0,0,0
+3,SMAD4 p.C363R,BioMed LM,NA,galunisertib,NA,NA,TGF-β receptor inhibitor,NA,0,0,0,0,1,0,0,0
+3,TP53 p.305fs,Perplexity.ai,NA,paclitaxel,NA,https://www.mycancergenome.org/content/disease/thymic-carcinoma,NA,NA,0,0,0,0,0,0,0,1
+3,TP53 p.305fs,Perplexity.ai,NA,pembrolizumab,NA,https://www.mycancergenome.org/content/disease/thymic-carcinoma,NA,NA,0,0,0,0,0,0,0,1
+3,TP53 p.305fs,Perplexity.ai,NA,nivolumab,NA,https://www.mycancergenome.org/content/disease/thymic-carcinoma,NA,NA,0,0,0,0,0,0,0,1
+3,TP53 p.305fs,Perplexity.ai,NA,dasatinib,NA,https://www.frontiersin.org/articles/10.3389/fonc.2021.667148/full,sensitive,NA,0,0,0,0,0,0,0,1
+3,TP53 p.305fs,Perplexity.ai,NA,imatinib,NA,https://www.frontiersin.org/articles/10.3389/fonc.2021.667148/full,sensitive,NA,0,0,0,0,0,0,0,1
+3,TP53 p.305fs,Perplexity.ai,NA,sorafenib,NA,https://www.frontiersin.org/articles/10.3389/fonc.2021.667148/full,sensitive,NA,0,0,0,0,0,0,0,1
+3,TP53 p.305fs,Perplexity.ai,NA,sunitinib,NA,https://www.frontiersin.org/articles/10.3389/fonc.2021.667148/full,sensitive,NA,0,0,0,0,0,0,0,1
+3,TP53 p.305fs,Perplexity.ai,NA,pt-112,NCT05104736,NA,NA,Phase II,0,0,0,0,0,0,0,1
+3,TP53 p.305fs,ChatGPT,NA,idasanutlin and apg-115,32632298,NA,Combination,NA,0,0,0,0,0,0,0,0
+3,TP53 p.305fs,BioMed LM,NA,cisplatin and etoposide,NA,NA,Combination,NA,0,0,0,1,0,0,0,0
+3,TP53 p.305fs,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,TP53 p.305fs,BioMed LM,NA,venetoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,TP53 p.305fs,BioMed LM,NA,navitoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,TP53 p.305fs,BioMed LM,NA,parp inhibitors,NA,NA,PARP inhibitor,NA,0,0,0,0,0,1,0,0
+3,CDKN1B p.K100N,Perplexity.ai,NA,pt-112,NCT05104736,NA,NA,Phase II,0,0,0,0,0,0,0,1
+3,CDKN1B p.K100N,Perplexity.ai,NA,milciclib maleate,NCT01011439,NA,NA,NA,0,0,0,0,0,0,0,1
+3,CDKN1B p.K100N,Perplexity.ai,NA,pembrolizumab and lenvatinib,NCT04710628,NA,NA,NA,0,0,0,0,0,0,0,1
+3,CDKN1B p.K100N,BioMed LM,NA,cisplatin and etoposide,NA,NA,Combination,NA,0,0,0,1,0,0,0,0
+3,CDKN1B p.K100N,BioMed LM,NA,romidepsin,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,CDKN1B p.K100N,BioMed LM,NA,dinaciclib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,CDKN1B p.K100N,BioMed LM,NA,flavopiridol,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,CDKN1B p.K100N,BioMed LM,NA,cdk4/6 inhibitors,NA,NA,CDK4/6 inhibitor,NA,0,0,0,0,0,1,0,0
+3,ATM p.E1666*,Perplexity.ai,NA,pt-112,NCT05104736,NA,NA,Phase II,0,0,0,0,0,0,0,1
+3,ATM p.E1666*,Perplexity.ai,NA,pembrolizumab and lenvatinib,NCT04710628,NA,NA,NA,0,0,0,0,0,0,0,1
+3,ATM p.E1666*,Perplexity.ai,NA,avelumab,NCT03076554,NA,NA,NA,0,0,0,0,0,0,0,1
+3,ATM p.E1666*,Perplexity.ai,NA,milciclib maleate,NCT01011439,NA,NA,NA,0,0,0,0,0,0,0,1
+3,ATM p.E1666*,Perplexity.ai,NA,imc-a12,NCT00965250,NA,NA,NA,0,0,0,0,0,0,0,1
+3,ATM p.E1666*,ChatGPT,NA,olaparib and talazoparib,32632298,NA,Combination,Preclinical,0,0,0,0,0,0,0,0
+3,ATM p.E1666*,BioMed LM,NA,cisplatin and etoposide,NA,NA,Combination,NA,0,0,0,1,0,0,0,0
+3,ATM p.E1666*,BioMed LM,NA,ibrutinib,NA,NA,BTK inhibitor,NA,0,0,0,0,1,0,0,0
+3,ATM p.E1666*,BioMed LM,NA,idelalisib,NA,NA,PI3K inhibitor,NA,0,0,0,0,1,0,0,0
+3,ATM p.E1666*,BioMed LM,NA,parp inhibitors,NA,NA,PARP inhibitor,NA,0,0,0,0,0,1,0,0
+3,MAP3K8 p.H236Y,Perplexity.ai,NA,amrubicin,NA,https://www.cancer.net/cancer-types/thymoma-and-thymic-carcinoma/latest-research,NA,NA,0,0,0,0,0,0,0,1
+3,MAP3K8 p.H236Y,Perplexity.ai,NA,avelumab,NA,https://www.cancer.net/cancer-types/thymoma-and-thymic-carcinoma/latest-research,NA,NA,0,0,0,0,0,0,0,1
+3,MAP3K8 p.H236Y,BioMed LM,NA,carboplatin and paclitaxel,NA,NA,Combination,NA,0,0,0,1,0,0,0,0
+3,MAP3K8 p.H236Y,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,MAP3K8 p.H236Y,BioMed LM,NA,idelalisib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,MAP3K8 p.H236Y,BioMed LM,NA,venetoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,MAP3K8 p.H236Y,BioMed LM,NA,mek inhibitors,NA,NA,MEK inhibitor,NA,0,0,0,0,0,1,0,0
+3,TRAF1 p.R70H,BioMed LM,NA,pyridostigmine and prednisone,NA,NA,Combination,NA,0,0,0,1,0,0,0,0
+3,TRAF1 p.R70H,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,TRAF1 p.R70H,BioMed LM,NA,idelalisib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,TRAF1 p.R70H,BioMed LM,NA,venetoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,TRAF1 p.R70H,BioMed LM,NA,nf-κb pathway inhibitors,NA,NA,NF-κB pathway inhibitor,NA,0,0,0,0,0,1,0,0
+3,HDAC2 p.R409*,Perplexity.ai,NA,pembrolizumab,29395863,NA,NA,Phase II,0,0,0,0,0,0,0,1
+3,HDAC2 p.R409*,ChatGPT,NA,vorinostat and romidepsin,32632298,NA,Combination,Preclinical,0,0,0,0,0,0,0,0
+3,HDAC2 p.R409*,BioMed LM,NA,romidepsin,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,HDAC2 p.R409*,BioMed LM,NA,belinostat,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,HDAC2 p.R409*,BioMed LM,NA,panobinostat,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,HDAC2 p.R409*,BioMed LM,NA,vorinostat,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,HDAC2 p.R409*,BioMed LM,NA,hdac inhibitors,NA,NA,HDAC inhibitor,NA,0,0,0,0,0,1,0,0
+3,Fusion genes,ChatGPT,NA,pembrolizumab,32632298,NA,Immune checkpoint inhbitor,NA,0,0,0,0,0,0,0,0
+3,Fusion genes,ChatGPT,NA,nivolumab,32632298,NA,Immune checkpoint inhbitor,NA,0,0,0,0,0,0,0,0
+3,TMEM111-TDRD3 fusion,Perplexity.ai,NA,surgery,NA,NA,Surgery,NA,0,0,0,0,0,0,1,0
+3,TMEM111-TDRD3 fusion,Perplexity.ai,NA,radiation,NA,NA,Radiation,NA,0,0,0,0,0,0,1,0
+3,TMEM111-TDRD3 fusion,Perplexity.ai,NA,pembrolizumab,NA,https://www.onclive.com/view/a-newly-identified-genetic-mutation-may-be-key-to-developing-thymic-cancer-treatment,NA,NA,0,0,0,0,0,0,1,0
+3,TMEM111-TDRD3 fusion,Perplexity.ai,NA,avelumab,NA,https://www.onclive.com/view/a-newly-identified-genetic-mutation-may-be-key-to-developing-thymic-cancer-treatment,NA,NA,0,0,0,0,0,0,1,0
+3,TMEM111-TDRD3 fusion,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,TMEM111-TDRD3 fusion,BioMed LM,NA,idelalisib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,TMEM111-TDRD3 fusion,BioMed LM,NA,venetoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,TMEM111-TDRD3 fusion,BioMed LM,NA,pi3k/akt/mtor pathway inhibitors,NA,NA,PI3K/AKT/mTOR pathway inhibitor,NA,0,0,0,0,0,1,0,0
+3,PRKDC-CDH17 fusion,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,PRKDC-CDH17 fusion,BioMed LM,NA,olaparib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,PRKDC-CDH17 fusion,BioMed LM,NA,talazoparib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,PRKDC-CDH17 fusion,BioMed LM,NA,parp inhibitors,NA,NA,PARP inhibitor,NA,0,0,0,0,0,1,0,0
+3,EXT1-MAGI2 fusion,Galactica,v2,carboplatin and paclitaxel,NA,NA,Combination,NA,0,1,0,0,0,0,0,0
+3,EXT1-MAGI2 fusion,BioMed LM,NA,romidepsin,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,EXT1-MAGI2 fusion,BioMed LM,NA,panobinostat,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,EXT1-MAGI2 fusion,BioMed LM,NA,vorinostat,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,EXT1-MAGI2 fusion,BioMed LM,NA,hdac inhibitors,NA,NA,HDAC inhibitor,NA,0,0,0,0,0,1,0,0
+3,ERBB2 RNA overexpression,Galactica,v1,imatinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,ChatGPT,NA,trastuzumab,NCT01309085,NA,HER2 targeting,Phase II,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,BioMed LM,NA,trastuzumab,NA,NA,"low response rate, not recommended, anti-HER2 monoclonal antibodies",NA,0,0,1,1,1,1,0,0
+3,ERBB2 RNA overexpression,BioMed LM,NA,pertuzumab,NA,NA,Anti-HER2 monoclonal antibodies,NA,0,0,1,0,1,1,0,0
+3,ERBB2 RNA overexpression,BioMed LM,NA,lapatinib,NA,NA,NA,NA,0,0,1,0,1,0,0,0
+3,ERBB2 RNA overexpression,BioMed LM,NA,afatinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,ERBB2 RNA overexpression,BioMed LM,NA,neratinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,ERBB2 RNA overexpression,BioMed LM,NA,trastuzumab emtansine,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,ERBB2 RNA overexpression,BioMed LM,NA,pertuzumab emtansine,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,ERBB3 RNA overexpression,Perplexity.ai,NA,mir-205-5p,NA,https://www.nature.com/articles/cddis2015192,Downregulate ErbB/HER receptors,NA,0,0,0,0,0,0,1,0
+3,ERBB3 RNA overexpression,Perplexity.ai,NA,imatinib,NA,https://link.springer.com/article/10.1007/s12253-016-0144-8,NA,NA,0,0,0,0,0,0,1,0
+3,ERBB3 RNA overexpression,Perplexity.ai,NA,kit targets,NA,https://jtd.amegroups.com/article/view/2487/html,KIT target,NA,0,0,0,0,0,0,1,0
+3,ERBB3 RNA overexpression,ChatGPT,NA,trastuzumab,NCT01309085,NA,HER2 targeting,Phase II,0,0,0,0,0,0,0,0
+3,ERBB3 RNA overexpression,BioMed LM,NA,carboplatin and paclitaxel,NA,NA,Combination,NA,0,0,0,1,0,0,0,0
+3,ERBB3 RNA overexpression,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,ERBB3 RNA overexpression,BioMed LM,NA,afatinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,ERBB3 RNA overexpression,BioMed LM,NA,neratinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,ERBB3 RNA overexpression,BioMed LM,NA,afatinib and neratinib,NA,NA,Combination,NA,0,0,0,0,1,0,0,0
+3,PDGFRB RNA overexpression,Perplexity.ai,NA,sunitinib,NA,https://www.nature.com/articles/6605740,NA,NA,0,0,0,0,0,0,1,0
+3,PDGFRB RNA overexpression,Perplexity.ai,NA,vps9d1-as1 inhibitor,NA,https://elifesciences.org/articles/79811,"TGF-β receptor inhibitor, ISG inhibitor",NA,0,0,0,0,0,0,1,0
+3,PDGFRB RNA overexpression,Perplexity.ai,NA,egfr targets,NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3675690,EGFR target,NA,0,0,0,0,0,0,1,0
+3,PDGFRB RNA overexpression,Galactica,v1,trastuzumab,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+3,PDGFRB RNA overexpression,ChatGPT,NA,imatinib,NA,NA,Tyrosine kinase inhibitor,Preclinical,0,0,0,0,0,0,0,0
+3,PDGFRB RNA overexpression,BioMed LM,NA,imatinib mesylate,NA,NA,Tyrosine kinase inhibitor,NA,0,0,0,1,1,1,0,0
+3,PDGFRB RNA overexpression,BioMed LM,NA,sunitinib malate,NA,NA,Tyrosine kinase inhibitor,NA,0,0,0,0,1,1,0,0
+3,PDGFRB RNA overexpression,BioMed LM,NA,pazopanib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,PDGFRB RNA overexpression,BioMed LM,NA,dasatinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,PDGFRB RNA overexpression,BioMed LM,NA,nilotinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,PDGFRB RNA overexpression,BioMed LM,NA,regorafenib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,PDGFRB RNA overexpression,BioMed LM,NA,trametinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,PDGFRB RNA overexpression,BioMed LM,NA,vemurafenib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+3,TGFA RNA overexpression,BioMed LM,NA,thymectomy,NA,NA,Surgery,NA,0,0,1,0,0,0,0,0
+3,TGFA RNA overexpression,BioMed LM,NA,cisplatin and etoposide,NA,NA,Combination,NA,0,0,0,1,0,0,0,0
+3,TGFA RNA overexpression,BioMed LM,NA,ixazomib,NA,NA,Proteasome inhibitor,NA,0,0,0,0,1,0,0,0
+3,TGFA RNA overexpression,BioMed LM,NA,galunisertib,NA,NA,TGF-β receptor inhibitor,NA,0,0,0,0,1,0,0,0
+3,TGFA RNA overexpression,BioMed LM,NA,ixazomib and galunisertib,NA,NA,Combination,NA,0,0,0,0,1,0,0,0
+3,TGFA RNA overexpression,BioMed LM,NA,antisense oligonucleotides,NA,NA,NA,NA,0,0,0,0,0,1,0,0
+3,EGFR RNA overexpression,ChatGPT,NA,erlotinib,NA,NA,Tyrosine kinase inhibitor,NA,0,0,0,0,0,0,0,0
+3,EGFR RNA overexpression,ChatGPT,NA,afatinib,NA,NA,Tyrosine kinase inhibitor,NA,0,0,0,0,0,0,0,0
+3,EGFR RNA overexpression,ChatGPT,NA,"erloinib, afatinib, and erdafitinib",32632298,NA,Combination,Preclinical,0,0,0,0,0,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,hdac inhibitors,NA,NA,HDAC inhibitor,NA,0,0,1,0,0,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,erlotinib,NA,NA,EGFR inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,gefitinib,NA,NA,EGFR inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,afatinib,NA,NA,EGFR inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,cetuximab,NA,NA,EGFR inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,panitumumab,NA,NA,EGFR inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,nimotuzumab,NA,NA,EGFR inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,vandetanib,NA,NA,EGFR inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,everolimus,NA,NA,mTOR inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,temsirolimus,NA,NA,mTOR inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,ridaforolimus,NA,NA,mTOR inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,trametinib,NA,NA,MEK inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,cobimetinib,NA,NA,MEK inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,selumetinib,NA,NA,MEK inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,bkm120,NA,NA,PI3K inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,byl719,NA,NA,PI3K inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,xl147,NA,NA,PI3K inhibitor,NA,0,0,0,0,1,0,0,0
+3,EGFR RNA overexpression,BioMed LM,NA,antisense oligonucleotides,NA,NA,NA,NA,0,0,0,0,0,1,0,0
+3,EGFR RNA overexpression,Perplexity.ai,NA,cetuximab,NA,https://www.researchgate.net/publication/5404656_Mutational_status_of_EGFR_and_KIT_in_thymoma_and_thymic_carcinoma,NA,NA,0,0,0,0,0,0,1,0
+3,EGFR RNA overexpression,Perplexity.ai,NA,apatinib,NA,https://www.researchgate.net/publication/5404656_Mutational_status_of_EGFR_and_KIT_in_thymoma_and_thymic_carcinoma,NA,NA,0,0,0,0,0,0,1,0
+3,EGFR RNA overexpression,Perplexity.ai,NA,gefitinib,NA,https://www.sciencedirect.com/science/article/pii/S1556086415326228,NA,NA,0,0,0,0,0,0,1,0
+3,EGFR RNA overexpression,Perplexity.ai,NA,erlotinib,NA,https://www.sciencedirect.com/science/article/pii/S1556086415326228,NA,NA,0,0,0,0,0,0,1,0
+3,EGFR RNA overexpression,Perplexity.ai,NA,immunotherapy,NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3675690,NA,NA,0,0,0,0,0,0,1,0
+3,FGFR3 RNA overexpression,ChatGPT,NA,"erloinib, afatinib, and erdafitinib",32632298,NA,Combination,Preclinical,0,0,0,0,0,0,0,0
+3,FGFR3 RNA overexpression,ChatGPT,NA,erdafitinib,NA,NA,FGFR inhibitor,NA,0,0,0,0,0,0,0,0
+3,FGFR3 RNA overexpression,BioMed LM,NA,ibrutinib,NA,NA,Bruton's tyrosine kinase inhibitor,NA,0,0,0,0,1,0,0,0
+3,FGFR3 RNA overexpression,BioMed LM,NA,azd4547,NA,NA,FGFR inhibitor,Phase II,0,0,0,1,1,1,0,0
+3,FGFR3 RNA overexpression,BioMed LM,NA,bgj398,NA,NA,FGFR inhibitor,NA,0,0,0,0,0,1,0,0
+3,MET RNA overexpression,ChatGPT,NA,crizotinib,32632298,NA,Tyrosine kinase inhibitor,Preclinical,0,0,0,0,0,0,0,0
+3,MET RNA overexpression,BioMed LM,NA,crizotinib,NA,NA,Tyrosine kinase inhibitor,NA,0,0,1,1,1,1,0,0
+3,MET RNA overexpression,BioMed LM,NA,cabozantinib,NA,NA,Tyrosine kinase inhibitor,NA,0,0,0,0,1,0,0,0
+3,MET RNA overexpression,BioMed LM,NA,tivantinib,NA,NA,Tyrosine kinase inhibitor,NA,0,0,0,0,1,0,0,0
+3,MET RNA overexpression,BioMed LM,NA,foretinib,NA,NA,Tyrosine kinase inhibitor,NA,0,0,0,0,1,0,0,0
+3,MET RNA overexpression,BioMed LM,NA,amg 337,NA,NA,MET inhibitor,NA,0,0,0,0,1,0,0,0
+3,MET RNA overexpression,BioMed LM,NA,ficlatuzumab,NA,NA,MET inhibitor,NA,0,0,0,0,1,0,0,0
+3,ATM p.E1666*,human,NA,olaparib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+3,ATM p.E1666*,human,NA,olaparib and irinotecan,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+3,ATM p.E1666*,human,NA,berzosertib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,human,NA,trastuzumab-deruxtecan,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+3,MET RNA overexpression,human,NA,crizotinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+3,MET RNA overexpression,human,NA,telistuzumab-vedotin,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+3,BRCA2 p.K3326*,CiVIC,NA,temozolomide and olaparib,32043779,NA,Glioblastoma,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,CiVIC,NA,trastuzumab emtansine,"28526536, NCT00829166",NA,Her2-receptor Positive Breast Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,CiVIC,NA,lapatinib,28061634,NA,Head And Neck Squamous Cell Carcinoma,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,CiVIC,NA,paclitaxel and trastuzumab,23826550,NA,Salivary Gland Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,CiVIC,NA,"capecitabine, zoledronic acid and trastuzumab",20504363,NA,Salivary Gland Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB3 RNA overexpression,CiVIC,NA,afatinib and selumetinib,24685132,NA,NA,NA,0,0,0,0,0,0,0,0
+3,PDGFRB RNA Overexpression,CiVIC,NA,sunitinib,29760553,NA,NA,NA,0,0,0,0,0,0,0,0
+3,FGFR3 RNA Overexpression,CiVIC,NA,"tyrosine kinase inhibitor su5402, dovitinib and pd173074",21119661,NA,Bladder Carcinoma,NA,0,0,0,0,0,0,0,0
+3,FGFR3 RNA Overexpression,CiVIC,NA,r3mab,19381019,NA,NA,NA,0,0,0,0,0,0,0,0
+3,MET RNA overexpression,CiVIC,NA,crizotinib,24140933,NA,Uveal Melanoma,NA,0,0,0,0,0,0,0,0
+3,BRCA2 p.K3326*,OncoKB,NA,niraparib,NA,NA,"Ovarian Cancer, Ovary/Fallopian Tube, Peritoneal Serous Carcinoma",NA,0,0,0,0,0,0,0,0
+3,BRCA2 p.K3326*,OncoKB,NA,olaparib,NA,NA,"Ovarian Cancer, Ovary/Fallopian Tube, Peritoneal Serous Carcinoma",NA,0,0,0,0,0,0,0,0
+3,BRCA2 p.K3326*,OncoKB,NA,olaparib and bevacizumab,NA,NA,"Ovarian Cancer, Ovary/Fallopian Tube, Peritoneal Serous Carcinoma",NA,0,0,0,0,0,0,0,0
+3,BRCA2 p.K3326*,OncoKB,NA,rucaparib,NA,NA,"Ovarian Cancer, Ovary/Fallopian Tube, Peritoneal Serous Carcinoma",NA,0,0,0,0,0,0,0,0
+3,BRCA2 p.K3326*,OncoKB,NA,talazoparib,NA,NA,Breast Cancer,NA,0,0,0,0,0,0,0,0
+3,ATM p.E1666*,OncoKB,NA,olaparib,NA,NA,"Prostate Cancer, NOS",NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,trastuzumab emtansine,NA,NA,Breast Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,trastuzumab-deruxtecan,NA,NA,Breast Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,margetuximab,NA,NA,Breast Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,lapatinib and capecitabine,NA,NA,Breast Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,lapatinib and letrozole,NA,NA,Breast Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,margetuximab,NA,NA,Breast Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,neratinib,NA,NA,Breast Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,neratinib and capecitabine,NA,NA,Breast Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,trastuzumab and pertuzumab,NA,NA,Breast Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,trastuzumab and tucatinib,NA,NA,Colorectal Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,pembrolizumab and trastuzumab,NA,NA,Esophagogastric Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,trastuzumab and carboplatin-taxol regimen,NA,NA,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,OncoKB,NA,lapatinib and trastuzumab,NA,NA,Colorectal Cancer,NA,0,0,0,0,0,0,0,0
+3,MET RNA overexpression,OncoKB,NA,telisotuzumab-vedotin,NA,NA,Non-Small Cell Lung Cancer,NA,0,0,0,0,0,0,0,0
+3,MET RNA overexpression,OncoKB,NA,tepotinib,NA,NA,Non-Small Cell Lung Cancer,NA,0,0,0,0,0,0,0,0
+3,MET RNA overexpression,OncoKB,NA,crizotinib,NA,NA,Non-Small Cell Lung Cancer,NA,0,0,0,0,0,0,0,0
+3,MET RNA overexpression,OncoKB,NA,capmatinib,NA,NA,Non-Small Cell Lung Cancer,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,Perplexity.ai,NA,bkm120,NCT01501604,NA,NA,Phase 2,0,0,0,0,0,0,0,1
+4,PIK3CA p.E545K,Perplexity.ai,NA,alpelisib and fulvestrant,NA,https://www.frontiersin.org/articles/10.3389/fonc.2021.644737/full,combination,NA,0,0,0,0,0,0,0,1
+4,PIK3CA p.E545K,Perplexity.ai,NA,t-dm1,NA,https://ascopubs.org/doi/full/10.1200/PO.21.00370,NA,NA,0,0,0,0,0,0,0,1
+4,PIK3CA p.E545K,Perplexity.ai,NA,neratinib,NA,https://ascopubs.org/doi/full/10.1200/PO.21.00370,NA,NA,0,0,0,0,0,0,0,1
+4,PIK3CA p.E545K,ChatGPT,NA,alpelisib,"NCT02437318, NCT01870505, NCT02632071, NCT03207591, NCT04195750",NA,PI3K inhibitor,Phase I/II,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,ChatGPT,NA,buparlisib,"NCT02437318, NCT01870505, NCT02632071, NCT03207591, NCT04195750",NA,PI3K inhibitor,Phase I/II,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,ChatGPT,NA,taselisib,"NCT02437318, NCT01870505, NCT02632071, NCT03207591, NCT04195750",NA,PI3K inhibitor,Phase I/II,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,ChatGPT,NA,duvelisib,"NCT02437318, NCT01870505, NCT02632071, NCT03207591, NCT04195750",NA,PI3K inhibitor,Phase I/II,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,ChatGPT,NA,"pi3k, fgfr and mek inhibitors",NA,NA,"PI3K, FGFR and MEK inhibitors",NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,BioMed LM,NA,ibrutinib,NA,NA,"PI3K, FGFR and MEK inhibitors",NA,0,0,0,0,1,0,0,0
+4,PIK3CA p.E545K,BioMed LM,NA,everolimus,NA,NA,NA,NA,0,0,1,0,0,0,0,0
+4,PIK3CA p.E545K,BioMed LM,NA,temsirolimus,NA,NA,NA,NA,0,0,1,0,0,0,0,0
+4,PIK3CA p.E545K,BioMed LM,NA,idelalisib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+4,PIK3CA p.E545K,BioMed LM,NA,copanlisib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+4,MAPK1 p.E322K,Perplexity.ai,NA,erlotinib,NA,https://www.nature.com/articles/s41525-022-00293-1,EGFR kinase inhibitors,NA,0,0,0,0,0,0,1,1
+4,MAPK1 p.E322K,Perplexity.ai,NA,gefitinib,NA,https://www.nature.com/articles/s41525-022-00293-1,EGFR kinase inhibitors,NA,0,0,0,0,0,0,0,1
+4,MAPK1 p.E322K,Perplexity.ai,NA,dcc-3116,NA,NCT04892017,MAPK pathway,Phase 1/2,0,0,0,0,0,0,0,1
+4,MAPK1 p.E322K,ChatGPT,NA,trametinib,"NCT02296125, NCT02908672, NCT03161559, NCT03805919, NCT04209921",NA,MAPK inhibitors,NA,0,0,0,0,0,0,0,0
+4,MAPK1 p.E322K,ChatGPT,NA,cobimetinib,"NCT02296125, NCT02908672, NCT03161559, NCT03805919, NCT04209921",NA,MAPK inhibitors,NA,0,0,0,0,0,0,0,0
+4,MAPK1 p.E322K,ChatGPT,NA,binimetinib,"NCT02296125, NCT02908672, NCT03161559, NCT03805919, NCT04209921",NA,MAPK inhibitors,NA,0,0,0,0,0,0,0,0
+4,MAPK1 p.E322K,Galactica,v2,trametinib,NA,NA,MEK1 and MEK2 inhibitor,NA,0,1,0,0,0,0,0,0
+4,MAPK1 p.E322K,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+4,MAPK1 p.E322K,BioMed LM,NA,cobimetinib,NA,NA,NA,NA,0,0,1,0,0,0,0,0
+4,MAPK1 p.E322K,BioMed LM,NA,trametinib and dabrafenib,NA,NA,combination,NA,0,0,0,1,0,0,0,0
+4,MAPK1 p.E322K,BioMed LM,NA,selumetinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+4,FGFR3 p.D786N,Perplexity.ai,NA,erdafitinib,34840077,NA,FGFR1-4 inhibitor,NA,0,0,0,0,0,0,1,0
+4,FGFR3 p.D786N,Perplexity.ai,NA,fgfr inhbitors,NA,https://www.frontiersin.org/articles/10.3389/fonc.2021.640490/full,FGFR inhbitors,NA,0,0,0,0,0,0,1,0
+4,FGFR3 p.D786N,Perplexity.ai,NA,platinum-based chemotherapy,NA,https://www.mdpi.com/2076-3417/10/20/7102,NA,NA,0,0,0,0,0,0,1,0
+4,FGFR3 p.D786N,ChatGPT,NA,erdafitinib,"NCT03390504, NCT02052778, NCT03694522, NCT03598655, NCT04512252",NA,FGFR inhibitor,Phase II/III,0,0,0,0,0,0,0,0
+4,FGFR3 p.D786N,ChatGPT,NA,infigratinib,"NCT03390504, NCT02052778, NCT03694522, NCT03598655, NCT04512252",NA,FGFR inhibitor,Phase II/III,0,0,0,0,0,0,0,0
+4,FGFR3 p.D786N,ChatGPT,NA,pemigatinib,"NCT03390504, NCT02052778, NCT03694522, NCT03598655, NCT04512252",NA,FGFR inhibitor,Phase II/III,0,0,0,0,0,0,0,0
+4,FGFR3 p.D786N,Galactica,v2,fgfr inhibitors,NA,NA,FGFR inhibitor,NA,0,1,0,0,0,0,0,0
+4,FGFR3 p.D786N,BioMed LM,NA,nintedanib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+4,FGFR3 p.D786N,BioMed LM,NA,azd4547,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+4,FGFR3 p.D786N,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+4,FGFR3 p.D786N,BioMed LM,NA,fgfr inhibitors,NA,NA,FGFR inhibitor,NA,0,0,0,0,0,1,0,0
+4,PIK3CA p.E545K,human,NA,alpelisib and fulvestrant,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,human,NA,copanlisib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,human,NA,rly-2608,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,CiVIC,NA,pictilisib and akt inhibitor mk2206,23888070,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,CiVIC,NA,apitolisib,26787751,NA,NA,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,CiVIC,NA,pictilisib,"20453058, 20453058",NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,CiVIC,NA,pi103,19513541,NA,Lung Non-small Cell Carcinoma,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,CiVIC,NA,cisplatin and pictilisib,27489350,NA,Cervix Carcinoma,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,CiVIC,NA,pi3ka/di,20453058,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+4,MAPK1 p.E322K,CiVIC,NA,erlotinib,"26181029, NCT00779389",NA,NA,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,OncoKB,NA,alpelisib and fulvestrant,NA,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,OncoKB,NA,rly-2608,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,OncoKB,NA,rly-2608 and fulvestrant,NA,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+4,FGFR3 p.D786N,OncoKB,NA,debio1347,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
+4,FGFR3 p.D786N,OncoKB,NA,infigratinib,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
+4,FGFR3 p.D786N,OncoKB,NA,erdafitinib,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
+4,FGFR3 p.D786N,OncoKB,NA,azd4547,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,Perplexity.ai,NA,osimertinib,NCT03239340,NA,NA,Phase 2,0,0,0,0,0,0,1,0
+5,EGFR p.E746_A750del,Perplexity.ai,NA,mefatinib,34719670,https://pubmed.ncbi.nlm.nih.gov/34719670/,NA,Trial,0,0,0,0,0,0,0,1
+5,EGFR p.E746_A750del,ChatGPT,NA,erlotinib,NA,NA,EGFR inhibition,Level 1a,0,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,ChatGPT,NA,gefitinib,NA,NA,EGFR inhibition,Level 1a,0,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,ChatGPT,NA,afatinib,NA,NA,EGFR inhibition,Level 1a,0,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,ChatGPT,NA,afatinib and cetuximab,NCT02716116,NA,combination,NA,0,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,Galactica,v1,gefitinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,Galactica,NA,erlotinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,Galactica,NA,osimertinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,Galactica,v2,afatinib,NA,NA,NA,FDA,0,1,0,0,0,0,0,0
+5,EGFR p.E746_A750del,BioMed LM,NA,afatinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,EGFR p.E746_A750del,BioMed LM,NA,gefitinib,NA,NA,NA,NA,0,0,1,1,1,0,0,0
+5,EGFR p.E746_A750del,BioMed LM,NA,erlotinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,EGFR p.E746_A750del,BioMed LM,NA,osimertinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,EGFR p.E746_A750del,BioMed LM,NA,brigatinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,EGFR p.E746_A750del,BioMed LM,NA,ceritinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,EGFR p.E746_A750del,BioMed LM,NA,crizotinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,EGFR p.E746_A750del,BioMed LM,NA,alectinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,TP53 p.A138_Q144del,Perplexity.ai,NA,entrectinib,NA,NA,NA,NA,0,0,0,0,0,0,0,1
+5,TP53 p.A138_Q144del,Perplexity.ai,NA,osimertinib,NCT03521154,NA,NA,NA,0,0,0,0,0,0,0,1
+5,TP53 p.A138_Q144del,Perplexity.ai,NA,egfr-tkis,30631578,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6297513/,NA,NA,0,0,0,0,0,0,0,1
+5,TP53 p.A138_Q144del,Perplexity.ai,NA,drugs targeting the fgf pathway,27650513,https://tlcr.amegroups.com/article/view/8803/8057,NA,NA,0,0,0,0,0,0,0,1
+5,TP53 p.A138_Q144del,Perplexity.ai,NA,apr-246 and azacitidine,NCT03745716,NA,combination,NA,0,0,0,0,0,0,1,0
+5,TP53 p.A138_Q144del,Perplexity.ai,NA,mk-1775 and cisplatin and docetaxel,34583722,https://pubmed.ncbi.nlm.nih.gov/34583722/,NA,NA,0,0,0,0,0,0,1,0
+5,TP53 p.A138_Q144del,BioMed LM,NA,prima-1,NA,NA,NA,NA,0,0,1,0,0,0,0,0
+5,TP53 p.A138_Q144del,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,TP53 p.A138_Q144del,BioMed LM,NA,carboplatin and paclitaxel,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+5,TP53 p.A138_Q144del,BioMed LM,NA,venetoclax and navitoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,MET amplification,Perplexity.ai,NA,capmatinib,"36387098, 32877583","https://www.frontiersin.org/articles/10.3389/fonc.2022.1013299/full, https://www.nejm.org/doi/full/10.1056/nejmoa2002787",NA,NA,0,0,0,0,0,0,1,1
+5,MET amplification,Perplexity.ai,NA,crizotinib,33676017,https://www.jto.org/article/S1556-0864(21)01710-X/fulltext,NA,NA,0,0,0,0,0,0,1,0
+5,MET amplification,Perplexity.ai,NA,tyrosine kinase inhibitors,NA,NA,NA,NA,0,0,0,0,0,0,1,0
+5,MET amplification,Perplexity.ai,NA,tepotinib,NCT02864992,NA,NA,Phase 2,0,0,0,0,0,0,0,1
+5,MET amplification,ChatGPT,NA,crizotinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,ChatGPT,NA,capmatinib and spartalizumab,NCT04644591,NA,combination,NA,0,0,0,0,0,0,0,0
+5,MET amplification,ChatGPT,NA,cabozantinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,ChatGPT,NA,capmatinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,Galactica,v1,cabozantinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+5,MET amplification,Galactica,NA,capmatinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+5,MET amplification,Galactica,NA,tepotinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+5,MET amplification,Galactica,NA,glesatinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+5,MET amplification,Galactica,NA,savolitinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+5,MET amplification,Galactica,NA,merestinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+5,MET amplification,Galactica,NA,amivantamab,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+5,MET amplification,Galactica,NA,tivantinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+5,MET amplification,Galactica,v2,crizotinib,NA,NA,NA,FDA,1,1,0,0,0,0,0,0
+5,MET amplification,BioMed LM,NA,entrectinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,MET amplification,BioMed LM,NA,lenvatinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,MET amplification,BioMed LM,NA,ponatinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,MET amplification,BioMed LM,NA,tivantinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,MET amplification,BioMed LM,NA,cabozantinib,NA,NA,NA,NA,0,0,1,0,1,0,0,0
+5,MET amplification,BioMed LM,NA,alectinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+5,MET amplification,BioMed LM,NA,crizotinib,NA,NA,NA,NA,0,0,1,1,1,0,0,0
+5,EGFR p.E746_A750del,human,NA,osimertinib,"31751012, NCT05281406, NCT04413201",NA,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,human,NA,capmatinib,"32877583, NCT05488314",NA,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,human,NA,tepotinib,NA,10.1200/JCO.2021.39.15_suppl.9021,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,human,NA,osimertinib and savoltinib,"31564718, 36264123, NCT05261399",NA,NA,NA,0,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,CiVIC,NA,erlotinib,"15329413, 26773740",NA,NA,NA,0,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,CiVIC,NA,gefitinib,"15329413, 24893891",NA,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,CiVIC,NA,onartuzumab,22389872,NA,Gastric Adenocarcinoma,NA,0,0,0,0,0,0,0,0
+5,MET amplification,CiVIC,NA,crizotinib,"25232318, 27664533, 25922291",NA,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,CiVIC,NA,vemurafenib and crizotinib,27325282,NA,Colorectal Cancer,NA,0,0,0,0,0,0,0,0
+5,MET amplification,CiVIC,NA,crizotinib and cetuximab,23729478,NA,Colorectal Cancer,NA,0,0,0,0,0,0,0,0
+5,MET amplification,OncoKB,NA,telisotuzumab-vedotin,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,OncoKB,NA,tepotinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,OncoKB,NA,crizotinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,OncoKB,NA,capmatinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+6,KEAP1 p.L276F,BioMed LM,NA,ml323,NA,NA,NA,NA,0,0,0,0,0,1,0,0
+6,KEAP1 p.L276F,BioMed LM,NA,cddo-me,NA,NA,NA,NA,0,0,0,0,0,1,0,0
+6,KRAS p.G12C,BioMed LM,NA,trametinib,NA,NA,MEK inhibitor,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,cobimetinib,NA,NA,MEK inhibitor,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,selumetinib,NA,NA,MEK inhibitor,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,pimasertib,NA,NA,MEK inhibitor,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,alpelisib,NA,NA,PI3K inhibitors,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,copanlisib,NA,NA,PI3K inhibitors,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,buparlisib,NA,NA,PI3K inhibitors,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,azd5363,NA,NA,AKT inhibitors,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,azd8835,NA,NA,AKT inhibitors,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,gsk2141795,NA,NA,AKT inhibitors,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,everolimus,NA,NA,mTOR inhibitors,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,temsirolimus,NA,NA,mTOR inhibitors,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,ridaforolimus,NA,NA,mTOR inhibitors,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,cdk4/6 inhibitors,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,erlotinib,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,afatinib,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+6,KRAS p.G12C,BioMed LM,NA,osimertinib,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+6,KEAP1 p.L276F,BioMed LM,NA,auranofin,NA,NA,NA,NA,0,0,1,0,0,0,0,0
+6,KEAP1 p.L276F,BioMed LM,NA,erlotinib,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+6,KEAP1 p.L276F,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+6,KEAP1 p.L276F,BioMed LM,NA,trametinib,NA,NA,MEK inhibitor,NA,0,0,0,0,1,0,0,0
+6,STK11 p.K83Tfs*18,BioMed LM,NA,carboplatin and paclitaxel,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+6,STK11 p.K83Tfs*19,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+6,STK11 p.K83Tfs*20,BioMed LM,NA,dasatinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+6,STK11 p.K83Tfs*21,BioMed LM,NA,trametinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+6,STK11 p.K83Tfs*21,BioMed LM,NA,everolimus,NA,NA,NA,NA,0,0,0,0,0,1,0,0
+6,KRAS p.G12C,ChatGPT,NA,sotorasib,NCT03600883,NA,NA,FDA,0,0,0,0,0,0,0,0
+6,KEAP1 p.L276F,ChatGPT,NA,bardoxolone methyl,"NCT03001974, NCT04001974",NA,NA,Phase 1,0,0,0,0,0,0,0,0
+6,KEAP1 p.L276F,ChatGPT,NA,brusatol,NCT03042702,NA,NA,Phase 1,0,0,0,0,0,0,0,0
+6,KEAP1 p.L276F,ChatGPT,NA,rta-408,NCT03600883,NA,NA,Phase 2,0,0,0,0,0,0,0,0
+6,STK11 p.K83Tfs*17,ChatGPT,NA,tak-659,NCT02671955,NA,NA,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,Galactica,v2,sotorasib,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+6,KRAS p.G12C,Galactica,v1,ars-1620,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+6,KRAS p.G12C,human,NA,sotorasib,34096690,NA,NA,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,human,NA,adagrasib,NCT04685135,NA,NA,NA,0,0,0,0,0,0,0,0
+6,STK11 p.K83Tfs*13,human,NA,mgy825,NCT05275868,NA,NA,NA,0,0,0,0,0,0,0,0
+6,STK11 p.K83Tfs*14,human,NA,drp-104 and atezolizumab,NCT04471415,NA,combination,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,Perplexity.ai,NA,sotorasib,NA,NA,NA,FDA,0,0,0,0,0,0,1,0
+6,KRAS p.G12C,Perplexity.ai,NA,mrtx849,NCT03785249,NA,NA,Phase 1/2,0,0,0,0,0,0,0,1
+6,KRAS p.G12C,Perplexity.ai,NA,tarloxotinib and sotorasib,NCT05313009,NA,NA,Phase 1b/2,0,0,0,0,0,0,0,1
+6,KRAS p.G12C,Perplexity.ai,NA,ly3537982,NA,NA,NA,NA,0,0,0,0,0,0,0,1
+6,KEAP1 p.L276F,Perplexity.ai,NA,telaglenastat,NA,https://biosignaling.biomedcentral.com/articles/10.1186/s12964-020-00568-z,NA,NA,0,0,0,0,0,0,1,0
+6,KEAP1 p.L276F,Perplexity.ai,NA,ipilimumab,34328274,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8447911/,NA,NA,0,0,0,0,0,0,0,1
+6,STK11 p.K83Tfs*13,Perplexity.ai,NA,talazoparib plus avelumab,NCT04173507,NA,NA,NA,0,0,0,0,0,0,1,1
+6,STK11 p.K83Tfs*14,Perplexity.ai,NA,osimertinib,NCT03521154,NA,NA,NA,0,0,0,0,0,0,0,1
+6,STK11 p.K83Tfs*15,Perplexity.ai,NA,sotorasib,NCT04933695,NA,NA,Phase 2,0,0,0,0,0,0,0,1
+6,STK11 p.K83Tfs*16,Perplexity.ai,NA,bemcentinib,NA,https://www.targetedonc.com/view/targeting-stk11-mutations-in-cancer,NA,NA,0,0,0,0,0,0,1,0
+6,KRAS p.G12C,Perplexity.ai,NA,adagrasib,NA,https://www.ajmc.com/view/treatment-options-for-kras-mutated-nsclc,NA,NA,0,0,0,0,0,0,1,0
+6,STK11 p.K83Tfs*16,Perplexity.ai,NA,everolimus,NA,https://www.targetedonc.com/view/targeting-stk11-mutations-in-cancer,NA,NA,0,0,0,0,0,0,1,0
+6,STK11 p.K83Tfs*16,Perplexity.ai,NA,talazoparib,NA,https://www.targetedonc.com/view/targeting-stk11-mutations-in-cancer,NA,NA,0,0,0,0,0,0,1,0
+6,KRAS p.G12C,CiVIC,NA,selumetinib and dactolisib,"19029981, 22392911",NA,NA,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,CiVIC,NA,palbociclib,20609353,NA,NA,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,CiVIC,NA,akt inhibitor mk2206,22025163,NA,Pancreatic Carcinoma,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,CiVIC,NA,docetaxel and selumetinib,26125448,NA,NA,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,CiVIC,NA,epidermal growth factor receptor tyrosine kinase inhibitor and ars-853,26739882,NA,NA,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,CiVIC,NA,therapeutic tumor infiltrating lymphocytes,27959684,NA,NA,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,CiVIC,NA,sotorasib,"34096690, NCT03600883",NA,NA,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,OncoKB,NA,cobimetinib,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,OncoKB,NA,trametinib,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,OncoKB,NA,binimetinib,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,OncoKB,NA,sotorasib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,OncoKB,NA,adagrasib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,OncoKB,NA,adagrasib and cetuximab,NA,NA,Colorectal cancer,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,OncoKB,NA,rmc-6236,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+6,STK11 p.K83Tfs*15,OncoKB,NA,bemcentinib and pembrolizumab,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+7,NF1 p.I1605fs,BioMed LM,NA,vemurafenib,NA,NA,NA,NA,0,0,1,0,0,0,0,0
+7,NF1 p.I1605fs,BioMed LM,NA,dabrafenib and trametinib,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+7,NF1 p.I1605fs,BioMed LM,NA,mek inhibitors,NA,NA,NA,NA,0,0,0,0,1,1,0,0
+7,TP53 c.672+1G>A,BioMed LM,NA,antisense oligonucleotides,NA,NA,NA,NA,0,0,0,0,0,1,0,0
+7,TP53 c.672+1G>A,BioMed LM,NA,venetoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+7,TP53 c.672+1G>A,BioMed LM,NA,idasanutlin,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+7,RB1 p.Q846*,BioMed LM,NA,palbociclib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+7,TERT p.R859Q,BioMed LM,NA,imetelstat,NA,NA,NA,Phase 2,0,0,1,0,0,0,0,0
+7,TERT p.R859Q,BioMed LM,NA,selumetinib,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+7,TERT p.R859Q,BioMed LM,NA,cobimetinib and trametinib,NA,NA,combination,NA,0,0,0,1,0,0,0,0
+7,TERT p.R859Q,BioMed LM,NA,pimasertib and dabrafenib,NA,NA,combination,NA,0,0,0,1,0,0,0,0
+7,TERT p.R859Q,BioMed LM,NA,trametinib and vemurafenib,NA,NA,combination,NA,0,0,0,1,0,0,0,0
+7,TERT p.R859Q,BioMed LM,NA,dabrafenib and vemurafenib,NA,NA,combination,NA,0,0,0,1,0,0,0,0
+7,TERT p.R859Q,ChatGPT,NA,imetelstat,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+7,NF1 p.I1605fs,human,NA,cobimetinib and atezolizumab,33309774,NA,NA,NA,0,0,0,0,0,0,0,0
+7,NF1 p.I1605fs,human,NA,trametinib,35135154,NA,NA,NA,0,0,0,0,0,0,0,0
+7,TP53 c.672+1G>A,human,NA,ici,29793878,NA,NA,NA,0,0,0,0,0,0,0,0
+7,TMB 12.8 Mut/Mb,human,NA,nivolumab and ipilimumab,35355708,NA,NA,NA,0,0,0,0,0,0,0,0
+7,TMB 12.8 Mut/Mb,human,NA,pembrolizumab,"33309774, 3408323",NA,NA,FDA,0,0,0,0,0,0,0,0
+7,NF1 p.I1605fs,Perplexity.ai,NA,selumetinib,NA,NA,NA,FDA,0,0,0,0,0,0,1,1
+7,TP53 c.672+1G>A,Perplexity.ai,NA,slmp53-2,33916029,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8037490/,NA,NA,0,0,0,0,0,0,1,0
+7,TP53 c.672+1G>A,Perplexity.ai,NA,flotetuzumab,NA,https://ashpublications.org/bloodadvances/article/4/20/5011/467894/TP53-abnormalities-correlate-with-immune,NA,NA,0,0,0,0,0,0,1,0
+7,TP53 c.672+1G>A,Perplexity.ai,NA,ad-p53,NCT03544723,NA,NA,NA,0,0,0,0,0,0,0,1
+7,TP53 c.672+1G>A,Perplexity.ai,NA,fluzoparib and apatinib,NCT03645200,NA,NA,NA,0,0,0,0,0,0,0,1
+7,Unspecified,ChatGPT,NA,pembrolizumab,"NCT01866319, NCT02362594, NCT02364609, NCT02908672, NCT01295827",NA,ICI,NA,0,0,0,0,0,0,0,0
+7,Unspecified,ChatGPT,NA,nivolumab,"NCT01866319, NCT02362594, NCT02364609, NCT02908672, NCT01295827",NA,ICI,NA,0,0,0,0,0,0,0,0
+7,Unspecified,ChatGPT,NA,ipilimumab,"NCT01866319, NCT02362594, NCT02364609, NCT02908672, NCT01295827",NA,ICI,NA,0,0,0,0,0,0,0,0
+7,NF1 p.I1605fs,OncoKB,NA,selumetinib,NA,NA,Neurofibroma,NA,0,0,0,0,0,0,0,0
+7,NF1 p.I1605fs,OncoKB,NA,trametinib,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
+7,NF1 p.I1605fs,OncoKB,NA,cobimetinib,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,Perplexity.ai,NA,pemigatinib,35444941,https://www.frontiersin.org/articles/10.3389/fonc.2022.860453/full,NA,Phase 2,0,0,0,0,0,0,1,0
+8,FGFR2::BICC1 Fusion,Perplexity.ai,NA,futibatinib,35444941,https://www.frontiersin.org/articles/10.3389/fonc.2022.860453/full,NA,Phase 2,0,0,0,0,0,0,1,0
+8,FGFR2::BICC1 Fusion,Perplexity.ai,NA,icg001 and c59,31899106,https://www.sciencedirect.com/science/article/pii/S1359610119301376,NA,NA,0,0,0,0,0,0,1,0
+8,FGFR2::BICC1 Fusion,Perplexity.ai,NA,derazantinib,NCT03230318,NA,NA,NA,0,0,0,0,0,0,0,1
+8,FGFR2::BICC1 Fusion,ChatGPT,NA,derazantinib,NCT03230318,NA,NA,Phase 2,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,ChatGPT,NA,infigratinib,NCT02150967,NA,NA,Phase 2,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,Galactica,v2,pemigatinib,NA,NA,NA,FDA,0,1,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,Galactica,v1,infigratinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,BioMed LM,NA,ponatinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+8,FGFR2::BICC1 Fusion,BioMed LM,NA,nintedanib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+8,FGFR2::BICC1 Fusion,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+8,TP53 p.E258*,Perplexity.ai,NA,gemcitabine,NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7690712/,resistance,NA,0,0,0,0,0,0,1,0
+8,TP53 p.E258*,Perplexity.ai,NA,nutlin-3,NA,https://jhoonline.biomedcentral.com/articles/10.1186/s13045-021-01169-0,NA,NA,0,0,0,0,0,0,1,0
+8,TP53 p.E258*,Perplexity.ai,NA,atr/chk1 inhibitors,NA,https://jhoonline.biomedcentral.com/articles/10.1186/s13045-021-01169-0,NA,NA,0,0,0,0,0,0,1,0
+8,TP53 p.E258*,ChatGPT,NA,rg7112,NCT01164090,NA,MDM2 inhibitor,Phase 1/2,0,0,0,0,0,0,0,0
+8,TP53 p.E258*,ChatGPT,NA,pembrolizumab,NCT03260712,NA,PD1-inhibitor,Phase 2,0,0,0,0,0,0,0,0
+8,TP53 p.E258*,BioMed LM,NA,nutlin-3,NA,NA,NA,NA,0,0,0,0,0,1,0,0
+8,TP53 p.E258*,BioMed LM,NA,venetoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+8,TP53 p.E258*,BioMed LM,NA,idelalisib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+8,TP53 p.E258*,BioMed LM,NA,ibrutinib and venetoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+8,TP53 p.E258*,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+8,Unspecified,Galactica,v2,gemcitabine and cisplatin,NA,NA,combination,NA,0,1,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,human,NA,pemigatinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,human,NA,futibatinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,human,NA,infigratinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,human,NA,erdafitinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,CiVIC,NA,infigratinib,"29182496, 27870574",NA,NA,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,CiVIC,NA,erdafitinib,26324363,NA,NA,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,CiVIC,NA,derazantinib,30420614,NA,NA,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,OncoKB,NA,erdafitinib,NA,NA,Bladder Cancer,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,OncoKB,NA,futibatinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,OncoKB,NA,infigratinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,OncoKB,NA,pemigatinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,OncoKB,NA,debio1347,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,OncoKB,NA,azd4547,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+9,HRAS p.Q61R,Perplexity.ai,NA,tipifarnib,32557577,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8266417/,NA,NA,0,0,0,0,0,0,1,1
+9,HRAS p.Q61R,Perplexity.ai,NA,androgen deprivation therapy,NCT01969578,NA,NA,NA,0,0,0,0,0,0,0,1
+9,HRAS p.Q61R,ChatGPT,NA,trametinib,"NCT02501954, PMID: 29898992",NA,NA,NA,0,0,0,0,0,0,0,0
+9,HRAS p.Q61R,Galactica,v2,erlotinib,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+9,HRAS p.Q61R,Galactica,v2,cetuximab,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+9,HRAS p.Q61R,Galactica,v2,lapatinib,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+9,HRAS p.Q61R,Galactica,v2,trastuzumab,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+9,HRAS p.Q61R,BioMed LM,NA,ixazomib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+9,HRAS p.Q61R,BioMed LM,NA,carboplatin and paclitaxel,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+9,HRAS p.Q61R,BioMed LM,NA,trametinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+9,HRAS p.Q61R,BioMed LM,NA,selumetinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+9,HRAS p.Q61R,BioMed LM,NA,mek inhibitors,NA,NA,NA,NA,0,0,0,0,0,1,0,0
+9,PIK3CA p.E545K,Perplexity.ai,NA,alpelisib and bicalutamide,34036229,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8140801/,NA,case report,0,0,0,0,0,0,1,0
+9,PIK3CA p.E545K,Perplexity.ai,NA,alpelisib and fulvestrant,NCT05022342,NA,NA,NA,0,0,0,0,0,0,0,1
+9,PIK3CA p.E545K,Perplexity.ai,NA,bkm120,NCT01501604,NA,NA,NA,0,0,0,0,0,0,0,1
+9,PIK3CA p.E545K,Perplexity.ai,NA,gsk2636771,NA,NA,NA,NA,0,0,0,0,0,0,0,1
+9,PIK3CA p.E545K,Perplexity.ai,NA,tak-228,NCT02417701,NA,NA,NA,0,0,0,0,0,0,0,1
+9,PIK3CA p.E545K,ChatGPT,NA,alpelisib,"NCT01338857, PMID: 29430197",NA,PI3K inhibitor,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,ChatGPT,NA,buparlisib,"NCT01918306, PMID: 25467199",NA,PI3K inhibitor,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,Galactica,v2,trastuzumab,NA,NA,resistance,NA,0,1,0,0,0,0,0,0
+9,PIK3CA p.E545K,BioMed LM,NA,copanlisib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+9,PIK3CA p.E545K,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+9,PIK3CA p.E545K,BioMed LM,NA,idelalisib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+9,TP53 p.T211A,ChatGPT,NA,pembrolizumab,"NCT02362594, PMID: 27756777",NA,NA,NA,0,0,0,0,0,0,0,0
+9,TP53 p.T211A,ChatGPT,NA,nivolumab,"NCT03371920, PMID: 28130469",NA,NA,NA,0,0,0,0,0,0,0,0
+9,TP53 p.T211A,Galactica,v2,androgen deprivation therapy,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+9,TP53 p.T211A,BioMed LM,NA,cisplatin and 5-fluorouracil,NA,NA,NA,NA,0,0,0,1,0,0,0,0
+9,TP53 p.T211A,BioMed LM,NA,cdk4/6 inhibitors,NA,NA,NA,NA,0,0,0,0,0,1,0,0
+9,TP53 p.T211A,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+9,TP53 p.T211A,BioMed LM,NA,venetoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+9,TP53 p.T211A,BioMed LM,NA,idelalisib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+9,TP53 p.T211A,Perplexity.ai,NA,trastuzumab,29103750,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5685667/,NA,NA,0,0,0,0,0,0,1,0
+9,TP53 p.T211A,Perplexity.ai,NA,nanoxel and herzuma,NCT03614364,NA,NA,NA,0,0,0,0,0,0,0,1
+9,TP53 p.T211A,Perplexity.ai,NA,cabozantinib,NCT03729297,NA,NA,NA,0,0,0,0,0,0,0,1
+9,KMT2C p.P2493Q,Perplexity.ai,NA,trastuzumab,28588783,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5451868/,NA,case report,0,0,0,0,0,0,1,0
+9,KMT2C p.P2493Q,ChatGPT,NA,tazemetostat,"NCT01897571, PMID: 28971840",NA,EZH2 inhibitor,NA,0,0,0,0,0,0,0,0
+9,KMT2C p.P2493Q,ChatGPT,NA,cpi-0610,"NCT01943851, PMID: 26637762",NA,BET inhibitor,NA,0,0,0,0,0,0,0,0
+9,KMT2C p.P2493Q,Galactica,v2,histone deacetylase inhibitors,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+9,KMT2C p.P2493Q,Galactica,v2,ar inhibitors,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+9,KMT2C p.P2493Q,BioMed LM,NA,histone deacetylase inhibitors,NA,NA,NA,NA,0,0,0,0,0,1,0,0
+9,KMT2C p.P2493Q,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+9,KMT2C p.P2493Q,BioMed LM,NA,venetoclax,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+9,Unspecified,Perplexity.ai,NA,darolutamide,NCT05669664,NA,NA,NA,0,0,0,0,0,0,0,1
+9,Unspecified,Perplexity.ai,NA,ado-trastuzumab (t) emtansine,NCT04620187,NA,NA,NA,0,0,0,0,0,0,0,1
+9,Unspecified,Perplexity.ai,NA,9-ing-41 and carboplatin,NCT05010629,NA,NA,NA,0,0,0,0,0,0,0,1
+9,HRAS p.Q61R,human,NA,tipifarnib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,human,NA,alpelisib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,human,NA,rly-2608,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+9,TMB high,human,NA,pembrolizumab,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,CiVIC,NA,pictilisib and akt inhibitor mk2206,23888070,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,CiVIC,NA,apitolisib,26787751,NA,NA,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,CiVIC,NA,pictilisib,"20453058, 20453058",NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,CiVIC,NA,pi103,19513541,NA,Lung Non-small Cell Carcinoma,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,CiVIC,NA,cisplatin and pictilisib,27489350,NA,Cervix Carcinoma,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,CiVIC,NA,pi3ka/di,20453058,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+9,HRAS p.Q61R,OncoKB,NA,tipifarnib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,OncoKB,NA,alpelisib and fulvestrant,NA,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,OncoKB,NA,rly-2608,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,OncoKB,NA,rly-2608 and fulvestrant,NA,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,Perplexity.ai,NA,osimertinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.E746_A750del,Perplexity.ai,NA,afatinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,FDA,0,0,0,0,0,0,1,1
+10,EGFR p.E746_A750del,Perplexity.ai,NA,luminespib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.E746_A750del,Perplexity.ai,NA,tarloxotinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.E746_A750del,Perplexity.ai,NA,amivantamab,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.E746_A750del,Perplexity.ai,NA,chemotherapy,NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6626855/,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.E746_A750del,Perplexity.ai,NA,immune checkpoint,NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6626855/,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.E746_A750del,Perplexity.ai,NA,erlotinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.E746_A750del,Perplexity.ai,NA,gefitinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.E746_A750del,Perplexity.ai,NA,dacomitinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.E746_A750del,ChatGPT,NA,gefitinib,"NCT00322452, NCT00364391, NCT01024450, NCT02008227, NCT02148304, NCT02364609, NCT02789345, NCT03393270, NCT03432585, NCT03533232, NCT03607539, NCT04268417, NCT04591063, NCT04968710, PMID: 32125601, PMID: 30452710, PMID: 30471430, PMID: 33563121, PMID: 34543788",NA,NA,Level I,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT,NA,erlotinib,"NCT00322452, NCT00364391, NCT01024450, NCT02008227, NCT02148304, NCT02364609, NCT02789345, NCT03393270, NCT03432585, NCT03533232, NCT03607539, NCT04268417, NCT04591063, NCT04968710, PMID: 32125601, PMID: 30452710, PMID: 30471430, PMID: 33563121, PMID: 34543788",NA,NA,Level I,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT,NA,afatinib,"NCT00322452, NCT00364391, NCT01024450, NCT02008227, NCT02148304, NCT02364609, NCT02789345, NCT03393270, NCT03432585, NCT03533232, NCT03607539, NCT04268417, NCT04591063, NCT04968710, PMID: 32125601, PMID: 30452710, PMID: 30471430, PMID: 33563121, PMID: 34543788",NA,NA,Level I,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT,NA,dacomitinib,"NCT01774721, NCT02296125, NCT03093222, NCT04033329, PMID: 29595917, PMID: 31830557",NA,NA,Level I,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT,NA,osimertinib,"NCT02296125, NCT02716116, NCT02915744, NCT03209973, NCT03800134, NCT04255351, PMID: 27789342, PMID: 29241157, PMID: 32024493",NA,NA,Level I,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT,NA,egfr inhibitor and met inhibitor,"NCT01657604, NCT02923180, NCT04285632, PMID: 33219504, PMID: 34613846",NA,combination,Level II-III,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT,NA,egfr inhibitor and her2 inhibitor,"NCT01657604, NCT02923180, NCT04285632, PMID: 33219504, PMID: 34613847",NA,combination,Level II-III,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT,NA,egfr inhibitor and vegf inhibitor,"NCT01657604, NCT02923180, NCT04285632, PMID: 33219504, PMID: 34613848",NA,combination,Level II-III,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT,NA,egfr inhibitor and pembrolizumab,"NCT02220894, NCT03539536, NCT04262856, PMID: 33769220, PMID: 33641127",NA,combination,Level II-III,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT,NA,egfr inhibitor and nivolumab,"NCT02220894, NCT03539536, NCT04262856, PMID: 33769220, PMID: 33641127",NA,combination,Level II-III,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,Galactica,v2,afatinib,NA,NA,NA,FDA,1,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,Galactica,v1,gefitinib,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+10,EGFR p.E746_A750del,Galactica,v1,erlotinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,Galactica,v1,osimertinib,NA,NA,NA,NA,1,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,BioMed LM,NA,afatinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+10,EGFR p.E746_A750del,BioMed LM,NA,erlotinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+10,EGFR p.E746_A750del,BioMed LM,NA,osimertinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+10,EGFR p.E746_A750del,BioMed LM,NA,gefitinib,NA,NA,NA,NA,0,0,1,1,1,0,0,0
+10,EGFR p.E746_A750del,BioMed LM,NA,crizotinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+10,EGFR p.E746_A750del,BioMed LM,NA,ceritinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+10,EGFR p.E746_A750del,BioMed LM,NA,alectinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+10,EGFR p.E746_A750del,BioMed LM,NA,brigatinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+10,EGFR p.C797S,Perplexity.ai,NA,osimertinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.C797S,Perplexity.ai,NA,afatinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,FDA,0,0,0,0,0,0,1,1
+10,EGFR p.C797S,Perplexity.ai,NA,luminespib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.C797S,Perplexity.ai,NA,tarloxotinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.C797S,Perplexity.ai,NA,amivantamab,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.C797S,Perplexity.ai,NA,chemotherapy,NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6626855/,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.C797S,Perplexity.ai,NA,immune checkpoint,NA,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6626855/,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.C797S,Perplexity.ai,NA,erlotinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.C797S,Perplexity.ai,NA,gefitinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.C797S,Perplexity.ai,NA,dacomitinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
+10,EGFR p.C797S,ChatGPT,NA,gefitinib,"NCT00322452, NCT00364391, NCT01024450, NCT02008227, NCT02148304, NCT02364609, NCT02789345, NCT03393270, NCT03432585, NCT03533232, NCT03607539, NCT04268417, NCT04591063, NCT04968710, PMID: 32125601, PMID: 30452710, PMID: 30471430, PMID: 33563121, PMID: 34543788",NA,NA,Level I,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,ChatGPT,NA,erlotinib,"NCT00322452, NCT00364391, NCT01024450, NCT02008227, NCT02148304, NCT02364609, NCT02789345, NCT03393270, NCT03432585, NCT03533232, NCT03607539, NCT04268417, NCT04591063, NCT04968710, PMID: 32125601, PMID: 30452710, PMID: 30471430, PMID: 33563121, PMID: 34543788",NA,NA,Level I,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,ChatGPT,NA,afatinib,"NCT00322452, NCT00364391, NCT01024450, NCT02008227, NCT02148304, NCT02364609, NCT02789345, NCT03393270, NCT03432585, NCT03533232, NCT03607539, NCT04268417, NCT04591063, NCT04968710, PMID: 32125601, PMID: 30452710, PMID: 30471430, PMID: 33563121, PMID: 34543788",NA,NA,Level I,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,ChatGPT,NA,dacomitinib,"NCT01774721, NCT02296125, NCT03093222, NCT04033329, PMID: 29595917, PMID: 31830557",NA,NA,Level I,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,ChatGPT,NA,osimertinib,"NCT02296125, NCT02716116, NCT02915744, NCT03209973, NCT03800134, NCT04255351, PMID: 27789342, PMID: 29241157, PMID: 32024493",NA,NA,Level I,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,ChatGPT,NA,egfr inhibitor and met inhibitor,"NCT01657604, NCT02923180, NCT04285632, PMID: 33219504, PMID: 34613846",NA,combination,Level II-III,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,ChatGPT,NA,egfr inhibitor and her2 inhibitor,"NCT01657604, NCT02923180, NCT04285632, PMID: 33219504, PMID: 34613847",NA,combination,Level II-III,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,ChatGPT,NA,egfr inhibitor and vegf inhibitor,"NCT01657604, NCT02923180, NCT04285632, PMID: 33219504, PMID: 34613848",NA,combination,Level II-III,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,ChatGPT,NA,egfr inhibitor and pembrolizumab,"NCT02220894, NCT03539536, NCT04262856, PMID: 33769220, PMID: 33641127",NA,combination,Level II-III,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,ChatGPT,NA,egfr inhibitor and nivolumab,"NCT02220894, NCT03539536, NCT04262856, PMID: 33769220, PMID: 33641127",NA,combination,Level II-III,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,Galactica,v2,osimertinib,NA,NA,NA,NA,0,1,0,0,0,0,0,0
+10,EGFR p.C797S,BioMed LM,NA,osimertinib,NA,NA,NA,NA,0,0,1,1,1,1,0,0
+10,EGFR p.C797S,BioMed LM,NA,rociletinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+10,EGFR p.C797S,BioMed LM,NA,ibrutinib,NA,NA,NA,NA,0,0,0,0,1,0,0,0
+10,STK11 p.C210*,Perplexity.ai,NA,talazoparib and avelumab,NCT04173507,NA,combination,Phase 2,0,0,0,0,0,0,0,1
+10,STK11 p.C210*,Perplexity.ai,NA,icotinib,NA,https://ascopubs.org/doi/10.1200/JCO.20.03570,NA,NA,0,0,0,0,0,0,1,0
+10,STK11 p.C210*,Perplexity.ai,NA,alk inhibitors,35527776,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9073580/,NA,NA,0,0,0,0,0,0,1,0
+10,STK11 p.C210*,Galactica,v2,pd-1/pd-l1 inhibitors,NA,NA,resistance,NA,0,1,0,0,0,0,0,0
+10,EGFR p.E746_A750del,human,NA,afatinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,human,NA,dacomitinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,human,NA,osimertinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,human,NA,osimertinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,human,NA,afatinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,STK11 p.C210*,human,NA,drp-104,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,CiVIC,NA,erlotinib,"15329413, 26773740",NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,CiVIC,NA,gefitinib,"15329413, 24893891",NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,CiVIC,NA,erlotinib,20942962,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,OncoKB,NA,afatinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,OncoKB,NA,dacomitinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,OncoKB,NA,erlotinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,OncoKB,NA,erlotinib and ramucirumab,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,OncoKB,NA,gefitinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,OncoKB,NA,osimertinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,OncoKB,NA,patritumab deruxtecan,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,STK11 p.C210*,OncoKB,NA,bemcentinib and pembrolizumab,NA,NA,NA,NA,0,0,0,0,0,0,0,0
