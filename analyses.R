@@ -11,8 +11,8 @@ library(cowplot)
 library(lemon)
 
 ## define color scheme ----
-col.models <- c("#42B54099", "#7AA6DCFF", "#0073C2FF", "#4A6990FF","#003C67FF", "#EFC000FF", "#8F7700FF", "#374E5599", "#374E55FF")
-model.names <- c("human", "ChatGPT", "Perplexity.ai", "Galactica", "BioMed LM", "CiVIC", "OncoKB", "clinical", "combined")
+col.models <- c("#42B54099", "#7AA6DCFF", "#0073C2FF", "#4A6990FF","#003C67FF", "#EFC000FF", "#8F7700FF", "#374E5599", "#374E55FF", "#F4ED13")
+model.names <- c("human", "ChatGPT", "Perplexity.ai", "Galactica", "BioMed LM", "CiVIC", "OncoKB", "clinical", "combined", "ChatGPT 4")
 names(col.models) <- model.names
 
 col.patients <- c("#E93F1B", "#53E91B", "#0073C2FF", "#E618DE","#003C67FF", "#EFC000FF", "#8F7700FF", "#374E5599", "#898980", "#F4ED13")
@@ -24,7 +24,7 @@ data.all <- read_csv("data/RecommendationsClean.csv")
 
 ## prepare data ----
 data.all %>% 
-  filter(!model %in% c("CiVIC", "OncoKB")) %>% 
+  filter(!model %in% c("CiVIC", "OncoKB", "ChatGPT 4")) %>% 
   select(model, recommendation, alteration) %>% 
   distinct() %>% 
   mutate(value = 1) %>% 
@@ -37,10 +37,12 @@ order.cols <- col.models[set_name(data.filtered_combinations)]
 
 model.names <- c(set_name(data.filtered_combinations)[order.sets], "CiVIC", "OncoKB", "clinical", "combined")
 
+model.names_chatgpt4 <- c(set_name(data.filtered_combinations)[order.sets], "CiVIC", "OncoKB", "clinical", "combined", "ChatGPT 4")
+
 ## Plot number of TOs per variant and their upset plot ----
 panel_c <- data.all %>% 
   mutate(model = factor(model, rev(model.names))) %>% 
-  filter(!model %in% c("CiVIC", "OncoKB")) %>% 
+  filter(!model %in% c("CiVIC", "OncoKB", "ChatGPT 4")) %>% 
   select(model, recommendation, alteration) %>%
   distinct() %>% 
   count(model, alteration)
@@ -68,16 +70,40 @@ svg("figures/overlapRecommendationsPerVariant.svg", width = 5, height = 3)
 print(plot)
 dev.off()
 
+## prepare data for ChatGPT/ChatGPT 4 for ChatGPT 4 overlap ----
+data.all %>% 
+  filter(!model %in% c("CiVIC", "OncoKB", "Perplexity.ai", "BioMed LM", "Galactica")) %>% 
+  select(model, recommendation, alteration) %>% 
+  distinct() %>% 
+  mutate(value = 1) %>% 
+  pivot_wider(names_from = model, values_from = value, values_fill = 0) %>%
+  make_comb_mat(mode = "intersect") -> data.combinations_chatgpt4
+
+data.combinations_chatgpt4[comb_size(data.combinations_chatgpt4) >= 5 & comb_size(data.combinations_chatgpt4) <= 40] -> data.filtered_combinations_chatgpt4
+order.sets <- order(set_size(data.combinations_chatgpt4), decreasing = TRUE)
+order.cols <- col.models[set_name(data.combinations_chatgpt4)]
+
+## Plot number of TOs per variant and their upset plot ----
+plot <- UpSet(data.filtered_combinations_chatgpt4, 
+      comb_order = order(comb_size(data.filtered_combinations_chatgpt4), decreasing = TRUE),
+      set_order = order.sets,
+      top_annotation = upset_top_annotation(data.filtered_combinations_chatgpt4, add_numbers = T),
+      right_annotation = upset_right_annotation(data.filtered_combinations_chatgpt4, add_numbers = T, 
+                                                gp = gpar(fill = order.cols)))
+svg("figures/overlapRecommendationsPerVariantChatGPT4.svg", width = 5, height = 3)
+print(plot)
+dev.off()
+
 ## Plot upset plots containing the condensed clinical TOs and human TOs ----
 data.all %>% 
-  filter(!model %in% c("human", "CiVIC", "OncoKB")) %>% 
+  filter(!model %in% c("human", "CiVIC", "OncoKB", "ChatGPT 4")) %>% 
   group_by(alteration, patient) %>% 
   count(recommendation) %>% 
   arrange(-n) %>% 
   filter(n > 1) -> data.option1
 
 data.all %>% 
-  filter(!model %in% c("human", "CiVIC", "OncoKB")) %>% 
+  filter(!model %in% c("human", "CiVIC", "OncoKB", "ChatGPT 4")) %>% 
   group_by(patient) %>% 
   filter(str_detect(reference, "NCT") | !is.na(clinical_study)) %>% 
   select(alteration, recommendation, reference, clinical_study) %>% 
@@ -115,7 +141,7 @@ dev.off()
 
 ## Plot TOs per prompt type ----
 panel_e <- data.all %>%
-  filter(!is.na(model) & !model %in% c("human", "CiVIC", "OncoKB")) %>%
+  filter(!is.na(model) & !model %in% c("human", "CiVIC", "OncoKB", "ChatGPT 4")) %>%
   mutate(group = model) %>% 
   mutate(model := if_else(perplexity_ai_v1 == 1, "Perplexity.ai P1", model, missing = model)) %>%
   mutate(model := if_else(perplexity_v2 == 1, "Perplexity.ai P2", model, missing = model)) %>%
@@ -219,7 +245,7 @@ dev.off()
 
 
 data.filtering %>% 
-  bind_rows(data.all %>% filter(model %in% c("CiVIC", "OncoKB")) %>% 
+  bind_rows(data.all %>% filter(model %in% c("CiVIC", "OncoKB", "ChatGPT 4")) %>% 
             select(patient, alteration, recommendation, model)) %>% 
   ungroup() %>% 
   mutate(filter = ifelse(is.na(filter), model, filter)) %>% 
@@ -317,12 +343,12 @@ pr.overall %>%
   pivot_longer(precision:f1, names_to = "classification") %>% 
   mutate(classification = factor(classification, levels = c("precision", "recall", "f1"))) %>%
   mutate(model = factor(name, levels = rev(model.names))) %>%
-  filter(!model %in% c("CiVIC", "OncoKB")) -> pr.overall2
+  filter(!model %in% c("CiVIC", "OncoKB", "ChatGPT 4")) -> pr.overall2
 
 pr.overall %>% 
   pivot_longer(precision:f1, names_to = "classification") %>% 
   mutate(classification = factor(classification, levels = c("precision", "recall", "f1"))) %>%
-  mutate(model = factor(name, levels = rev(model.names))) -> pr.overall3
+  mutate(model = factor(name, levels = rev(model.names_chatgpt4))) -> pr.overall3
 
 # print(data.pr)
 
@@ -332,7 +358,7 @@ panel_g <- data.pr %>%
   mutate(classification = factor(classification, levels = c("precision", "recall", "f1"))) %>%
   mutate(model = factor(name, levels = rev(model.names))) %>%
   mutate(patient = factor(patient, levels = rev(patient.ids))) %>%
-  filter(!model %in% c("CiVIC", "OncoKB"))
+  filter(!model %in% c("CiVIC", "OncoKB", "ChatGPT 4"))
 
 # print(panel_g)
 
@@ -365,12 +391,34 @@ svg("figures/precision_recall.svg", width = 5, height = 6)
 print(plot)
 dev.off()
 
+panel_g_all <- data.pr %>% 
+#  bind_rows(pr.overall) %>% 
+  pivot_longer(precision:f1, names_to = "classification") %>% 
+  mutate(classification = factor(classification, levels = c("precision", "recall", "f1"))) %>%
+  mutate(model = factor(name, levels = rev(model.names_chatgpt4))) %>%
+  mutate(patient = factor(patient, levels = rev(patient.ids)))
+
+plot <- ggscatter(panel_g_all, x = "model", y = "value", color = "patient", size = 1,
+            rotate = T, facet.by = "classification",
+            ncol = 1, panel.labs = list(classification = c("precision", "recall", "F1-score"))) +
+  scale_color_manual(values = col.patients) +
+  geom_point(data = pr.overall3, col = "darkred", size = 2, shape = 24, fill = "darkred") +
+  theme_pubclean(base_size = 12) + 
+  theme(legend.position = "none") +
+  theme(axis.title.x = element_blank(), axis.title.y = element_blank())
+
+ggsave("figures/precisionRecallAll.pdf", width = 5, height = 6, units = "cm")
+
+svg("figures/precision_recall_all.svg", width = 5, height = 6)
+print(plot)
+dev.off()
+
 data.pr %>% 
   pivot_longer(f1, names_to = "classification") %>% 
   mutate(classification = factor(classification, levels = c("f1"))) %>%
   mutate(model = factor(name, levels = rev(model.names))) %>%
   mutate(patient = factor(patient, levels = rev(patient.ids))) %>%
-  filter(!model %in% c("CiVIC", "OncoKB")) -> f1_score_panel
+  filter(!model %in% c("CiVIC", "OncoKB", "ChatGPT 4")) -> f1_score_panel
 
 # print(f1_score_panel)
 
@@ -378,9 +426,22 @@ pr.overall %>%
   pivot_longer(f1, names_to = "classification") %>% 
   mutate(classification = factor(classification, levels = c("f1"))) %>%
   mutate(model = factor(name, levels = rev(model.names))) %>%
-  filter(!model %in% c("CiVIC", "OncoKB")) -> f1.overall
+  filter(!model %in% c("CiVIC", "OncoKB", "ChatGPT 4")) -> f1.overall
 
 # print(f1.overall)
+
+data.pr %>% 
+  pivot_longer(f1, names_to = "classification") %>% 
+  mutate(classification = factor(classification, levels = c("f1"))) %>%
+  mutate(model = factor(name, levels = rev(model.names_chatgpt4))) %>%
+  mutate(patient = factor(patient, levels = rev(patient.ids))) %>%
+  filter(model %in% c("ChatGPT", "ChatGPT 4")) -> f1_score_panel_chatgpt_4
+
+pr.overall %>% 
+  pivot_longer(f1, names_to = "classification") %>% 
+  mutate(classification = factor(classification, levels = c("f1"))) %>%
+  mutate(model = factor(name, levels = rev(model.names_chatgpt4))) %>%
+  filter(model %in% c("ChatGPT", "ChatGPT 4")) -> f1.overall_chatgpt_4
 
 # Check the number of levels in panel.labs
 # print(nlevels(list(classification = c("F1-score"))))
@@ -410,6 +471,20 @@ plot <- ggscatter(f1_score_panel, x = "model", y = "value", color = "patient", s
   theme(axis.title.x = element_blank(), axis.title.y = element_blank())
 
 svg("figures/f1_score.svg", width = 5, height = 2)
+print(plot)
+dev.off()
+
+# F1-score ChatGPT4 (coloring according to patient)
+plot <- ggscatter(f1_score_panel_chatgpt_4, x = "model", y = "value", color = "patient", size = 2,
+            rotate = T, facet.by = "classification",
+            ncol = 1, panel.labs = list(classification = c("F1-score"))) +
+  scale_color_manual(values = col.patients) +
+  geom_point(data = f1.overall_chatgpt_4, col = "darkred", size = 3, shape = 24, fill = "darkred") +
+  theme_pubclean(base_size = 15) + 
+  theme(legend.position = "none") +
+  theme(axis.title.x = element_blank(), axis.title.y = element_blank())
+
+svg("figures/f1_score_chatgpt4.svg", width = 5, height = 2)
 print(plot)
 dev.off()
 

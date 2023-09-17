@@ -1,0 +1,233 @@
+"","group","model","alteration","n"
+"1","BioMed LM","BioMed LM P1","BRCA2 p.K3326*",1
+"2","BioMed LM","BioMed LM P1","EGFR RNA overexpression",1
+"3","BioMed LM","BioMed LM P1","KEAP1 p.L276F",1
+"4","BioMed LM","BioMed LM P1","MAPK1 p.E322K",1
+"5","BioMed LM","BioMed LM P1","NF1 p.I1605fs",1
+"6","BioMed LM","BioMed LM P1","PIK3CA p.E545K",2
+"7","BioMed LM","BioMed LM P1","TERT p.R859Q",1
+"8","BioMed LM","BioMed LM P1","TGFA RNA overexpression",1
+"9","BioMed LM","BioMed LM P1","TP53 p.A138_Q144del",1
+"10","BioMed LM","BioMed LM P2","ATM p.E1666*",1
+"11","BioMed LM","BioMed LM P2","BRCA2 p.K3326*",1
+"12","BioMed LM","BioMed LM P2","CDH1 p.D433N",1
+"13","BioMed LM","BioMed LM P2","CDKN1B p.K100N",1
+"14","BioMed LM","BioMed LM P2","CTNNA1 p.K577_L578 > TKL",1
+"15","BioMed LM","BioMed LM P2","ERBB3 RNA overexpression",1
+"16","BioMed LM","BioMed LM P2","HRAS p.Q61R",1
+"17","BioMed LM","BioMed LM P2","KEAP1 p.L276F",1
+"18","BioMed LM","BioMed LM P2","KRAS p.G12C",3
+"19","BioMed LM","BioMed LM P2","KRAS p.G13D",1
+"20","BioMed LM","BioMed LM P2","MAP3K8 p.H236Y",1
+"21","BioMed LM","BioMed LM P2","MAPK1 p.E322K",1
+"22","BioMed LM","BioMed LM P2","MUTYH amplification (n>6)",2
+"23","BioMed LM","BioMed LM P2","MYCN p.E47fs*8",1
+"24","BioMed LM","BioMed LM P2","NF1 p.I1605fs",1
+"25","BioMed LM","BioMed LM P2","PTPRS p.R238*",1
+"26","BioMed LM","BioMed LM P2","SMAD4 p.C363R",1
+"27","BioMed LM","BioMed LM P2","STK11 p.K83Tfs*18",1
+"28","BioMed LM","BioMed LM P2","TERT p.R859Q",5
+"29","BioMed LM","BioMed LM P2","TGFA RNA overexpression",1
+"30","BioMed LM","BioMed LM P2","TP53 p.305fs",1
+"31","BioMed LM","BioMed LM P2","TP53 p.A138_Q144del",1
+"32","BioMed LM","BioMed LM P2","TP53 p.A276G",1
+"33","BioMed LM","BioMed LM P2","TP53 p.T211A",1
+"34","BioMed LM","BioMed LM P2","TRAF1 p.R70H",1
+"35","BioMed LM","BioMed LM P2","ZFHX3 p.F2994L",1
+"36","BioMed LM","BioMed LM P3","ATM p.E1666*",2
+"37","BioMed LM","BioMed LM P3","BRCA2 p.K3326*",8
+"38","BioMed LM","BioMed LM P3","CDH1 p.D433N",1
+"39","BioMed LM","BioMed LM P3","CDKN1B p.K100N",3
+"40","BioMed LM","BioMed LM P3","CTNNA1 p.K577_L578 > TKL",1
+"41","BioMed LM","BioMed LM P3","EGFR RNA overexpression",16
+"42","BioMed LM","BioMed LM P3","EGFR p.C797S",2
+"43","BioMed LM","BioMed LM P3","EGFR p.E746_A750del",8
+"44","BioMed LM","BioMed LM P3","ERBB2 RNA overexpression",5
+"45","BioMed LM","BioMed LM P3","ERBB3 RNA overexpression",4
+"46","BioMed LM","BioMed LM P3","EXT1-MAGI2 fusion",3
+"47","BioMed LM","BioMed LM P3","FGFR2::BICC1 Fusion",3
+"48","BioMed LM","BioMed LM P3","FGFR3 RNA overexpression",1
+"49","BioMed LM","BioMed LM P3","FGFR3 p.D786N",3
+"50","BioMed LM","BioMed LM P3","HDAC2 p.R409*",4
+"51","BioMed LM","BioMed LM P3","HRAS p.Q61R",3
+"52","BioMed LM","BioMed LM P3","JAK1 p.I597M",2
+"53","BioMed LM","BioMed LM P3","KEAP1 p.L276F",2
+"54","BioMed LM","BioMed LM P3","KMT2C p.P2493Q",2
+"55","BioMed LM","BioMed LM P3","KRAS p.G12C",14
+"56","BioMed LM","BioMed LM P3","KRAS p.G13D",1
+"57","BioMed LM","BioMed LM P3","MAP3K1 p.T949_E950insT",1
+"58","BioMed LM","BioMed LM P3","MAP3K8 p.H236Y",3
+"59","BioMed LM","BioMed LM P3","MAPK1 p.E322K",2
+"60","BioMed LM","BioMed LM P3","MET RNA overexpression",5
+"61","BioMed LM","BioMed LM P3","MET amplification",7
+"62","BioMed LM","BioMed LM P3","MUTYH amplification (n>6)",5
+"63","BioMed LM","BioMed LM P3","MYC amplification (n>6)",1
+"64","BioMed LM","BioMed LM P3","MYCL1 amplification (n>6)",1
+"65","BioMed LM","BioMed LM P3","MYCN p.E47fs*8",3
+"66","BioMed LM","BioMed LM P3","PDGFRB RNA overexpression",6
+"67","BioMed LM","BioMed LM P3","PIK3CA amplification (n>6)",2
+"68","BioMed LM","BioMed LM P3","PIK3CA p.E545K",3
+"69","BioMed LM","BioMed LM P3","PRKDC-CDH17 fusion",3
+"70","BioMed LM","BioMed LM P3","PTPRS p.R238*",2
+"71","BioMed LM","BioMed LM P3","RB1 p.Q846*",1
+"72","BioMed LM","BioMed LM P3","SMAD4 p.C363R",2
+"73","BioMed LM","BioMed LM P3","STK11 p.K83Tfs*19",1
+"74","BioMed LM","BioMed LM P3","STK11 p.K83Tfs*20",1
+"75","BioMed LM","BioMed LM P3","STK11 p.K83Tfs*21",1
+"76","BioMed LM","BioMed LM P3","TGFA RNA overexpression",3
+"77","BioMed LM","BioMed LM P3","TMEM111-TDRD3 fusion",3
+"78","BioMed LM","BioMed LM P3","TP53 c.672+1G>A",2
+"79","BioMed LM","BioMed LM P3","TP53 p.305fs",3
+"80","BioMed LM","BioMed LM P3","TP53 p.A138_Q144del",2
+"81","BioMed LM","BioMed LM P3","TP53 p.A276G",4
+"82","BioMed LM","BioMed LM P3","TP53 p.E258*",4
+"83","BioMed LM","BioMed LM P3","TP53 p.T211A",3
+"84","BioMed LM","BioMed LM P3","TRAF1 p.R70H",3
+"85","BioMed LM","BioMed LM P3","ZFHX3 p.F2994L",3
+"86","BioMed LM","BioMed LM P4","ATM p.E1666*",1
+"87","BioMed LM","BioMed LM P4","CDH1 p.D433N",1
+"88","BioMed LM","BioMed LM P4","CDKN1B p.K100N",1
+"89","BioMed LM","BioMed LM P4","EGFR RNA overexpression",1
+"90","BioMed LM","BioMed LM P4","EGFR p.C797S",1
+"91","BioMed LM","BioMed LM P4","ERBB2 RNA overexpression",2
+"92","BioMed LM","BioMed LM P4","EXT1-MAGI2 fusion",1
+"93","BioMed LM","BioMed LM P4","FGFR3 RNA overexpression",2
+"94","BioMed LM","BioMed LM P4","FGFR3 p.D786N",1
+"95","BioMed LM","BioMed LM P4","HDAC2 p.R409*",1
+"96","BioMed LM","BioMed LM P4","HRAS p.Q61R",1
+"97","BioMed LM","BioMed LM P4","KEAP1 p.L276F",2
+"98","BioMed LM","BioMed LM P4","KMT2C p.P2493Q",1
+"99","BioMed LM","BioMed LM P4","KRAS p.G13D",1
+"100","BioMed LM","BioMed LM P4","MAP3K8 p.H236Y",1
+"101","BioMed LM","BioMed LM P4","MET RNA overexpression",1
+"102","BioMed LM","BioMed LM P4","MUTYH amplification (n>6)",1
+"103","BioMed LM","BioMed LM P4","MYCN p.E47fs*8",1
+"104","BioMed LM","BioMed LM P4","NF1 p.I1605fs",1
+"105","BioMed LM","BioMed LM P4","PDGFRB RNA overexpression",2
+"106","BioMed LM","BioMed LM P4","PRKDC-CDH17 fusion",1
+"107","BioMed LM","BioMed LM P4","SOX2 amplification (n>6)",3
+"108","BioMed LM","BioMed LM P4","STK11 p.K83Tfs*21",1
+"109","BioMed LM","BioMed LM P4","TGFA RNA overexpression",1
+"110","BioMed LM","BioMed LM P4","TMEM111-TDRD3 fusion",1
+"111","BioMed LM","BioMed LM P4","TP53 c.672+1G>A",1
+"112","BioMed LM","BioMed LM P4","TP53 p.305fs",1
+"113","BioMed LM","BioMed LM P4","TP53 p.A276G",1
+"114","BioMed LM","BioMed LM P4","TP53 p.E258*",1
+"115","BioMed LM","BioMed LM P4","TP53 p.T211A",1
+"116","BioMed LM","BioMed LM P4","TRAF1 p.R70H",1
+"117","ChatGPT","ChatGPT","ATM p.E1666*",1
+"118","ChatGPT","ChatGPT","BRCA2 p.K3326*",1
+"119","ChatGPT","ChatGPT","CDH1 p.D433N",1
+"120","ChatGPT","ChatGPT","EGFR RNA overexpression",3
+"121","ChatGPT","ChatGPT","EGFR p.C797S",10
+"122","ChatGPT","ChatGPT","EGFR p.E746_A750del",11
+"123","ChatGPT","ChatGPT","ERBB2 RNA overexpression",1
+"124","ChatGPT","ChatGPT","ERBB3 RNA overexpression",1
+"125","ChatGPT","ChatGPT","FGFR2::BICC1 Fusion",2
+"126","ChatGPT","ChatGPT","FGFR3 RNA overexpression",2
+"127","ChatGPT","ChatGPT","FGFR3 p.D786N",3
+"128","ChatGPT","ChatGPT","Fusion genes",2
+"129","ChatGPT","ChatGPT","HDAC2 p.R409*",1
+"130","ChatGPT","ChatGPT","HRAS p.Q61R",1
+"131","ChatGPT","ChatGPT","JAK1 p.I597M",2
+"132","ChatGPT","ChatGPT","KEAP1 p.L276F",3
+"133","ChatGPT","ChatGPT","KMT2C p.P2493Q",2
+"134","ChatGPT","ChatGPT","KRAS p.G12C",1
+"135","ChatGPT","ChatGPT","KRAS p.G12V",2
+"136","ChatGPT","ChatGPT","KRAS p.G13D",2
+"137","ChatGPT","ChatGPT","MAPK1 p.E322K",3
+"138","ChatGPT","ChatGPT","MET RNA overexpression",1
+"139","ChatGPT","ChatGPT","MET amplification",4
+"140","ChatGPT","ChatGPT","MYC amplification (n>6)",2
+"141","ChatGPT","ChatGPT","PDGFRB RNA overexpression",1
+"142","ChatGPT","ChatGPT","PIK3CA amplification (n>6)",2
+"143","ChatGPT","ChatGPT","PIK3CA p.E545K",5
+"144","ChatGPT","ChatGPT","SMAD4 p.C363R",2
+"145","ChatGPT","ChatGPT","STK11 p.K83Tfs*17",1
+"146","ChatGPT","ChatGPT","TERT p.R859Q",1
+"147","ChatGPT","ChatGPT","TP53 p.305fs",1
+"148","ChatGPT","ChatGPT","TP53 p.A276G",1
+"149","ChatGPT","ChatGPT","TP53 p.E258*",2
+"150","ChatGPT","ChatGPT","TP53 p.H214fs*7",1
+"151","ChatGPT","ChatGPT","TP53 p.H214fs*8",1
+"152","ChatGPT","ChatGPT","TP53 p.T211A",2
+"153","ChatGPT","ChatGPT","Unspecified",3
+"154","Galactica","Galactica P1","EGFR p.E746_A750del",4
+"155","Galactica","Galactica P1","ERBB2 RNA overexpression",1
+"156","Galactica","Galactica P1","FGFR2::BICC1 Fusion",1
+"157","Galactica","Galactica P1","KRAS p.G12C",1
+"158","Galactica","Galactica P1","KRAS p.G13D",1
+"159","Galactica","Galactica P1","MET amplification",8
+"160","Galactica","Galactica P1","MUTYH amplification (n>6)",1
+"161","Galactica","Galactica P1","PDGFRB RNA overexpression",1
+"162","Galactica","Galactica P2","BRCA2 p.K3326*",1
+"163","Galactica","Galactica P2","EGFR p.C797S",1
+"164","Galactica","Galactica P2","EGFR p.E746_A750del",2
+"165","Galactica","Galactica P2","EXT1-MAGI2 fusion",1
+"166","Galactica","Galactica P2","FGFR2::BICC1 Fusion",1
+"167","Galactica","Galactica P2","FGFR3 p.D786N",1
+"168","Galactica","Galactica P2","HRAS p.Q61R",4
+"169","Galactica","Galactica P2","KMT2C p.P2493Q",2
+"170","Galactica","Galactica P2","KRAS p.G12C",1
+"171","Galactica","Galactica P2","KRAS p.G12V",1
+"172","Galactica","Galactica P2","MAPK1 p.E322K",1
+"173","Galactica","Galactica P2","MET amplification",1
+"174","Galactica","Galactica P2","MYCL1 amplification (n>6)",1
+"175","Galactica","Galactica P2","PIK3CA p.E545K",1
+"176","Galactica","Galactica P2","SMAD4 p.C363R",1
+"177","Galactica","Galactica P2","STK11 p.C210*",1
+"178","Galactica","Galactica P2","TP53 p.A276G",1
+"179","Galactica","Galactica P2","TP53 p.T211A",1
+"180","Galactica","Galactica P2","Unspecified",1
+"181","Galactica","Galactica P2","ZFHX3 p.F2994L",1
+"182","Perplexity.ai","Perplexity.ai P1","BRCA2 p.K3326*",1
+"183","Perplexity.ai","Perplexity.ai P1","CDKN2C p.L65F",1
+"184","Perplexity.ai","Perplexity.ai P1","EGFR RNA overexpression",5
+"185","Perplexity.ai","Perplexity.ai P1","EGFR p.E746_A750del",1
+"186","Perplexity.ai","Perplexity.ai P1","ERBB3 RNA overexpression",3
+"187","Perplexity.ai","Perplexity.ai P1","FGFR2::BICC1 Fusion",3
+"188","Perplexity.ai","Perplexity.ai P1","FGFR3 p.D786N",3
+"189","Perplexity.ai","Perplexity.ai P1","KEAP1 p.L276F",1
+"190","Perplexity.ai","Perplexity.ai P1","KMT2C p.P2493Q",1
+"191","Perplexity.ai","Perplexity.ai P1","KRAS p.G12C",2
+"192","Perplexity.ai","Perplexity.ai P1","KRAS p.G12V",1
+"193","Perplexity.ai","Perplexity.ai P1","KRAS p.G13D",5
+"194","Perplexity.ai","Perplexity.ai P1","MET amplification",2
+"195","Perplexity.ai","Perplexity.ai P1","PDGFRB RNA overexpression",3
+"196","Perplexity.ai","Perplexity.ai P1","PIK3CA p.E545K",1
+"197","Perplexity.ai","Perplexity.ai P1","STK11 p.C210*",2
+"198","Perplexity.ai","Perplexity.ai P1","STK11 p.K83Tfs*16",3
+"199","Perplexity.ai","Perplexity.ai P1","TMEM111-TDRD3 fusion",4
+"200","Perplexity.ai","Perplexity.ai P1","TP53 c.672+1G>A",2
+"201","Perplexity.ai","Perplexity.ai P1","TP53 p.A138_Q144del",2
+"202","Perplexity.ai","Perplexity.ai P1","TP53 p.A276G",1
+"203","Perplexity.ai","Perplexity.ai P1","TP53 p.E258*",3
+"204","Perplexity.ai","Perplexity.ai P1","TP53 p.T211A",1
+"205","Perplexity.ai","Perplexity.ai P2","ATM p.E1666*",5
+"206","Perplexity.ai","Perplexity.ai P2","BCORL p.R1332*",1
+"207","Perplexity.ai","Perplexity.ai P2","CDKN1B p.K100N",3
+"208","Perplexity.ai","Perplexity.ai P2","EGFR p.C797S",10
+"209","Perplexity.ai","Perplexity.ai P2","EGFR p.E746_A750del",11
+"210","Perplexity.ai","Perplexity.ai P2","FGFR2::BICC1 Fusion",1
+"211","Perplexity.ai","Perplexity.ai P2","HDAC2 p.R409*",1
+"212","Perplexity.ai","Perplexity.ai P2","HRAS p.Q61R",2
+"213","Perplexity.ai","Perplexity.ai P2","KEAP1 p.L276F",1
+"214","Perplexity.ai","Perplexity.ai P2","KRAS p.G12C",3
+"215","Perplexity.ai","Perplexity.ai P2","KRAS p.G12V",1
+"216","Perplexity.ai","Perplexity.ai P2","KRAS p.G13D",3
+"217","Perplexity.ai","Perplexity.ai P2","MAP3K8 p.H236Y",2
+"218","Perplexity.ai","Perplexity.ai P2","MAPK1 p.E322K",3
+"219","Perplexity.ai","Perplexity.ai P2","MET amplification",2
+"220","Perplexity.ai","Perplexity.ai P2","NF1 p.I1605fs",1
+"221","Perplexity.ai","Perplexity.ai P2","PIK3CA p.E545K",6
+"222","Perplexity.ai","Perplexity.ai P2","SMAD4 p.C363R",3
+"223","Perplexity.ai","Perplexity.ai P2","STK11 p.C210*",1
+"224","Perplexity.ai","Perplexity.ai P2","STK11 p.K83Tfs*13",1
+"225","Perplexity.ai","Perplexity.ai P2","STK11 p.K83Tfs*14",1
+"226","Perplexity.ai","Perplexity.ai P2","STK11 p.K83Tfs*15",1
+"227","Perplexity.ai","Perplexity.ai P2","TP53 c.672+1G>A",2
+"228","Perplexity.ai","Perplexity.ai P2","TP53 p.305fs",8
+"229","Perplexity.ai","Perplexity.ai P2","TP53 p.A138_Q144del",4
+"230","Perplexity.ai","Perplexity.ai P2","TP53 p.A276G",6
+"231","Perplexity.ai","Perplexity.ai P2","TP53 p.T211A",2
+"232","Perplexity.ai","Perplexity.ai P2","Unspecified",7

@@ -1,0 +1,22 @@
+"","name","TN","FN","FP","TP","classification","value","model"
+"1","BioMed LM",298,35,242,6,"precision",0.0241935483870968,"BioMed LM"
+"2","BioMed LM",298,35,242,6,"recall",0.146341463414634,"BioMed LM"
+"3","BioMed LM",298,35,242,6,"f1",0.041522491349481,"BioMed LM"
+"4","ChatGPT",466,30,74,11,"precision",0.129411764705882,"ChatGPT"
+"5","ChatGPT",466,30,74,11,"recall",0.268292682926829,"ChatGPT"
+"6","ChatGPT",466,30,74,11,"f1",0.174603174603175,"ChatGPT"
+"7","ChatGPT 4",481,26,59,15,"precision",0.202702702702703,NA
+"8","ChatGPT 4",481,26,59,15,"recall",0.365853658536585,NA
+"9","ChatGPT 4",481,26,59,15,"f1",0.260869565217391,NA
+"10","Galactica",507,33,33,8,"precision",0.195121951219512,"Galactica"
+"11","Galactica",507,33,33,8,"recall",0.195121951219512,"Galactica"
+"12","Galactica",507,33,33,8,"f1",0.195121951219512,"Galactica"
+"13","Perplexity.ai",411,28,129,13,"precision",0.0915492957746479,"Perplexity.ai"
+"14","Perplexity.ai",411,28,129,13,"recall",0.317073170731707,"Perplexity.ai"
+"15","Perplexity.ai",411,28,129,13,"f1",0.14207650273224,"Perplexity.ai"
+"16","clinical",13,27,116,14,"precision",0.107692307692308,"clinical"
+"17","clinical",13,27,116,14,"recall",0.341463414634146,"clinical"
+"18","clinical",13,27,116,14,"f1",0.16374269005848,"clinical"
+"19","combined",99,29,30,12,"precision",0.285714285714286,"combined"
+"20","combined",99,29,30,12,"recall",0.292682926829268,"combined"
+"21","combined",99,29,30,12,"f1",0.289156626506024,"combined"

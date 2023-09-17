@@ -53,6 +53,10 @@ patient,alteration,model,version,recommendation,reference,reference2,mechanism,c
 1,KRAS p.G13D,OncoKB,NA,cobimetinib,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
 1,KRAS p.G13D,OncoKB,NA,trametinib,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
 1,KRAS p.G13D,OncoKB,NA,binimetinib,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,ChatGPT 4,NA,amg 510,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,ChatGPT 4,NA,mrtx849,NCT03785249,NA,NA,NA,0,0,0,0,0,0,0,0
+1,KRAS p.G13D,ChatGPT 4,NA,tipifarnib,NA,NA,Farnesyltransferase inhibitor for HRAS-mutated head and neck cancer,NA,0,0,0,0,0,0,0,0
+1,TP53 p.A276G,ChatGPT 4,NA,prima-1,NA,NA,NA,NA,0,0,0,0,0,0,0,0
 2,KRAS p.G12V,Perplexity.ai,NA,sotorasib,Blog,https://www.cancer.gov/news-events/cancer-currents-blog/2022/kras-targeted-drugs-as-immunotherapy,NA,NA,0,0,0,0,0,0,1,0
 2,KRAS p.G12V,Perplexity.ai,NA,bevacizumab,34336658,https://www.frontiersin.org/articles/10.3389/fonc.2021.662589/full,NA,Case report,0,0,0,0,0,0,0,1
 2,KRAS p.G12V,ChatGPT,NA,sotorasib,NCT03785249,NA,NA,NA,0,0,0,0,0,0,0,0
@@ -120,6 +124,23 @@ patient,alteration,model,version,recommendation,reference,reference2,mechanism,c
 2,KRAS p.G12V,OncoKB,NA,adagrasib and cetuximab,NA,NA,Colorectal cancer,NA,0,0,0,0,0,0,0,0
 2,KRAS p.G12V,OncoKB,NA,rmc-6236,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
 2,FANCL p.T367fs*12+,OncoKB,NA,olaparib,NA,NA,"Prostate Cancer, NOS, Prostate Cancer",NA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),ChatGPT 4,NA,alpelisib,NA,NA,Breast cancer,FDA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),ChatGPT 4,NA,idelalisib,NA,NA,Certain types of leukemia and lymphomas,FDA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),ChatGPT 4,NA,copanlisib,NA,NA,Relapsed follicular lymphoma,FDA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),ChatGPT 4,NA,taselisib,NCT02340221,NA,NA,NA,0,0,0,0,0,0,0,0
+2,PIK3CA amplification (n>6),ChatGPT 4,NA,buparlisib,NCT01820364,NA,NA,NA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,ChatGPT 4,NA,sotorasib,NA,NA,Non-small cell lung cancer,FDA,0,0,0,0,0,0,0,0
+2,KRAS p.G12V,ChatGPT 4,NA,adagrasib,NCT03785249,NA,NA,NA,0,0,0,0,0,0,0,0
+2,MYC amplification (n>6),ChatGPT 4,NA,jq1,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+2,BCORL p.R1332*,ChatGPT 4,NA,vorinostat,NA,NA,HDAC inhibitor,NA,0,0,0,0,0,0,0,0
+2,BCORL p.R1332*,ChatGPT 4,NA,panobinostat,NA,NA,HDAC inhibitor,NA,0,0,0,0,0,0,0,0
+2,MAP3K1 p.T949_E950insT,ChatGPT 4,NA,trametinib,NA,NA,MEK inhibitor,NA,0,0,0,0,0,0,0,0
+2,MAP3K1 p.T949_E950insT,ChatGPT 4,NA,cobimetinib,NA,NA,MEK inhibitor,NA,0,0,0,0,0,0,0,0
+2,JAK1 p.I597M,ChatGPT 4,NA,ruxolitinib,NCT03158724,NA,NA,NA,0,0,0,0,0,0,0,0
+2,JAK1 p.I597M,ChatGPT 4,NA,tofacitinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+2,MUTYH amplification (n>6),ChatGPT 4,NA,olaparib,NA,NA,PARP inhibitor,NA,0,0,0,0,0,0,0,0
+2,MUTYH amplification (n>6),ChatGPT 4,NA,rucaparib,NA,NA,PARP inhibitor,NA,0,0,0,0,0,0,0,0
+2,MUTYH amplification (n>6),ChatGPT 4,NA,niraparib,NA,NA,PARP inhibitor,NA,0,0,0,0,0,0,0,0
 3,Unspecified,Perplexity.ai,NA,selinexor,NA,https://www.clinicaltrialsregister.eu/ctr-search/search?query=Thymic+Carcinoma,NA,Phase II,0,0,0,0,0,0,0,1
 3,Unspecified,Perplexity.ai,NA,amrubicin,NA,https://www.cancer.net/cancer-types/thymoma-and-thymic-carcinoma/latest-research,NA,NA,0,0,0,0,0,0,0,1
 3,BRCA2 p.K3326*,Perplexity.ai,NA,parp inhibitors,NA,NA,NA,NA,0,0,0,0,0,0,1,0
@@ -328,6 +349,24 @@ patient,alteration,model,version,recommendation,reference,reference2,mechanism,c
 3,MET RNA overexpression,OncoKB,NA,tepotinib,NA,NA,Non-Small Cell Lung Cancer,NA,0,0,0,0,0,0,0,0
 3,MET RNA overexpression,OncoKB,NA,crizotinib,NA,NA,Non-Small Cell Lung Cancer,NA,0,0,0,0,0,0,0,0
 3,MET RNA overexpression,OncoKB,NA,capmatinib,NA,NA,Non-Small Cell Lung Cancer,NA,0,0,0,0,0,0,0,0
+3,ERBB3 RNA overexpression,ChatGPT 4,NA,azd8931,NCT02187783,NA,NA,NA,0,0,0,0,0,0,0,0
+3,ERBB3 RNA overexpression,ChatGPT 4,NA,patritumab,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,ChatGPT 4,NA,trastuzumab,NA,NA,Breast cancer,FDA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,ChatGPT 4,NA,pertuzumab and trastuzumab,NA,NA,"Combination, breast cancer",FDA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,ChatGPT 4,NA,ado-trastuzumab emtansine,NA,NA,Breast cancer,FDA,0,0,0,0,0,0,0,0
+3,ERBB2 RNA overexpression,ChatGPT 4,NA,fam-trastuzumab deruxtecan-nxki,NA,NA,Breast cancer,FDA,0,0,0,0,0,0,0,0
+3,PDGFRB RNA Overexpression,ChatGPT 4,NA,imatinib,NA,NA,Gastrointestinal stromal tumors,FDA,0,0,0,0,0,0,0,0
+3,FGFR3 RNA Overexpression,ChatGPT 4,NA,erdafitinib,NA,NA,Urothelial carcinoma,FDA,0,0,0,0,0,0,0,0
+3,MET RNA overexpression,ChatGPT 4,NA,capmatinib,NA,NA,MET exon 14 skipping mutated NSCLC,FDA,0,0,0,0,0,0,0,0
+3,MET RNA overexpression,ChatGPT 4,NA,crizotinib,NA,NA,MET exon 14 skipping mutated NSCLC,FDA,0,0,0,0,0,0,0,0
+3,BRCA2 p.K3326*,ChatGPT 4,NA,olaparib,NA,NA,PARP inhibitor,FDA,0,0,0,0,0,0,0,0
+3,BRCA2 p.K3326*,ChatGPT 4,NA,rucaparib,NA,NA,PARP inhibitor,FDA,0,0,0,0,0,0,0,0
+3,BRCA2 p.K3326*,ChatGPT 4,NA,niraparib,NA,NA,PARP inhibitor,FDA,0,0,0,0,0,0,0,0
+3,SMAD4 p.C363R,ChatGPT 4,NA,galunisertib,NCT02423343,NA,NA,NA,0,0,0,0,0,0,0,0
+3,SMAD4 p.C363R,ChatGPT 4,NA,ribociclib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+3,SMAD4 p.C363R,ChatGPT 4,NA,abemaciclib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+3,CDKN1B p.K100N,ChatGPT 4,NA,palbocicilib,NCT02187783,NA,CDK4/6 inhibitor,NA,0,0,0,0,0,0,0,0
+3,ATM p.E1666*,ChatGPT 4,NA,olaparib,NCT03330847,NA,PARP inhibitor,NA,0,0,0,0,0,0,0,0
 4,PIK3CA p.E545K,Perplexity.ai,NA,bkm120,NCT01501604,NA,NA,Phase 2,0,0,0,0,0,0,0,1
 4,PIK3CA p.E545K,Perplexity.ai,NA,alpelisib and fulvestrant,NA,https://www.frontiersin.org/articles/10.3389/fonc.2021.644737/full,combination,NA,0,0,0,0,0,0,0,1
 4,PIK3CA p.E545K,Perplexity.ai,NA,t-dm1,NA,https://ascopubs.org/doi/full/10.1200/PO.21.00370,NA,NA,0,0,0,0,0,0,0,1
@@ -381,6 +420,13 @@ patient,alteration,model,version,recommendation,reference,reference2,mechanism,c
 4,FGFR3 p.D786N,OncoKB,NA,infigratinib,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
 4,FGFR3 p.D786N,OncoKB,NA,erdafitinib,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
 4,FGFR3 p.D786N,OncoKB,NA,azd4547,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,ChatGPT 4,NA,alpelisib,NA,NA,Breast cancer,FDA,0,0,0,0,0,0,0,0
+4,PIK3CA p.E545K,ChatGPT 4,NA,copanlisib,NA,NA,Relapsed follicular lymphoma,FDA,0,0,0,0,0,0,0,0
+4,FGFR3 p.D786N,ChatGPT 4,NA,erdafitinib,NA,NA,Urothelial carcinoma,FDA,0,0,0,0,0,0,0,0
+4,FGFR3 p.D786N,ChatGPT 4,NA,derazantinib,NCT03230318,NA,NA,NA,0,0,0,0,0,0,0,0
+4,FGFR3 p.D786N,ChatGPT 4,NA,rogaratinib,NCT01976741,NA,NA,NA,0,0,0,0,0,0,0,0
+4,MAPK1 p.E322K,ChatGPT 4,NA,trametinib,NCT01675999,NA,MEK inhibitor,NA,0,0,0,0,0,0,0,0
+4,MAPK1 p.E322K,ChatGPT 4,NA,binimetinib,NA,NA,MEK inhibitor,NA,0,0,0,0,0,0,0,0
 5,EGFR p.E746_A750del,Perplexity.ai,NA,osimertinib,NCT03239340,NA,NA,Phase 2,0,0,0,0,0,0,1,0
 5,EGFR p.E746_A750del,Perplexity.ai,NA,mefatinib,34719670,https://pubmed.ncbi.nlm.nih.gov/34719670/,NA,Trial,0,0,0,0,0,0,0,1
 5,EGFR p.E746_A750del,ChatGPT,NA,erlotinib,NA,NA,EGFR inhibition,Level 1a,0,0,0,0,0,0,0,0
@@ -447,6 +493,16 @@ patient,alteration,model,version,recommendation,reference,reference2,mechanism,c
 5,MET amplification,OncoKB,NA,tepotinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
 5,MET amplification,OncoKB,NA,crizotinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
 5,MET amplification,OncoKB,NA,capmatinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,ChatGPT 4,NA,erlotinib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,ChatGPT 4,NA,gefitinib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,ChatGPT 4,NA,afatinib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,ChatGPT 4,NA,osimertinib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+5,EGFR p.E746_A750del,ChatGPT 4,NA,dacomitinib,NCT01774721,NA,pan-HER inhibitor,NA,0,0,0,0,0,0,0,0
+5,TP53 p.A138_Q144del,ChatGPT 4,NA,prima-1,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,ChatGPT 4,NA,capmatinib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+5,MET amplification,ChatGPT 4,NA,crizotinib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+5,MET amplification,ChatGPT 4,NA,tepotinib,NCT02864992,NA,NA,NA,0,0,0,0,0,0,0,0
+5,MET amplification,ChatGPT 4,NA,savolitinib,NCT02897479,NA,NA,NA,0,0,0,0,0,0,0,0
 6,KEAP1 p.L276F,BioMed LM,NA,ml323,NA,NA,NA,NA,0,0,0,0,0,1,0,0
 6,KEAP1 p.L276F,BioMed LM,NA,cddo-me,NA,NA,NA,NA,0,0,0,0,0,1,0,0
 6,KRAS p.G12C,BioMed LM,NA,trametinib,NA,NA,MEK inhibitor,NA,0,0,0,0,1,0,0,0
@@ -514,6 +570,8 @@ patient,alteration,model,version,recommendation,reference,reference2,mechanism,c
 6,KRAS p.G12C,OncoKB,NA,adagrasib and cetuximab,NA,NA,Colorectal cancer,NA,0,0,0,0,0,0,0,0
 6,KRAS p.G12C,OncoKB,NA,rmc-6236,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
 6,STK11 p.K83Tfs*15,OncoKB,NA,bemcentinib and pembrolizumab,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,ChatGPT 4,NA,sotorasib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+6,KRAS p.G12C,ChatGPT 4,NA,mrtx849,NCT03785249,NA,NA,NA,0,0,0,0,0,0,0,0
 7,NF1 p.I1605fs,BioMed LM,NA,vemurafenib,NA,NA,NA,NA,0,0,1,0,0,0,0,0
 7,NF1 p.I1605fs,BioMed LM,NA,dabrafenib and trametinib,NA,NA,NA,NA,0,0,0,1,0,0,0,0
 7,NF1 p.I1605fs,BioMed LM,NA,mek inhibitors,NA,NA,NA,NA,0,0,0,0,1,1,0,0
@@ -544,6 +602,13 @@ patient,alteration,model,version,recommendation,reference,reference2,mechanism,c
 7,NF1 p.I1605fs,OncoKB,NA,selumetinib,NA,NA,Neurofibroma,NA,0,0,0,0,0,0,0,0
 7,NF1 p.I1605fs,OncoKB,NA,trametinib,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
 7,NF1 p.I1605fs,OncoKB,NA,cobimetinib,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
+7,NF1 p.I1605fs,ChatGPT 4,NA,dabrafenib and trametinib,NA,NA,BRAF and MEK inhibitors,FDA,0,0,0,0,0,0,0,0
+7,TP53 c.672+1G>A,ChatGPT 4,NA,prima-1,NCT03675737,NA,NA,NA,0,0,0,0,0,0,0,0
+7,RB1 p.Q846*,ChatGPT 4,NA,palbociclib,NCT02065063,NA,NA,NA,0,0,0,0,0,0,0,0
+7,Unspecified,ChatGPT 4,NA,pembrolizumab,NA,NA,CDK4/CDK6 inhibitor,NA,0,0,0,0,0,0,0,0
+7,Unspecified,ChatGPT 4,NA,nivolumab,NA,NA,ICI,NA,0,0,0,0,0,0,0,0
+7,Unspecified,ChatGPT 4,NA,ipilimumab,NA,NA,ICI,NA,0,0,0,0,0,0,0,0
+NA,NA,ChatGPT 4,NA,NA,NA,NA,ICI,NA,0,0,0,0,0,0,0,0
 8,FGFR2::BICC1 Fusion,Perplexity.ai,NA,pemigatinib,35444941,https://www.frontiersin.org/articles/10.3389/fonc.2022.860453/full,NA,Phase 2,0,0,0,0,0,0,1,0
 8,FGFR2::BICC1 Fusion,Perplexity.ai,NA,futibatinib,35444941,https://www.frontiersin.org/articles/10.3389/fonc.2022.860453/full,NA,Phase 2,0,0,0,0,0,0,1,0
 8,FGFR2::BICC1 Fusion,Perplexity.ai,NA,icg001 and c59,31899106,https://www.sciencedirect.com/science/article/pii/S1359610119301376,NA,NA,0,0,0,0,0,0,1,0
@@ -579,6 +644,10 @@ patient,alteration,model,version,recommendation,reference,reference2,mechanism,c
 8,FGFR2::BICC1 Fusion,OncoKB,NA,pemigatinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
 8,FGFR2::BICC1 Fusion,OncoKB,NA,debio1347,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
 8,FGFR2::BICC1 Fusion,OncoKB,NA,azd4547,NA,NA,All solid tumors,NA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,ChatGPT 4,NA,pemigatinib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,ChatGPT 4,NA,infigratinib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+8,FGFR2::BICC1 Fusion,ChatGPT 4,NA,derazantinib,NCT03230318,NA,NA,NA,0,0,0,0,0,0,0,0
+8,TP53 p.E258*,ChatGPT 4,NA,prima-1,NCT03675737,NA,NA,NA,0,0,0,0,0,0,0,0
 9,HRAS p.Q61R,Perplexity.ai,NA,tipifarnib,32557577,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8266417/,NA,NA,0,0,0,0,0,0,1,1
 9,HRAS p.Q61R,Perplexity.ai,NA,androgen deprivation therapy,NCT01969578,NA,NA,NA,0,0,0,0,0,0,0,1
 9,HRAS p.Q61R,ChatGPT,NA,trametinib,"NCT02501954, PMID: 29898992",NA,NA,NA,0,0,0,0,0,0,0,0
@@ -635,9 +704,15 @@ patient,alteration,model,version,recommendation,reference,reference2,mechanism,c
 9,PIK3CA p.E545K,CiVIC,NA,cisplatin and pictilisib,27489350,NA,Cervix Carcinoma,NA,0,0,0,0,0,0,0,0
 9,PIK3CA p.E545K,CiVIC,NA,pi3ka/di,20453058,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
 9,HRAS p.Q61R,OncoKB,NA,tipifarnib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
-4,PIK3CA p.E545K,OncoKB,NA,alpelisib and fulvestrant,NA,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
-4,PIK3CA p.E545K,OncoKB,NA,rly-2608,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
-4,PIK3CA p.E545K,OncoKB,NA,rly-2608 and fulvestrant,NA,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,OncoKB,NA,alpelisib and fulvestrant,NA,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,OncoKB,NA,rly-2608,NA,NA,All Solid Tumors,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,OncoKB,NA,rly-2608 and fulvestrant,NA,NA,Breast cancer,NA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,ChatGPT 4,NA,alpelisib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+9,PIK3CA p.E545K,ChatGPT 4,NA,copanlisib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+9,HRAS p.Q61R,ChatGPT 4,NA,tipifarnib,NCT02383927,NA,Farnesyltransferase inhibitor,NA,0,0,0,0,0,0,0,0
+9,TP53 p.T211A,ChatGPT 4,NA,prima-1,NCT03675737.,NA,NA,NA,0,0,0,0,0,0,0,0
+9,Unspecified,ChatGPT 4,NA,bicalutamide,NA,NA,AR inhibitors,NA,0,0,0,0,0,0,0,0
+9,Unspecified,ChatGPT 4,NA,enzalutamide,NA,NA,AR inhibitors,NA,0,0,0,0,0,0,0,0
 10,EGFR p.E746_A750del,Perplexity.ai,NA,osimertinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
 10,EGFR p.E746_A750del,Perplexity.ai,NA,afatinib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,FDA,0,0,0,0,0,0,1,1
 10,EGFR p.E746_A750del,Perplexity.ai,NA,luminespib,NA,https://pcm.amegroups.com/article/view/7280/html,NA,NA,0,0,0,0,0,0,1,1
@@ -715,3 +790,8 @@ patient,alteration,model,version,recommendation,reference,reference2,mechanism,c
 10,EGFR p.E746_A750del,OncoKB,NA,osimertinib,NA,NA,NA,NA,0,0,0,0,0,0,0,0
 10,EGFR p.E746_A750del,OncoKB,NA,patritumab deruxtecan,NA,NA,NA,NA,0,0,0,0,0,0,0,0
 10,STK11 p.C210*,OncoKB,NA,bemcentinib and pembrolizumab,NA,NA,NA,NA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT 4,NA,erlotinib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT 4,NA,gefitinib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT 4,NA,afatinib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+10,EGFR p.E746_A750del,ChatGPT 4,NA,osimertinib,NA,NA,NA,FDA,0,0,0,0,0,0,0,0
+10,EGFR p.C797S,ChatGPT 4,NA,erlotinib and blu-667,NA,NA,NA,NA,0,0,0,0,0,0,0,0
