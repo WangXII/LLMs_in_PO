@@ -3,7 +3,7 @@ library(readxl)
 library(janitor)
 
 ## read and clean data ----
-sheet.names <- excel_sheets("data/20230419_Beispielfälle_alle_Empfehlungen.xlsx")
+sheet.names <- excel_sheets("20230419_Beispielfälle_alle_Empfehlungen.xlsx")
 cols_to_fill <- c("galactica_v1", "galactica_v2", "bio_med_lm_v1",
                   "bio_med_lm_v2", "bio_med_lm_v3", "bio_med_lm_v4",
                   "perplexity_ai_v1", "perplexity_v2")
@@ -22,5 +22,5 @@ lapply(sheet.names, function(x){
   remove_empty() %>% 
   select(-x19, -x20) %>% 
   mutate_all(.funs = str_squish) %>% 
-  write_csv("data/RecommendationsClean.csv")
+  write_csv("RecommendationsClean.csv")
 
