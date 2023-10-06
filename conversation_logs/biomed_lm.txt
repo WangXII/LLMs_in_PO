@@ -1,0 +1,1826 @@
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant KRAS G13D in lung adenocarcinoma? Answer: Yes, there are several drugs that target the KRAS G13D mutation. The most common KRAS G13D mutation is associated with resistance to EGFR tyrosine kinase
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant KRAS G13D in lung adenocarcinoma? Answer: The patient was started on chemotherapy with carboplatin and paclitaxel.
+
+Question: What is the prognosis of this patient? Answer: The patient is currently on chemotherapy and is doing well.
+
+Question: What is the most common mutation in lung adenocarcinoma? Answer: The most common mutation in lung adenocarcinoma is KRAS.
+
+Question: What is the most common mutation in lung squamous cell carcinoma? Answer: The most common mutation in lung squamous cell carcinoma is EGFR.
+
+Question: What is the most common mutation in lung small cell carcinoma? Answer: The most
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in KRAS G13D include possible inhibitors like izumetenib, which is a selective inhibitor of mutant isocitrate dehydrogenase 1 and 2 (IDH1/2) and is currently being tested in a phase II trial.
+
+These mutations are not only found in lung adenocarcinoma but also in other cancers like colorectal cancer, pancreatic cancer, and cholangiocarcinoma.
+
+These mutations are not only found in lung adenocarcinoma but also in other cancers like colorectal cancer, pancreatic cancer, and cholangiocarcinoma.
+
+These mutations are not only found in lung adenocarcinoma but also in other cancers like colorectal cancer, pancreatic cancer, and cholangiocarcinoma.
+
+These mutations are not only found in
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in KRAS G13D are the MEK inhibitors. The MEK inhibitors are a new class of drugs that inhibit the MAPK pathway. The MAPK pathway is a signaling pathway that is involved in cell proliferation, differentiation, and survival. The MAPK pathway is activated by a variety of growth factors and cytokines. The MAPK pathway is composed of a series of protein kinases that are activated by phosphorylation. The MAPK pathway is activated by a variety of growth factors and cytokines. The MAPK pathway is composed of a series of protein kinases that are activated by phosphorylation. The MAPK pathway is composed of a series of protein kinases that are activated by phosphorylation. The MAPK pathway is composed of a series of protein kinases
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant TP53 A276G in lung adenocarcinoma? Answer: Yes, there are several drugs that are used for treatment of lung cancer. The most common drugs are cisplatin, carboplatin, and paclitaxel. The drugs are used
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant TP53 A276G in lung adenocarcinoma? Answer: The patient was treated with carboplatin and paclitaxel.
+
+Question: What is the prognosis of this patient? Answer: The patient is still alive.
+
+Question: What is the most common mutation in lung adenocarcinoma? Answer: The most common mutation in lung adenocarcinoma is EGFR mutation.
+
+Question: What is the most common mutation in lung squamous cell carcinoma? Answer: The most common mutation in lung squamous cell carcinoma is TP53 mutation.
+
+Question: What is the most common mutation in lung adenosquamous carcinoma? Answer: The most common mutation in
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in TP53 A276G include possible inhibitors like ibrutinib, idelalisib, venetoclax, and navitoclax.
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in TP53 A276G are the inhibitors of the mutant p53 protein. The aim of this study was to evaluate the effect of the p53 inhibitor, PRIMA-1, on the growth of lung adenocarcinoma cells with a mutation in TP53 A276G. The effect of PRIMA-1 on the growth of lung adenocarcinoma cells with a mutation in TP53 A276G was evaluated by MTT assay. The effect of PRIMA-1 on the expression of p53 and p21 was evaluated by Western blot. The effect of PRIMA-1 on the expression of the mutant p53 protein was evaluated by immunohistochemistry. The effect of PRIMA-1 on the
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant PTPRS R238* in lung adenocarcinoma? Answer: We have added the following sentence to the Discussion section: "These findings suggest that the R238W variant may be a potential therapeutic target for lung
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant PTPRS R238* in lung adenocarcinoma? Answer:
+
+The patient was treated with gefitinib (250 mg/day) and the disease was stable for 6 months.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is still alive and has been receiving gefitinib for 6 months.
+
+Question: What is the most likely diagnosis? Answer:
+
+The patient was diagnosed with lung adenocarcinoma with a mutation in exon 19 of the EGFR gene.
+
+Question: What is the most likely treatment for this patient? Answer:
+
+The patient was treated with gefitinib (250 mg/day)
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in PTPRS R238* include possible inhibitors like ibrutinib, which is a BTK inhibitor, and neratinib, which is a pan-HER inhibitor.
+
+**Conclusions**: The patient was started on ibrutinib and neratinib.
+
+Poster \# 1001. A CASE OF A PATIENT WITH A HIGH‐RISK NEUROBLASTOMA WITH A HIGH‐RISK GLIOMA {#pbc27057-sec-4940}
+================
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in PTPRS R238* are the tyrosine kinase inhibitors (TKIs) that target the epidermal growth factor receptor (EGFR) and anaplastic lymphoma kinase (ALK). The TKIs are effective in treating lung adenocarcinoma with EGFR mutations, but not in lung adenocarcinoma with ALK mutations. The aim of this study was to investigate the effects of TKIs on lung adenocarcinoma with a mutation in PTPRS R238*. We established a lung adenocarcinoma cell line with a mutation in PTPRS R238* (H1299-PTPRS R238*). We examined the effects of TKIs on the proliferation of H1299-PTPRS R238* cells. We also examined
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant ZFHX3 F2994L in lung adenocarcinoma? Answer: Yes, there are some drugs for treatment of the variant ZFHX3 F2994L in lung adenocarcinoma.
+
+Question: Are there
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant ZFHX3 F2994L in lung adenocarcinoma? Answer:
+
+The patient was treated with gefitinib (250 mg/day) and the disease was stable for 6 months.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is still alive and has been followed up for more than 2 years.
+
+Question: What is the most likely diagnosis? Answer:
+
+The patient was diagnosed with lung adenocarcinoma with variant ZFHX3 F2994L.
+
+Question: What is the most likely differential diagnosis? Answer:
+
+The patient was diagnosed with lung adenocarcinoma with variant ZFHX
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in ZFHX3 F2994L include possible inhibitors like ibrutinib, idelalisib, and venetoclax.
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in ZFHX3 F2994L are the inhibitors of the mutant protein. The mutant protein is a transcription factor that is involved in the regulation of the expression of genes that are involved in the development of the lung. The inhibitors of the mutant protein can be used to block the expression of these genes and thus inhibit the development of the tumor.
+
+The authors would like to thank the National Natural Science Foundation of China (grant no. 81470237) and the Natural Science Foundation of Guangdong Province (grant no. 2014A030313057) for their financial support.
+
+![The structure of the ZFHX3 protein
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant CDH1 D433N in lung adenocarcinoma? Answer: Yes, there are several drugs that are used for treatment of lung cancer. The most common drugs are cisplatin, carboplatin, and paclitaxel. The patient was treated
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant CDH1 D433N in lung adenocarcinoma? Answer:
+
+The patient was started on chemotherapy with cisplatin and pemetrexed. The patient tolerated the chemotherapy well and had a partial response.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is currently on chemotherapy and is doing well.
+
+Question: What is the risk of this patient developing a second primary cancer? Answer:
+
+The patient is currently on chemotherapy and is doing well.
+
+Question: What is the risk of this patient developing a second primary cancer? Answer:
+
+The patient is currently on chemotherapy and
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in CDH1 D433N include possible inhibitors like ibrutinib, which is a Bruton's tyrosine kinase inhibitor, and afatinib, which is an epidermal growth factor receptor (EGFR) inhibitor. Ibrutinib is a Bruton's tyrosine kinase inhibitor that has been approved for the treatment of chronic lymphocytic leukemia and mantle cell lymphoma. Afatinib is an EGFR inhibitor that has been approved for the treatment of non-small cell lung cancer.
+
+The patient was started on ibrutinib and afatinib. After two months of treatment, the patient's symptoms improved. A repeat CT scan showed a decrease in the size of the lung mass and the mediastinal lymphadenopathy. The
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in CDH1 D433N are the inhibitors of the WNT pathway. The WNT pathway is a signaling pathway that regulates cell proliferation, differentiation, and migration. The WNT pathway is activated in many cancers, including lung cancer. The WNT pathway is activated by the binding of WNT ligands to the Frizzled receptor and LRP5/6 co-receptor. The binding of WNT ligands to the Frizzled receptor and LRP5/6 co-receptor activates the DVL protein, which inhibits the degradation of β-catenin. The accumulation of β-catenin in the cytoplasm and nucleus activates the transcription of target genes, such as c-Myc, cyclin
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant KRAS G12V in urachal carcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant KRAS G12V in colorectal cancer? Answer: No.
+
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant KRAS G12V in urachal carcinoma? Answer: Cetuximab, an anti-EGFR monoclonal antibody, is the only FDA-approved targeted therapy for patients with metastatic colorectal cancer (mCRC) with a *KRAS* mutation. The patient was started on cetuximab and irinotecan.
+
+Question: What is the recommended dose of cetuximab? Answer: The recommended dose of cetuximab is 400 mg/m^2^ administered intravenously over 2 hours on day 1, followed by 250 mg/m^2^ administered intravenously over 1 hour on day 8, every 2 weeks.
+
+Question: What is the recommended dose of irinotecan? Answer:
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in KRAS G12V include possible inhibitors like \[[@REF5]\]:
+
+-   MEK inhibitors
+
+-   PI3K inhibitors
+
+-   AKT inhibitors
+
+-   mTOR inhibitors
+
+-   CDK inhibitors
+
+-   EGFR inhibitors
+
+-   HER2 inhibitors
+
+-   VEGF inhibitors
+
+-   PARP inhibitors
+
+-   CDK4/6 inhibitors
+
+-   CDK inhibitors
+
+-   CDK inhibitors
+
+-   CDK inhibitors
+
+-   CDK inhibitors
+
+-   CDK inhibitors
+
+-   CDK inhibitors
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in KRAS G12V are the MEK inhibitors. The MEK inhibitors are a class of drugs that inhibit the MAPK pathway. The MAPK pathway is a signaling pathway that is involved in cell growth, differentiation, and survival. The MAPK pathway is activated by a variety of growth factors and cytokines. The MAPK pathway is composed of a series of protein kinases that are activated by phosphorylation. The MAPK pathway is activated by a variety of growth factors and cytokines. The MAPK pathway is composed of a series of protein kinases that are activated by phosphorylation. The MAPK pathway is composed of a series of protein kinases that are activated by phosphorylation. The MAPK pathway is composed of a series of protein kinases that
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant BCORL R1332* in urachal carcinoma? Answer: We have added the following sentence to the Discussion section: "These findings suggest that BCORL1 may be a potential therapeutic target for urach
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant BCORL R1332* in urachal carcinoma? Answer:
+
+The patient was treated with cisplatin and etoposide. The patient was alive and well at the time of writing this report.
+
+Question: What is the prognosis of urachal carcinoma? Answer:
+
+The prognosis of urachal carcinoma is poor. The 5-year survival rate is about 50% \[[@bib0020]\].
+
+Question: What is the treatment of urachal carcinoma? Answer:
+
+The treatment of urachal carcinoma is surgical resection. The surgical resection of urachal carcinoma is a challenge for urologists. The
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in BCORL R1332* include possible inhibitors like ibrutinib, venetoclax, and idelalisib.
+
+**Conclusion**: Urachal carcinoma is a rare disease with a poor prognosis. The rarity of the disease makes it difficult to conduct clinical trials. The rarity of the disease makes it difficult to conduct clinical trials. The rarity of the disease makes it difficult to conduct clinical trials. The rarity of the disease makes it difficult to conduct clinical trials.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK NEUROBLASTOMA WITH A
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in BCORL R1332* are currently under investigation.
+
+**Conclusion**: Urachal carcinoma is a rare disease with a poor prognosis. The treatment of choice is surgical resection. The role of chemotherapy and radiotherapy is not well defined.
+
+Poster \# 1020. A CASE OF INTRA‐UTERINE TUMOR OF THE UTERINE MEMBRANE {#pbc27057-sec-4940}
+===============================
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant TP53 H214fs*7 in urachal carcinoma? Answer: There are no drugs for treatment of the variant TP53 H214fs*7 in urachal carcinoma.
+
+Question: What is the
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant TP53 H214fs*7 in urachal carcinoma? Answer: Cisplatin and 5-fluorouracil.
+
+Question: What is the prognosis of urachal carcinoma? Answer: The prognosis of urachal carcinoma is poor. The 5-year survival rate is about 50%.
+
+Question: What is the treatment of urachal carcinoma? Answer: Radical cystectomy with en bloc resection of the umbilicus and umbilicus-containing bladder cuff is the standard treatment for urachal carcinoma.
+
+Question: What is the prognosis of urachal carcinoma? Answer: The prognosis of urachal carcinoma is poor
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in TP53 H214fs*7 include possible inhibitors like ibrutinib, venetoclax, and idelalisib.
+
+**Conclusion**: Urachal carcinoma is a rare disease with a poor prognosis. The rarity of this disease makes it difficult to conduct clinical trials. The rarity of this disease makes it difficult to conduct clinical trials. The rarity of this disease makes it difficult to conduct clinical trials. The rarity of this disease makes it difficult to conduct clinical trials.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK NEUROBLASTOMA WITH A
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in TP53 H214fs*7 are discussed.
+
+Case presentation {#Sec2}
+=================
+
+A 65-year-old man was admitted to our hospital with a chief complaint of gross hematuria. He had no past medical history. He had no family history of cancer. He had no history of smoking or drinking. He had no history of infection.
+
+A physical examination revealed no abnormalities. His vital signs were normal. His abdomen was soft and flat. There was no tenderness or rebound tenderness. His laboratory data were within normal limits.
+
+A computed tomography (CT
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant CDKN2C L65F in urachal carcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant CDKN2C L65F in urachal carcin
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant CDKN2C L65F in urachal carcinoma? Answer: We have added the following to the discussion:
+
+"The patient was started on a trial of chemotherapy with gemcitabine and cisplatin. She had a partial response to chemotherapy and was able to undergo surgical resection of the tumor. She was started on adjuvant chemotherapy with gemcitabine and cisplatin. She is currently on maintenance chemotherapy with gemcitabine and cisplatin."
+
+Question: What is the prognosis of this patient? Answer: The patient is currently alive and disease free.
+
+Question: What is the risk of recurrence in this patient? Answer: The patient is currently on maintenance chemotherapy with gemcitabine and cisplatin.
+
+Q
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in CDKN2C L65F include possible inhibitors like ibrutinib, palbociclib, and ribociclib.
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in CDKN2C L65F are CDK4/6 inhibitors.
+
+**Method:** We performed a literature search using PubMed and Google Scholar. We searched for articles published in English from January 1, 2000 to December 31, 2018. We used the following keywords: "urachal carcinoma", "CDKN2C", "CDK4/6 inhibitors", "CDK4/6 inhibitor", "palbociclib", "ribociclib", "abemaciclib", "LEE011", "PD0332991", "PD0332991", "PD0332991", "PD03329
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant MAP3K1 T949_E950insT in urachal carcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant MAP3K1 T949_E950insT in
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant MAP3K1 T949_E950insT in urachal carcinoma? Answer: The patient was started on a combination of gemcitabine and cisplatin.
+
+Question: What is the prognosis of urachal carcinoma? Answer: The prognosis of urachal carcinoma is poor. The 5-year survival rate is approximately 50%.
+
+Question: What is the treatment of urachal carcinoma? Answer: The treatment of urachal carcinoma is surgical resection.
+
+Question: What is the prognosis of urachal carcinoma? Answer: The prognosis of urachal carcinoma is poor. The 5-year survival rate is approximately 50%.
+
+Question
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in MAP3K1 T949_E950insT include possible inhibitors like ibrutinib, dasatinib, and trametinib.
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in MAP3K1 T949_E950insT are the MEK inhibitors. MEK inhibitors have been shown to be effective in the treatment of other cancers with mutations in the MAP3K1 gene.[@bib0055]
+
+Conclusion {#sec0020}
+==========
+
+Urachal carcinoma is a rare malignancy with a poor prognosis. The diagnosis is often delayed due to the non-specific symptoms and the rarity of the disease. The treatment of choice is surgical resection. The role of chemotherapy and radiotherapy is not well established.
+
+Conflicts of interest {#sec0025}
+====
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant MYCN E47fs*8 in urachal carcinoma? Answer: We have added the following sentence to the Discussion: "These findings suggest that the MYCN E47fs*8 mutation may be a potential therapeutic
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant MYCN E47fs*8 in urachal carcinoma? Answer: *The patient was started on chemotherapy with vincristine, doxorubicin, cyclophosphamide, and etoposide. The patient was also started on isotretinoin for treatment of his skin lesions. The patient is currently undergoing treatment and is currently on a clinical trial.*
+
+**Question: What is the prognosis for this patient? Answer:**
+
+*The patient is currently undergoing treatment and is currently on a clinical trial.*
+
+**Question: What is the most common site of metastasis for this patient? Answer:**
+
+*The patient has metastatic disease to the lungs, liver,
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in MYCN E47fs*8 include possible inhibitors like romidepsin, vorinostat, and panobinostat.
+
+**Conclusion**: The patient was started on chemotherapy with vincristine, doxorubicin, cyclophosphamide, and etoposide. He was also started on romidepsin and vorinostat. He is currently on chemotherapy and is tolerating it well.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK NEUROBLASTOMA WITH A HIGH‐RISK GLIOMA {#pbc27057-sec-49
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in MYCN E47fs*8 are described. The patient was a 3-year-old boy who presented with a large urachal tumor. The tumor was resected and the patient was treated with chemotherapy. The tumor recurred and the patient died of the disease. The tumor was found to have a MYCN E47fs*8 mutation. The patient was treated with a novel targeted therapy, the bromodomain and extraterminal (BET) inhibitor JQ1. The patient had a partial response to JQ1 and the tumor was resected. The patient is alive and disease-free at the time of this report. This is the first report of a patient with a
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant CTNNA1 K577_L578>TKL in urachal carcinoma? Answer: There are no drugs for treatment of the variant CTNNA1 K577_L578>TKL in urachal carcinoma.
+
+Q
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant CTNNA1 K577_L578>TKL in urachal carcinoma? Answer: We have added the following sentence to the Discussion section: "These findings suggest that the CTNNA1 K577_L578>TKL variant may be a potential therapeutic target for urachal carcinoma."
+
+Question: What is the mechanism of the variant CTNNA1 K577_L578>TKL in urachal carcinoma? Answer: We have added the following sentence to the Discussion section: "These findings suggest that the CTNNA1 K577_L578>TKL variant may be a potential therapeutic target for urach
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in CTNNA1 K577_L578>TKL include possible inhibitors like ibrutinib, dasatinib, and nilotinib.
+
+**Conclusion**: Urachal carcinoma is a rare disease with a poor prognosis. The molecular pathogenesis of urachal carcinoma is not well understood. Our case report highlights the importance of molecular profiling in the management of urachal carcinoma.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK NEUROBLASTOMA WITH A HIGH‐RISK GLIOMA {#pbc27057-sec-4940}
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in CTNNA1 K577_L578>TKL are the inhibitors of the Wnt/β-catenin pathway. The aim of this study was to evaluate the effect of the Wnt/β-catenin pathway inhibitor ICG-001 on the proliferation and apoptosis of human bladder cancer cell lines. The human bladder cancer cell lines T24 and 5637 were treated with ICG-001. The proliferation of the cells was detected by MTT assay. The apoptosis of the cells was detected by flow cytometry. The expression of β-catenin, c-Myc, cyclin D1, and survivin was detected by Western blot. The proliferation of T24 and 5637 cells was inhibited by ICG-001 in a dose-dependent
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant JAK1 I597M in urachal carcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant JAK1 I597M in other cancers? Answer: No
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant JAK1 I597M in urachal carcinoma? Answer: The patient was started on ruxolitinib, a JAK1/2 inhibitor.
+
+Question: What is the mechanism of action of ruxolitinib? Answer: Ruxolitinib is a JAK1/2 inhibitor that is FDA approved for myelofibrosis and polycythemia vera. Ruxolitinib inhibits the JAK/STAT pathway, which is involved in cell proliferation and differentiation.
+
+Question: What is the mechanism of action of the JAK1/2 inhibitor? Answer: Ruxolitinib inhibits the JAK/STAT pathway, which is involved in cell proliferation and differentiation
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in JAK1 I597M include possible inhibitors like ibrutinib, ruxolitinib, and tofacitinib.
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in JAK1 I597M are JAK1 inhibitors.
+
+**Objectives**: To report a case of urachal carcinoma with a mutation in JAK1 I597M and to discuss the possible treatment with JAK1 inhibitors.
+
+**Design/Method**: A case report.
+
+**Results**: A 16‐year‐old male patient was admitted to our hospital with a complaint of abdominal pain. Abdominal ultrasonography revealed a mass in the bladder. Computed tomography (CT) showed a mass in the bladder and a tumor in the umbilical region. The patient underwent partial cystectomy and partial resection of the umbilical
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant FANCL T367fs*12+ in urachal carcinoma? Answer: We have added the following sentence to the Discussion section: "These findings suggest that the FANCL T367fs*12 mutation may be
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant FANCL T367fs*12+ in urachal carcinoma? Answer: Cisplatin and 5-fluorouracil are the most commonly used drugs for treatment of bladder cancer.
+
+Question: What is the prognosis of urachal carcinoma? Answer: The prognosis of urachal carcinoma is poor. The 5-year survival rate is only 50%--60%.
+
+Question: What is the treatment of urachal carcinoma? Answer: Radical cystectomy is the main treatment for urachal carcinoma.
+
+Question: What is the prognosis of urachal carcinoma? Answer: The prognosis of urachal carcinoma is poor. The 5-
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in FANCL T367fs*12+ include possible inhibitors like ibrutinib, idelalisib, and venetoclax.
+
+**Conclusion**: Urachal carcinoma is a rare disease with a poor prognosis. The rarity of this disease makes it difficult to conduct clinical trials. The rarity of this disease makes it difficult to conduct clinical trials. The rarity of this disease makes it difficult to conduct clinical trials. The rarity of this disease makes it difficult to conduct clinical trials.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK NEUROBLASTOMA WITH A
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in FANCL T367fs*12+ are discussed.
+
+**Conclusion**: The patient was treated with cisplatin and gemcitabine. The patient is currently in complete remission.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK NEUROBLASTOMA WITH A HIGH‐RISK GERM CELL TUMOR {#pbc27057-sec-4940}
+================================
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant PIK3CA amplification in urachal carcinoma? Answer: There are no drugs for treatment of the variant PIK3CA amplification in urachal carcinoma.
+
+Question: Are there any drugs for treatment
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant PIK3CA amplification in urachal carcinoma? Answer: There are no drugs approved for treatment of urachal carcinoma.
+
+Question: What is the role of chemotherapy in urachal carcinoma? Answer: Chemotherapy is not recommended for treatment of urachal carcinoma.
+
+Question: What is the role of radiation therapy in urachal carcinoma? Answer: Radiation therapy is not recommended for treatment of urachal carcinoma.
+
+Question: What is the role of surgery in urachal carcinoma? Answer: Surgery is not recommended for treatment of urachal carcinoma.
+
+Question: What is the role of
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in PIK3CA amplification include possible inhibitors like ibrutinib, everolimus, and temsirolimus.
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in PIK3CA amplification are the PI3K inhibitors. The PI3K/AKT/mTOR pathway is a key regulator of cell growth and survival. The PI3K/AKT/mTOR pathway is frequently activated in human cancers, including bladder cancer. The PI3K/AKT/mTOR pathway is activated in approximately 50% of bladder cancers.[@bib0055] The PI3K/AKT/mTOR pathway is activated in approximately 50% of bladder cancers.[@bib0055] The PI3K/AKT/mTOR pathway is activated in approximately 50% of bladder cancers.[@bib0055] The PI3K/
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant MYC amplification in urachal carcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant MYC amplification in urachal carcinoma? Answ
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant MYC amplification in urachal carcinoma? Answer: Cisplatin and etoposide are the most commonly used drugs for treatment of urachal carcinoma.
+
+Question: What is the role of radiation therapy in the treatment of urachal carcinoma? Answer: Radiation therapy is not routinely used in the treatment of urachal carcinoma.
+
+Question: What is the role of chemotherapy in the treatment of urachal carcinoma? Answer: Chemotherapy is not routinely used in the treatment of urachal carcinoma.
+
+Question: What is the role of surgery in the treatment of urachal carcinoma? Answer: Surgery is not routinely
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in MYC amplification include possible inhibitors like ibrutinib, venetoclax, and venetoclax plus rituximab.
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in MYC amplification are CDK4/6 inhibitors. CDK4/6 inhibitors are a new class of drugs that target the cell cycle and have been approved for the treatment of breast cancer. In a phase II trial, palbociclib, a CDK4/6 inhibitor, was used to treat patients with metastatic urothelial carcinoma. The results showed that the median progression-free survival was 5.5 months, and the median overall survival was 13.8 months.[@bib0055]
+
+Conclusion {#sec0020}
+==========
+
+Urachal carcinoma is a rare disease with
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant MYCL1 amplification in urachal carcinoma? Answer: There are no drugs for treatment of the variant MYCL1 amplification in urachal carcinoma.
+
+Question: Are there any drugs for treatment of
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant MYCL1 amplification in urachal carcinoma? Answer: We have added the following to the discussion:
+
+"These findings suggest that MYCL1 amplification may be a potential therapeutic target in patients with urachal carcinoma."
+
+Question: What is the role of chemotherapy in the treatment of urachal carcinoma? Answer: We have added the following to the discussion:
+
+"The role of chemotherapy in the treatment of urachal carcinoma is not well defined. In a retrospective study of patients with urachal carcinoma, chemotherapy was associated with improved overall survival (OS) compared to patients who did not receive chemotherapy (median OS: not reached vs. 13
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in MYCL1 amplification include possible inhibitors like ibrutinib, venetoclax, and venetoclax plus rituximab.
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in MYCL1 amplification are CDK4/6 inhibitors.
+
+**Method**: We performed a literature search using PubMed and Google Scholar. We searched for articles published in English from January 1, 2000 to December 31, 2018. We used the following keywords: "urachal carcinoma", "CDK4/6 inhibitors", "CDK4/6 inhibitors", "CDK4/6 inhibitors", "CDK4/6 inhibitors", "CDK4/6 inhibitors", "CDK4/6 inhibitors", "CDK4/6 inhibitors", "CDK4/6 inhibitors", "CDK4/6
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant SOX2 amplification in urachal carcinoma? Answer: There are no drugs for treatment of the variant SOX2 amplification in urachal carcinoma.
+
+Question: Are there any drugs for treatment of the
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant SOX2 amplification in urachal carcinoma? Answer: We have added the following to the discussion:
+
+"These findings suggest that SOX2 amplification may be a potential therapeutic target in patients with urachal carcinoma."
+
+Question: What is the role of SOX2 amplification in urachal carcinoma? Answer: We have added the following to the discussion:
+
+"SOX2 amplification may be a potential therapeutic target in patients with urachal carcinoma."
+
+Question: What is the role of SOX2 amplification in urachal carcinoma? Answer: We have added the following to the discussion:
+
+"SOX2 amplification
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in SOX2 amplification include possible inhibitors like ibrutinib, a Bruton's tyrosine kinase inhibitor, and palbociclib, a cyclin-dependent kinase 4/6 inhibitor.
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in SOX2 amplification are the inhibitors of the epidermal growth factor receptor (EGFR) and the vascular endothelial growth factor (VEGF). EGFR inhibitors such as erlotinib and gefitinib have been used in the treatment of bladder cancer, but their use in urachal carcinoma has not been reported. The use of bevacizumab, a monoclonal antibody against VEGF, has been reported in the treatment of bladder cancer, but its use in urachal carcinoma has not been reported.
+
+In conclusion, we report a case of urachal carcinoma with a mutation in the SOX2 gene. SOX2 amplification may be a potential therapeutic target for urachal carcinoma.
+
+**
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant MUTYH amplification in urachal carcinoma? Answer: No.
+
+Question: Is there any drug for treatment of the variant MUTYH amplification in urachal carcinoma?
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant MUTYH amplification in urachal carcinoma? Answer: Fluorouracil, Leucovorin, Oxaliplatin, and Irinotecan.
+
+Question: What is the role of surgery in urachal carcinoma? Answer: Surgery is not the standard of care for urachal carcinoma. However, in patients with localized disease, surgery may be considered in patients with a good performance status and no evidence of metastatic disease.
+
+Question: What is the role of chemotherapy in urachal carcinoma? Answer: Chemotherapy is not the standard of care for urachal carcinoma. However, in patients with localized disease, chemotherapy may be considered in patients with
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for urachal carcinoma with a mutation in MUTYH amplification include possible inhibitors like \[[@REF5]\]:
+
+1\. 5-fluorouracil (5-FU)
+
+2\. Capecitabine
+
+3\. Oxaliplatin
+
+4\. Irinotecan
+
+5\. Bevacizumab
+
+6\. Cetuximab
+
+7\. Panitumumab
+
+8\. Erlotinib
+
+9\. Gefitinib
+
+10\. Vandetanib
+
+11\. Sorafenib
+
+12\. Sunitinib
+
+13\. Temsirolimus
+
+14\. Everolimus
+
+15\
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for urachal carcinoma with a mutation in MUTYH amplification are the alkylating agents, such as temozolomide, which is a DNA alkylating agent that is used in the treatment of glioblastoma multiforme. Temozolomide is a prodrug that is converted to 5-methyl-2-deoxycytidine (5-methyl-dC) by the enzyme O6-methylguanine-DNA methyltransferase (MGMT). The cytotoxic effect of temozolomide is mediated by the formation of O6-methylguanine (O6-meG) in DNA, which is repaired by MGMT. The O6-meG is a potent block to DNA replication and transcription. The O6-me
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant germline BRCA2 K3326* in thymic adenocarcinoma? Answer: The patient was treated with cisplatin and etoposide.
+
+Question: What is the prognosis of the patient? Answer: The patient is still alive
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant germline BRCA2 K3326* in thymic adenocarcinoma? Answer: The patient was treated with carboplatin and paclitaxel.
+
+Question: What is the prognosis of this patient? Answer: The patient is still alive and has been followed up for more than 2 years.
+
+Question: What is the risk of this patient developing breast cancer? Answer: The patient has a high risk of developing breast cancer.
+
+Question: What is the risk of this patient developing ovarian cancer? Answer: The patient has a high risk of developing ovarian cancer.
+
+Question: What is the risk of this patient developing pancreatic cancer? Answer:
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in germline BRCA2 K3326* include possible inhibitors like \[[@REF5]\]:
+
+1\. PARP inhibitors (olaparib, veliparib, niraparib, rucaparib, talazoparib)
+
+2\. ATM inhibitors (AZD0156, KU-60019, KU-55933, KU-60019, KU-60019, KU-60019, KU-60019, KU-60019, KU-60019, KU-60019, KU-60019, K
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in germline BRCA2 K3326* are PARP inhibitors.
+
+**Objectives**: To evaluate the efficacy of PARP inhibitors in patients with thymic carcinoma with a germ line BRCA2 K3326 mutation.
+
+**Design/Method**: We retrospectively reviewed the medical records of patients with thymic carcinoma with a germ line BRCA2 K3326 mutation who were treated with PARP inhibitors at the Asan Medical Center between January 2015 and December 2017.
+
+**Results**: A total of 4 patients were identified. The median age at diagnosis was 47 years (range, 36‐55 years). All patients had a history of smoking.
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant SMAD4 C363R in thymic adenocarcinoma? Answer: We have added the following sentence to the Discussion section: "The variant SMAD4 C363R is a potential therapeutic target for thymic adenocarcinoma.
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant SMAD4 C363R in thymic adenocarcinoma? Answer: The patient was started on chemotherapy with cisplatin and etoposide.
+
+Question: What is the prognosis of this patient? Answer: The patient is currently on chemotherapy and is doing well.
+
+Question: What is the risk of recurrence in this patient? Answer: The patient is currently on chemotherapy and is doing well.
+
+Question: What is the risk of metastasis in this patient? Answer: The patient is currently on chemotherapy and is doing well.
+
+Question: What is the risk of death in this patient? Answer: The patient is currently on chemotherapy
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in SMAD4 C363R include possible inhibitors like ibrutinib, a Bruton's tyrosine kinase inhibitor, and galunisertib, a TGF-β receptor inhibitor.
+
+**Conclusion**: The patient was started on ibrutinib and is currently on a maintenance dose of ibrutinib.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK B‐CELL LYMPHOMA AND A HIGH‐RISK MYELOID LEUKEMIA {#pbc27057-sec-4940}
+=
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in SMAD4 C363R are the inhibitors of the TGF-β pathway. The TGF-β pathway is a key regulator of cell proliferation, differentiation, and apoptosis. The TGF-β pathway is also involved in the development of thymic epithelial cells and the maintenance of thymic epithelial cells. The TGF-β pathway is also involved in the development of thymic epithelial cells and the maintenance of thymic epithelial cells. The TGF-β pathway is also involved in the development of thymic epithelial cells and the maintenance of thymic epithelial cells. The TGF-β pathway is also involved in the development of thymic epithelial cells and the maintenance of thymic epithelial cells. The TGF-β pathway is also involved in
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant TP53 305fs in thymic adenocarcinoma? Answer: Yes, there are several drugs that are being tested in clinical trials for the treatment of thymic carcinoma. The drugs include: (1) Aurora kinase
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant TP53 305fs in thymic adenocarcinoma? Answer: The patient was treated with cisplatin and etoposide.
+
+Question: What is the prognosis of this patient? Answer: The patient is currently undergoing chemotherapy.
+
+Question: What is the most appropriate treatment for this patient? Answer: The patient is currently undergoing chemotherapy.
+
+Question: What is the most appropriate treatment for this patient? Answer: The patient is currently undergoing chemotherapy.
+
+Question: What is the most appropriate treatment for this patient? Answer: The patient is currently undergoing chemotherapy.
+
+Question: What is the most appropriate treatment for
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in TP53 305fs include possible inhibitors like ibrutinib, venetoclax, and navitoclax.
+
+**Conclusion**: The patient was started on ibrutinib and venetoclax.
+
+Poster \# 1001. A CASE OF A PATIENT WITH A HIGH‐RISK B‐CELL LYMPHOMA AND A HIGH‐RISK MYELOID LEUKEMIA {#pbc27057-sec-4940}
+===================
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in TP53 305fs are the inhibitors of the poly (ADP-ribose) polymerase (PARP) enzyme. PARP inhibitors are currently being tested in clinical trials for the treatment of various cancers. The aim of this study was to evaluate the effect of PARP inhibitors on the growth of thymic carcinoma cell lines. The effect of PARP inhibitors on the growth of thymic carcinoma cell lines was evaluated by MTT assay. The effect of PARP inhibitors on the cell cycle was evaluated by flow cytometry. The effect of PARP inhibitors on the expression of p53 and p21 was evaluated by Western blot. The effect of PARP inhibitors on the expression of PARP-1 was evaluated by Western blot. The
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant CDKN1B K100N in thymic adenocarcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant CDKN1B R80P in thymic adenocarciin
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant CDKN1B K100N in thymic adenocarcinoma? Answer:
+
+The patient was started on chemotherapy with cisplatin and etoposide. The patient tolerated the chemotherapy well and had a good response.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is currently on follow-up and is doing well.
+
+Question: What is the risk of recurrence in this patient? Answer:
+
+The patient is currently on follow-up and is doing well.
+
+Question: What is the risk of metastasis in this patient? Answer:
+
+The patient is currently on follow-up and is doing well.
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in CDKN1B K100N include possible inhibitors like romidepsin, dinaciclib, and flavopiridol.
+
+###### 
+
+Click here for additional data file.
+
+###### 
+
+Click here for additional data file.
+
+###### 
+
+Click here for additional data file.
+
+###### 
+
+Click here for additional data file.
+
+###### 
+
+Click here for additional data file.
+
+###### 
+
+Click here for additional data
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in CDKN1B K100N are CDK4/6 inhibitors.
+
+**Methods**: We performed a retrospective study of patients with thymic carcinoma treated at the Institut Curie between January 2000 and December 2016. We collected clinical, biological and histological data. We performed a targeted next‐generation sequencing (NGS) on a panel of 50 genes.
+
+**Results**: We identified a mutation in CDKN1B in 3 patients. The first patient was a 57‐year‐old man with a history of myasthenia gravis. He was diagnosed with a thymic carcinoma with a mutation in CDKN1B K100N. He
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant ATM E1666* in thymic adenocarcinoma? Answer:
+
+Yes, there are drugs for treatment of the variant ATM E1666K in thymic adenocarcinoma.
+
+Question: Are there any drugs
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant ATM E1666* in thymic adenocarcinoma? Answer:
+
+The patient was treated with cisplatin and etoposide.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is currently alive and well.
+
+Question: What is the most likely diagnosis? Answer:
+
+The patient was diagnosed with thymic carcinoma.
+
+Question: What is the most likely differential diagnosis? Answer:
+
+The patient was diagnosed with thymic carcinoma.
+
+Question: What is the most likely treatment for this patient? Answer:
+
+The patient was treated with cisplatin and etoposide.
+
+Q
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in ATM E1666* include possible inhibitors like ibrutinib, a BTK inhibitor, and idelalisib, a PI3K inhibitor.
+
+**Conclusion**: The patient was started on ibrutinib and is currently on a dose of 420mg daily. He has had a significant improvement in his symptoms and is tolerating the medication well.
+
+Poster \# 1001. A CASE OF A PATIENT WITH A HIGH‐RISK B‐CELL LYMPHOMA AND A HIGH‐RISK MYELOID LEUKEMIA {#pbc27
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in ATM E1666* are the inhibitors of poly (ADP-ribose) polymerase (PARP) \[[@B24]\]. PARP is a nuclear enzyme that is activated by DNA damage and is involved in DNA repair. PARP inhibitors are currently being investigated in clinical trials for the treatment of breast, ovarian, and prostate cancers. PARP inhibitors have been shown to be effective in the treatment of ATM-deficient tumors \[[@B25]\].
+
+Conclusions
+===========
+
+In summary, we report a case of thymic carcinoma with a novel mutation in the ATM gene. The
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant MAP3K8 H236Y in thymic adenocarcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant MAP3K8 R258Q in thymic adenocarci
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant MAP3K8 H236Y in thymic adenocarcinoma? Answer: The patient was treated with a combination of carboplatin and paclitaxel.
+
+Question: What is the prognosis of this patient? Answer: The patient is currently alive and well.
+
+Question: What is the most likely cause of death? Answer: The patient died of disease progression.
+
+Question: What is the most likely cause of death? Answer: The patient died of disease progression.
+
+Question: What is the most likely cause of death? Answer: The patient died of disease progression.
+
+Question: What is the most likely cause
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in MAP3K8 H236Y include possible inhibitors like ibrutinib, idelalisib, and venetoclax.
+
+**Conclusion**: The patient was started on ibrutinib and is currently on a dose of 420mg daily.
+
+Poster \# 1001. A CASE OF A PATIENT WITH A HIGH‐RISK B‐CELL LYMPHOMA AND A HIGH‐RISK MYELOID LEUKEMIA {#pbc27057-sec-4940}
+==============
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in MAP3K8 H236Y are the MEK inhibitors. MEK inhibitors are a class of drugs that inhibit the MAP kinase pathway. MEK inhibitors have been shown to be effective in treating a variety of cancers, including melanoma, non-small cell lung cancer, and colorectal cancer. MEK inhibitors have been shown to be effective in treating thymic epithelial tumors in mice \[[@REF8]\].
+
+Conclusions
+===========
+
+Thymic carcinoma is a rare malignancy with a poor prognosis. The treatment of thymic carcinoma is challenging and requires a multidisciplinary approach. The treatment of thymic carcinoma is based on the stage of
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant TRAF1 R70H in thymic adenocarcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant TRAF1 R70H in other cancers? Answer: No
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant TRAF1 R70H in thymic adenocarcinoma? Answer: Thymectomy is the treatment of choice for patients with myasthenia gravis. The patient was started on pyridostigmine and prednisone.
+
+Question: What is the prognosis of variant TRAF1 R70H in thymic adenocarcinoma? Answer: The prognosis of variant TRAF1 R70H in thymic adenocarcinoma is unknown.
+
+Question: What is the prognosis of variant TRAF1 R70H in thymic carcinoma? Answer: The prognosis of variant TRAF1 R70H in thymic carcinoma is unknown.
+
+Question: What is the prognosis of variant TRAF1 R70H in thymic
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in TRAF1 R70H include possible inhibitors like ibrutinib, idelalisib, and venetoclax.
+
+**Conclusion**: The patient was started on ibrutinib and is currently on a dose of 420mg daily.
+
+Poster \# 1001. A CASE OF A PATIENT WITH A HIGH‐RISK B‐CELL LYMPHOMA AND A HIGH‐RISK MYELOID LEUKEMIA {#pbc27057-sec-4940}
+==============
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in TRAF1 R70H are the inhibitors of the NF-κB pathway. The NF-κB pathway is a key regulator of cell survival and proliferation, and is constitutively activated in many cancers. The NF-κB pathway is activated by the binding of TNF-α to its receptor, which leads to the activation of the IKK complex, which in turn phosphorylates IκBα, leading to its ubiquitination and degradation. The degradation of IκBα allows NF-κB to translocate to the nucleus and activate the transcription of genes involved in cell survival and proliferation. The NF-κB pathway is also activated by the binding of CD40L to CD40, which leads to
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant HDAC2 R409* in thymic adenocarcinoma? Answer:
+
+Yes, there are several HDAC inhibitors that are being tested in clinical trials for the treatment of various cancers. The HDAC inhibitors are classified into four groups
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant HDAC2 R409* in thymic adenocarcinoma? Answer:
+
+We have added the following sentence to the Discussion section:
+
+"The HDAC2 R409H mutation is associated with a poor prognosis in patients with thymic carcinoma. \[...\] HDAC inhibitors are currently being tested in clinical trials for the treatment of thymic carcinoma."
+
+> 2\) The authors should discuss the potential role of the R409H mutation in the context of other mutations in the HDAC2 gene.
+
+We have added the following sentence to the Discussion section:
+
+"The R409H mutation is associated with a poor prognosis in patients with thymic carcinoma.
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in HDAC2 R409* include possible inhibitors like romidepsin, belinostat, panobinostat, and vorinostat.
+
+**Conclusion**: The patient was started on romidepsin and is currently on the 3rd cycle.
+
+Poster \# 1001. A CASE OF A PATIENT WITH MYELOID LEUKEMIA AND MYELOID NEOPLASIA WITH A NOVEL MUTATION IN TET2 {#pbc27057-sec-4940}
+============
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in HDAC2 R409* are histone deacetylase inhibitors (HDACi). HDACi are a class of drugs that inhibit the activity of histone deacetylases (HDAC) and are used in the treatment of cancer. HDACi have been shown to induce apoptosis in cancer cells and to inhibit tumor growth in animal models. In this study, we investigated the effect of HDACi on the growth of human thymic carcinoma cells. We found that HDACi inhibited the growth of human thymic carcinoma cells in a dose-dependent manner. The growth inhibition was associated with the induction of apoptosis. The HDACi-induced apoptosis was associated with the activation of caspase-3 and caspase-9 and the
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant TMEM111-TDRD3 fusion in thymic adenocarcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant TMEM111-TDRD3 fusion in testicular germ cell tumor
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant TMEM111-TDRD3 fusion in thymic adenocarcinoma? Answer:
+
+We have added the following sentence to the Discussion section:
+
+"These findings suggest that the TMEM111-TDRD3 fusion protein may be a potential therapeutic target for thymic adenocarcinoma."
+
+Question: What is the mechanism of the fusion protein in the pathogenesis of the disease? Answer:
+
+We have added the following sentence to the Discussion section:
+
+"The TMEM111-TDRD3 fusion protein may be a potential therapeutic target for thymic adenocarcinoma."
+
+Question: What is the mechanism of the fusion protein in the pathogenesis of the disease
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in TMEM111-TDRD3 fusion include possible inhibitors like ibrutinib, idelalisib, and venetoclax.
+
+**Conclusion**: We report a case of thymic carcinoma with a novel TMEM111-TDRD3 fusion. This fusion is a novel finding in thymic carcinoma and may be a potential therapeutic target.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK B‐CELL LYMPHOMA AND A HIGH‐RISK MYELOID LEUKEMIA {#pbc27057-sec-4940
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in TMEM111-TDRD3 fusion are the inhibitors of the PI3K/AKT/mTOR pathway. The PI3K/AKT/mTOR pathway is a key regulator of cell growth, proliferation, and survival. The PI3K/AKT/mTOR pathway is activated in many cancers, including thymic carcinoma. The PI3K/AKT/mTOR pathway is activated in thymic carcinoma, and the inhibition of this pathway may be a potential therapeutic target for thymic carcinoma.[@bib5]
+
+Conclusion {#sec4}
+==========
+
+We report a case of thymic carcinoma with a mutation in the TMEM111
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant PRKDC-CDH17 fusion in thymic adenocarcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant PRKDC-CDH17 fusion in thymic adenocarci
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant PRKDC-CDH17 fusion in thymic adenocarcinoma? Answer:
+
+The patient was started on chemotherapy with cisplatin and etoposide. The patient tolerated the chemotherapy well and had a partial response.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is currently on chemotherapy and is doing well.
+
+Question: What is the risk of recurrence? Answer:
+
+The patient is currently on chemotherapy and is doing well.
+
+Question: What is the risk of metastasis? Answer:
+
+The patient is currently on chemotherapy and is doing well.
+
+Question: What is the risk of death
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in PRKDC-CDH17 fusion include possible inhibitors like ibrutinib, olaparib, and talazoparib.
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in PRKDC-CDH17 fusion are the PARP inhibitors. PARP inhibitors are a class of drugs that inhibit the enzyme poly (ADP-ribose) polymerase (PARP), which is involved in DNA repair. PARP inhibitors have been shown to be effective in treating breast and ovarian cancers with BRCA1/2 mutations.^[@bibr13-1179554919855116]^ In addition, PARP inhibitors have been shown to be effective in treating other cancers with BRCA1/2 mutations, such as pancreatic cancer,^[@bibr14-1179554919855116]^ prostate cancer,^[@bibr15-11795549198
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant EXT1-MAGI2 fusion in thymic adenocarcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant EXT1-EXT2 fusion in thymic adenocarci
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant EXT1-MAGI2 fusion in thymic adenocarcinoma? Answer:
+
+The patient was started on chemotherapy with cisplatin and etoposide. After two cycles of chemotherapy, the patient had a partial response.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is currently on follow-up and is doing well.
+
+Question: What is the risk of recurrence in this patient? Answer:
+
+The patient is currently on follow-up and is doing well.
+
+Question: What is the risk of metastasis in this patient? Answer:
+
+The patient is currently on follow-up and is doing well
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in EXT1-MAGI2 fusion include possible inhibitors like romidepsin, panobinostat, and vorinostat.
+
+**Conclusion**: Thymic carcinoma is a rare tumor with a poor prognosis. The treatment of choice is surgical resection. However, the role of chemotherapy and radiation therapy is not well defined. The role of targeted therapies is not well defined.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK NEUROBLASTOMA WITH A HIGH‐RISK GLIOMA {#pbc27057-sec-
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in EXT1-MAGI2 fusion are the histone deacetylase inhibitors (HDACi). HDACi are a class of drugs that inhibit the activity of histone deacetylases (HDAC) and are used in the treatment of several cancers. HDACi have been shown to induce apoptosis in cancer cells and to inhibit angiogenesis. We have previously shown that HDACi induce apoptosis in human thymic epithelial cells (TEC) and that this effect is mediated by the activation of the intrinsic apoptotic pathway. In this study, we investigated the effect of HDACi on the expression of the fusion gene in TEC. We found that HDACi induce a significant decrease in the expression of the fusion gene in TEC
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant ERBB2 RNA overexpression in thymic adenocarcinoma? Answer: Yes, there are several drugs that target ERBB2, including trastuzumab, pertuzumab, and lapatinib. Trastuzumab is a monoclonal antibody that binds
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant ERBB2 RNA overexpression in thymic adenocarcinoma? Answer: Trastuzumab is the only FDA-approved drug for treatment of ERBB2-positive breast cancer. However, the response rate is only about 30% and the median progression-free survival is only about 6 months. In addition, the response rate is even lower in patients with thymic carcinoma. Therefore, the use of trastuzumab in thymic carcinoma is not recommended.
+
+Question: What is the role of radiation therapy in the treatment of thymic carcinoma? Answer: Radiation therapy is not recommended for treatment of thymic carcinoma.
+
+Question: What is the role of chemotherapy in the treatment of thymic carcinoma? Answer
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in ERBB2 RNA overexpression include possible inhibitors like \[[@REF5]\]:
+
+1\. Trastuzumab (Herceptin)
+
+2\. Pertuzumab (Perjeta)
+
+3\. Lapatinib (Tykerb)
+
+4\. Afatinib (Gilotrif)
+
+5\. Neratinib (Nerlynx)
+
+6\. Trastuzumab emtansine (Kadcyla)
+
+7\. Pertuzumab emtansine (Perjeta emtansine)
+
+8\. Trastuzumab-emtansine
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in ERBB2 RNA overexpression are the anti-HER2 monoclonal antibodies. The first one is trastuzumab, a humanized monoclonal antibody that binds to the extracellular domain of HER2 and inhibits its tyrosine kinase activity. The second one is pertuzumab, a humanized monoclonal antibody that binds to the extracellular domain of HER2 and inhibits its dimerization with other HER family members. Both antibodies have been approved for the treatment of HER2-positive breast cancer. In a phase II trial, trastuzumab was administered to patients with advanced thymic carcinoma. The overall response rate was 18% and the median progression-free survival was 3.5 months.[@bib0055]
+
+In
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant ERBB3 RNA overexpression in thymic adenocarcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant ERBB3 RNA overexpression in breast cancer? Answer: No
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant ERBB3 RNA overexpression in thymic adenocarcinoma? Answer:
+
+The patient was treated with carboplatin and paclitaxel. The patient was alive and well at the time of writing this report.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is alive and well at the time of writing this report.
+
+Question: What is the risk of recurrence in this patient? Answer:
+
+The patient is alive and well at the time of writing this report.
+
+Question: What is the risk of metastasis in this patient? Answer:
+
+The patient is alive and well at the time of writing
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in ERBB3 RNA overexpression include possible inhibitors like ibrutinib, afatinib, and neratinib.
+
+**Conclusion**: The patient was started on afatinib and neratinib.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK B‐CELL LYMPHOMA AND A HIGH‐RISK MYELOID LEUKEMIA {#pbc27057-sec-4940}
+==========================
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in ERBB3 RNA overexpression are the monoclonal antibodies against ERBB3. The monoclonal antibodies against ERBB3 are currently being tested in clinical trials for the treatment of various cancers.[@bib0090]
+
+Conclusion {#sec0020}
+==========
+
+Thymic carcinoma is a rare tumor with a poor prognosis. The treatment of choice is complete surgical resection. The role of chemotherapy and radiotherapy is not well established. The use of monoclonal antibodies against ERBB3 is a promising treatment for thymic carcinoma.
+
+Conflicts of interest {#sec0025}
+=====
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant PDGFRB RNA overexpression in thymic adenocarcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant PDGFRB RNA overexpression in thymic carcinoma? Answer: No
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant PDGFRB RNA overexpression in thymic adenocarcinoma? Answer:
+
+The patient was started on imatinib mesylate 400 mg daily. The patient tolerated the medication well and had a significant improvement in his symptoms. He was able to return to work and was able to resume his normal activities.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is currently on imatinib mesylate 400 mg daily. He has been followed up for over a year and has had no evidence of disease progression.
+
+Question: What is the most likely diagnosis? Answer:
+
+The patient was diagnosed with thymic carcinoma based on the pathology report.
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in PDGFRB RNA overexpression include possible inhibitors like \[[@REF1]\]:
+
+1\. Imatinib mesylate (Gleevec)
+
+2\. Sunitinib malate (Sutent)
+
+3\. Pazopanib (Votrient)
+
+4\. Dasatinib (Sprycel)
+
+5\. Nilotinib (Tasigna)
+
+6\. Regorafenib (Stivarga)
+
+7\. Trametinib (Mekinist)
+
+8\. Vemurafenib (Zelboraf)
+
+9\
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in PDGFRB RNA overexpression are the tyrosine kinase inhibitors (TKIs) imatinib and sunitinib. The first case of thymic carcinoma with a mutation in PDGFRB RNA was reported in 2012.[@bib0055] The patient was a 57-year-old man with a history of myasthenia gravis and a mediastinal mass. The patient was treated with imatinib and achieved a partial response. The second case was a 57-year-old man with a history of myasthenia gravis and a mediastinal mass. The patient was treated with imatinib and achieved a partial response.[@bib0060]
+
+In our case, the patient was a 57-year-old
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant TGFA RNA overexpression in thymic adenocarcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant TGFA RNA overexpression in thymic adenocarciinoma? An
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant TGFA RNA overexpression in thymic adenocarcinoma? Answer: Thymectomy is the treatment of choice for patients with Masaoka stage III or IV thymoma. The patient was treated with thymectomy and adjuvant chemotherapy with cisplatin and etoposide.
+
+Question: What is the prognosis of patients with variant TGFA RNA overexpression in thymic carcinoma? Answer: The prognosis of patients with variant TGFA RNA overexpression in thymic carcinoma is poor.
+
+Question: What is the prognosis of patients with variant TGFA RNA overexpression in thymoma? Answer: The prognosis of patients with variant TGFA RNA overexpression in thymoma is good.
+
+Question: What is the
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in TGFA RNA overexpression include possible inhibitors like ixazomib, a proteasome inhibitor, and galunisertib, a TGF-β receptor inhibitor.
+
+**Conclusion**: The patient was started on ixazomib and galunisertib.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK B‐CELL LYMPHOMA AND A HIGH‐RISK MYELOID LEUKEMIA {#pbc27057-sec-4940}
+==========
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in TGFA RNA overexpression are antisense oligonucleotides (ASO). ASO are short synthetic oligonucleotides that bind to a specific RNA sequence and inhibit its translation. ASO are used in the treatment of several diseases, including cancer. The aim of this study was to evaluate the effect of ASO on the expression of TGFA RNA in thymic carcinoma cell lines. The effect of ASO on the expression of TGFA RNA was evaluated in two thymic carcinoma cell lines (MGH-1 and MGH-2) by real-time PCR. The effect of ASO on the expression of TGFA protein was evaluated by Western blot. The effect of ASO on the proliferation of
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant EGF RNA overexpression in thymic adenocarcinoma? Answer:
+
+Yes, there are several drugs that are being tested for treatment of thymic carcinoma. These include EGFR inhibitors, mTOR inhibitors, and histone deacetylase inhibitors.
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant EGF RNA overexpression in thymic adenocarcinoma? Answer:
+
+EGFR tyrosine kinase inhibitors (TKIs) are the first-line treatment for patients with advanced non-small cell lung cancer (NSCLC) harboring EGFR mutations. However, the efficacy of EGFR TKIs in patients with EGFR wild-type NSCLC is limited. The most common mechanism of acquired resistance to EGFR TKIs is the development of T790M mutation in exon 20 of EGFR. However, the mechanism of acquired resistance to EGFR TKIs in patients with EGFR wild-type NSCLC is not fully understood.
+
+In this study, we investigated the expression of variant EGF RNA in patients with EGFR wild-type NSCLC and its association with
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in EGF RNA overexpression include possible inhibitors like \[[@REF1]\]:
+
+1\. EGFR inhibitors: Erlotinib, Gefitinib, Afatinib, Cetuximab, Panitumumab, Nimotuzumab, and Vandetanib.
+
+2\. MEK inhibitors: Trametinib, Cobimetinib, and Selumetinib.
+
+3\. PI3K inhibitors: BKM120, BYL719, and XL147.
+
+4\. mTOR inhibitors: Everolimus, Temsirolimus, and Ridaforolimus.
+
+5\. CDK4/6
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in EGF RNA overexpression are antisense oligonucleotides (ASO) that bind to the mRNA and block its translation. The aim of this study was to evaluate the effect of ASO on the growth of human thymic carcinoma cells in vitro. The human thymic carcinoma cell line, TEC-1, was cultured in vitro and treated with ASO. The effect of ASO on cell growth was evaluated by MTT assay. The expression of EGF mRNA was evaluated by RT-PCR. The expression of EGF protein was evaluated by Western blot. The effect of ASO on the cell cycle was evaluated by flow cytometry. The effect of ASO on the expression of cyclin D1 and p
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant FGFR3 RNA overexpression in thymic adenocarcinoma? Answer: We have added the following sentence to the Discussion section: "FGFR3 inhibitors are currently being tested in clinical trials for the treatment of bladder cancer and
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant FGFR3 RNA overexpression in thymic adenocarcinoma? Answer: We have added the following to the discussion:
+
+"The FGFR3 inhibitor AZD4547 has been shown to inhibit proliferation of FGFR3-overexpressing bladder cancer cell lines in vitro and in vivo \[22\]. In addition, AZD4547 has been shown to inhibit proliferation of FGFR3-overexpressing bladder cancer cell lines in vitro and in vivo \[22\]. In a phase I trial, AZD4547 was well tolerated and showed preliminary evidence of clinical activity in patients with FGFR3-overexpressing bladder cancer \[23\]. In a phase II trial, AZD4547 showed
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in FGFR3 RNA overexpression include possible inhibitors like ibrutinib, which is a Bruton's tyrosine kinase inhibitor, and AZD4547, which is a selective FGFR inhibitor.
+
+**Objectives**: To evaluate the efficacy of ibrutinib and AZD4547 in thymic carcinoma cell lines.
+
+**Design/Method**: We used the cell lines, SPC111, SPC212, SPC111R, SPC212R, and SPC111R‐R. SPC111 and SPC212 are human thymic carcinoma cell lines. SPC111R and SPC212R are cisplatin�
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in FGFR3 RNA overexpression are FGFR3 inhibitors.
+
+**Objectives**: To evaluate the efficacy of FGFR3 inhibitors in thymic carcinoma cell lines.
+
+**Design/Method**: We used FGFR3 inhibitors, AZD4547 and BGJ398, in thymic carcinoma cell lines. We evaluated the effect of FGFR3 inhibitors on cell proliferation, cell cycle, apoptosis, and phosphorylation of FGFR3 and its downstream signaling molecules.
+
+**Results**: FGFR3 inhibitors suppressed cell proliferation and induced cell cycle arrest and apoptosis in all cell lines. FGFR3 inhibitors suppressed phosphorylation of FGFR3 and its downstream signaling molecules
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant MET RNA overexpression in thymic adenocarcinoma? Answer:
+
+Yes, there are several drugs that are being tested in clinical trials for the treatment of MET-driven cancers. These include crizotinib, cab
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant MET RNA overexpression in thymic adenocarcinoma? Answer:
+
+The patient was started on crizotinib 250 mg twice daily. The patient tolerated the medication well and had a partial response to therapy.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is currently on crizotinib and is tolerating the medication well. He has had a partial response to therapy.
+
+Question: What is the next step in management? Answer:
+
+The patient is currently on crizotinib and is tolerating the medication well. He has had a partial response to therapy.
+
+Question: What is the
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for thymic adenocarcinoma with a mutation in MET RNA overexpression include possible inhibitors like \[[@REF5]\]:
+
+-   Crizotinib, a tyrosine kinase inhibitor, which is a MET inhibitor.
+
+-   Cabozantinib, a tyrosine kinase inhibitor, which is a MET inhibitor.
+
+-   Tivantinib, a tyrosine kinase inhibitor, which is a MET inhibitor.
+
+-   Foretinib, a tyrosine kinase inhibitor, which is a MET inhibitor.
+
+-   AMG 337, a MET inhibitor.
+
+-   Ficlatuzumab, a MET inhibitor.
+
+-  
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for thymic adenocarcinoma with a mutation in MET RNA overexpression are MET inhibitors. The MET inhibitor crizotinib has been approved for the treatment of non-small cell lung cancer with MET gene amplification.[@bib0055]
+
+In conclusion, we report a case of thymic carcinoma with a mutation in the MET gene. The patient was treated with crizotinib and achieved a partial response.
+
+Conflicts of interest {#sec0020}
+=====================
+
+The authors declare no conflicts of interest.
+
+![Computed tomography (CT) scan of the
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant PIK3CA E545K in oropharyngeal carcinoma? Answer: Yes, there are several drugs that target the PI3K/AKT/mTOR pathway. The most common drugs are everolimus, temsirolimus, and
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant PIK3CA E545K in oropharyngeal carcinoma? Answer:**
+
+***PIK3CA*** **E545K mutation is a predictive biomarker for response to PI3K/AKT/mTOR inhibitors.**
+
+***PIK3CA*** **E545K mutation is a predictive biomarker for response to PI3K/AKT/mTOR inhibitors.**
+
+***PIK3CA*** **E545K mutation is a predictive biomarker for response to PI3K/AKT/mTOR inhibitors.**
+
+***PIK3CA*** **E
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for oropharyngeal carcinoma with a mutation in PIK3CA E545K include possible inhibitors like ibrutinib, idelalisib, and copanlisib.
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for oropharyngeal carcinoma with a mutation in PIK3CA E545K are the PI3K inhibitors. The PI3K pathway is activated in a variety of cancers, including HNSCC. The PI3K pathway is activated by the binding of growth factors to their receptors, which leads to the activation of the PI3K enzyme. The activated PI3K enzyme phosphorylates phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3). PIP3 recruits the serine/threonine kinase AKT to the plasma membrane, where it is phosphorylated by PDK1 and mTORC2. AKT is a key regulator of cell survival, proliferation, and metabolism
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant MAPK1 E322K in oropharyngeal carcinoma? Answer: Yes, there are several drugs that target the MAPK pathway. The most common drugs are MEK inhibitors, such as trametinib, cobimetinib
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant MAPK1 E322K in oropharyngeal carcinoma? Answer: The patient was started on a combination of trametinib and dabrafenib.
+
+Question: What is the prognosis of this patient? Answer: The patient is currently on treatment and is doing well.
+
+Question: What is the most common mutation in this patient? Answer: The patient has a mutation in the MAPK1 gene.
+
+Question: What is the most common mutation in this patient? Answer: The patient has a mutation in the MAPK1 gene.
+
+Question: What is the most common mutation in this patient? Answer
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for oropharyngeal carcinoma with a mutation in MAPK1 E322K include possible inhibitors like ibrutinib, trametinib, and selumetinib.
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for oropharyngeal carcinoma with a mutation in MAPK1 E322K are the MEK inhibitors. MEK inhibitors are a class of drugs that inhibit the MAPK pathway. They are used in the treatment of melanoma, colorectal cancer, and non-small cell lung cancer. MEK inhibitors have been shown to be effective in the treatment of patients with BRAF V600E mutations.[@bib0055]
+
+Conclusion {#sec0020}
+==========
+
+The patient was diagnosed with a rare case of oropharyngeal carcinoma with a mutation in the MAPK1 E322K gene. The patient was treated with a combination of surgery and radiation therapy. The patient was followed
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant FGFR3 D786N in oropharyngeal carcinoma? Answer: There are no drugs for treatment of the variant FGFR3 D786N.
+
+Question: Are there any drugs for treatment of the variant FGFR
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant FGFR3 D786N in oropharyngeal carcinoma? Answer: There are no drugs approved for treatment of FGFR3 D786N.
+
+Question: What is the mechanism of action of the FGFR3 D786N mutation? Answer: The FGFR3 D786N mutation is a gain-of-function mutation that leads to constitutive activation of the FGFR3 signaling pathway.
+
+Question: What is the mechanism of resistance to FGFR3 inhibitors? Answer: The FGFR3 D786N mutation is a gain-of-function mutation that leads to constitutive activation of the FGFR3 signaling pathway. The FGFR3 D786N mutation is associated
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for oropharyngeal carcinoma with a mutation in FGFR3 D786N include possible inhibitors like ibrutinib, nintedanib, and AZD4547.
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for oropharyngeal carcinoma with a mutation in FGFR3 D786N are the FGFR inhibitors. The FGFR inhibitors are currently being tested in clinical trials for the treatment of various cancers. The FGFR inhibitors are also being tested in clinical trials for the treatment of head and neck squamous cell carcinoma. The FGFR inhibitors are being tested in clinical trials for the treatment of head and neck squamous cell carcinoma. The FGFR inhibitors are being tested in clinical trials for the treatment of head and neck squamous cell carcinoma. The FGFR inhibitors are being tested in clinical trials for the treatment of head and neck squamous cell carcinoma. The FGFR inhibitors are being tested in clinical trials for the treatment of head and neck squamous cell carcinoma. The FGFR inhibitors are being tested
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant EGFR E746_A750del in lung adenocarcinoma? Answer: Yes, there are several drugs for treatment of the variant EGFR E746_A750del. The first-generation EGFR-TKIs, gefitinib
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant EGFR E746_A750del in lung adenocarcinoma? Answer:
+
+The patient was treated with gefitinib 250 mg/day. After 2 months of treatment, the patient had a partial response.
+
+Question: What is the most common mutation in lung adenocarcinoma in the United States? Answer:
+
+The most common mutation in lung adenocarcinoma in the United States is EGFR exon 19 deletion.
+
+Question: What is the most common mutation in lung adenocarcinoma in Japan? Answer:
+
+The most common mutation in lung adenocarcinoma in Japan is EGFR exon 21 L858R.
+
+Question: What is the most common mutation in lung adenocarcinoma in Korea
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in EGFR E746_A750del include possible inhibitors like \[[@REF1]\]:
+
+1\. Afatinib (Gilotrif)
+
+2\. Erlotinib (Tarceva)
+
+3\. Gefitinib (Iressa)
+
+4\. Osimertinib (Tagrisso)
+
+5\. Crizotinib (Xalkori)
+
+6\. Ceritinib (Zykadia)
+
+7\. Alectinib (Alecensa)
+
+8\. Brigatinib (Alunbrig)
+
+9\. Lorl
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in EGFR E746_A750del are the EGFR tyrosine kinase inhibitors (TKIs). The most common EGFR mutation is the deletion of exon 19 (E746_A750del) in the tyrosine kinase domain of the EGFR gene. The EGFR TKIs are small molecules that bind to the ATP-binding pocket of the EGFR tyrosine kinase domain and inhibit the phosphorylation of EGFR and its downstream signaling pathways. The EGFR TKIs are effective in patients with EGFR mutations, but the response rate is only approximately 70% and the median progression-free survival is approximately 10 months.[@b3-ott-6-855]--[@b5-ott-6-
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant TP53 A138_Q144del in lung adenocarcinoma? Answer: Yes, there are several drugs that target the mutant p53 protein. The most promising drug is PRIMA-1, which is a small molecule that restores
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant TP53 A138_Q144del in lung adenocarcinoma? Answer: The patient was treated with carboplatin and paclitaxel.
+
+Question: What is the prognosis of this patient? Answer: The patient is still alive.
+
+Question: What is the most common mutation in lung adenocarcinoma? Answer: The most common mutation in lung adenocarcinoma is EGFR mutation.
+
+Question: What is the most common mutation in lung squamous cell carcinoma? Answer: The most common mutation in lung squamous cell carcinoma is TP53 mutation.
+
+Question: What is the most common mutation in lung adenosquamous carcinoma? Answer: The most common mutation in
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in TP53 A138_Q144del include possible inhibitors like ibrutinib, venetoclax, and navitoclax.
+
+**Conclusion**: The patient was started on venetoclax and navitoclax.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK B‐CELL LYMPHOMA AND A HIGH‐RISK MYELOID LEUKEMIA {#pbc27057-sec-4940}
+==================
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in TP53 A138_Q144del are the inhibitors of the mutant p53 protein. The mutant p53 protein is a target for the degradation by the ubiquitin-proteasome system. The mutant p53 protein is also a target for the degradation by the autophagy-lysosome system. The mutant p53 protein is degraded by the autophagy-lysosome system. The mutant p53 protein is degraded by the autophagy-lysosome system. The mutant p53 protein is degraded by the autophagy-lysosome system. The mutant p53 protein is degraded by the autophagy-lysosome system. The mutant p53 protein is degraded by the autophagy-lysosome system. The mutant p53 protein
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant MET Amplification FISH positive in lung adenocarcinoma? Answer:
+
+Yes, there are several drugs that are approved for the treatment of MET amplification in lung adenocarcinoma. These include crizotinib, cabozantin
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant MET Amplification FISH positive in lung adenocarcinoma? Answer:
+
+The patient was started on crizotinib 250 mg twice daily. The patient tolerated the medication well and had a partial response to therapy.
+
+Question: What is the recommended dose of crizotinib for patients with MET amplification? Answer:
+
+The recommended dose of crizotinib for patients with MET amplification is 250 mg twice daily.
+
+Question: What is the recommended dose of crizotinib for patients with MET amplification and ALK rearrangement? Answer:
+
+The recommended dose of crizotinib for patients with MET amplification and ALK rearrangement is 250 mg twice daily.
+
+Q
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in MET Amplification FISH positive include possible inhibitors like \[[@REF1]\]:
+
+-   Crizotinib
+
+-   Cabozantinib
+
+-   Alectinib
+
+-   Entrectinib
+
+-   Lenvatinib
+
+-   Ponatinib
+
+-   Tivantinib
+
+-   Cabozantinib
+
+-   Alectinib
+
+-   Entrectinib
+
+-   Lenvatinib
+
+-   Ponatinib
+
+-   Tivant
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in MET Amplification FISH positive are the MET inhibitors. The MET inhibitors are a new class of drugs that target the MET receptor tyrosine kinase. The MET inhibitors are being tested in clinical trials for the treatment of lung cancer. The MET inhibitors are being tested in clinical trials for the treatment of lung cancer. The MET inhibitors are being tested in clinical trials for the treatment of lung cancer. The MET inhibitors are being tested in clinical trials for the treatment of lung cancer. The MET inhibitors are being tested in clinical trials for the treatment of lung cancer. The MET inhibitors are being tested in clinical trials for the treatment of lung cancer. The MET inhibitors are being tested in clinical trials for the
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant KRAS G12C in lung adenocarcinoma? Answer: There are no drugs for treatment of the variant KRAS G12C in lung adenocarcinoma.
+
+Question: Are there any drugs for treatment of the variant
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant KRAS G12C in lung adenocarcinoma? Answer:
+
+The FDA has approved three drugs for the treatment of lung adenocarcinoma with a KRAS mutation: erlotinib, afatinib, and osimertinib. The FDA has not approved any drugs for the treatment of lung adenocarcinoma with a KRAS mutation other than G12C.
+
+Question: What is the recommended dose of erlotinib for the treatment of lung adenocarcinoma with a KRAS mutation? Answer:
+
+The recommended dose of erlotinib for the treatment of lung adenocarcinoma with a KRAS mutation is 150 mg orally once daily.
+
+Question: What is the recommended dose of afatinib for the treatment
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in KRAS G12C include possible inhibitors like \[[@REF1]\]:
+
+1\. MEK inhibitors: Trametinib, Cobimetinib, Selumetinib, and Pimasertib.
+
+2\. PI3K inhibitors: Buparlisib, Alpelisib, and Copanlisib.
+
+3\. AKT inhibitors: AZD5363, AZD8835, and GSK2141795.
+
+4\. mTOR inhibitors: Everolimus, Temsirolimus, and Ridaforolimus.
+
+5\. CDK4/6 inhibitors:
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in KRAS G12C are the MEK inhibitors. The MEK inhibitors are a class of drugs that inhibit the MAPK pathway, which is a signaling pathway that is involved in cell proliferation and survival. The MEK inhibitors have been shown to be effective in treating lung cancer with a mutation in the KRAS gene. The MEK inhibitors have been shown to be effective in treating lung cancer with a mutation in the KRAS gene. The MEK inhibitors have been shown to be effective in treating lung cancer with a mutation in the KRAS gene. The MEK inhibitors have been shown to be effective in treating lung cancer with a mutation in the KRAS gene. The MEK inhibitors have been shown to be effective in treating lung
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant KEAP1 L276F in lung adenocarcinoma? Answer: Yes, there are several drugs that are being tested in clinical trials for treatment of lung cancer. The drugs include: (1) Auranofin,
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant KEAP1 L276F in lung adenocarcinoma? Answer:
+
+The patient was started on erlotinib 150 mg daily. The patient tolerated the treatment well and had a partial response after 2 months of therapy.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is currently on erlotinib and is doing well.
+
+Question: What is the next step in the management of this patient? Answer:
+
+The patient is currently on erlotinib and is doing well.
+
+Question: What is the next step in the management of this patient? Answer:
+
+The patient is
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in KEAP1 L276F include possible inhibitors like ibrutinib, which is a Bruton's tyrosine kinase inhibitor, and trametinib, which is a MEK inhibitor.
+
+The patient was started on ibrutinib and trametinib. After 2 months of treatment, the patient had a partial response with a decrease in the size of the lung mass and a decrease in the size of the mediastinal lymph nodes. The patient was continued on ibrutinib and trametinib for another 2 months. The patient had a partial response with a decrease in the size of the lung mass and a decrease in the size of the mediastinal lymph nodes. The patient was continued on 
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in KEAP1 L276F are the inhibitors of the KEAP1-NRF2 interaction. The first of these is the compound, ML323, which has been shown to inhibit the interaction between KEAP1 and NRF2 in vitro and in vivo \[[@B17-cancers-12-01685]\]. The second is the compound, CDDO-Me, which has been shown to inhibit the interaction between KEAP1 and NRF2 in vitro and in vivo \[[@B18-cancers-12-01685]\]. Both compounds have been shown to inhibit the growth
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant STK11 K83Tfs*13 in lung adenocarcinoma? Answer: We have added the following sentence to the Discussion section: "These findings suggest that the K83Tfs*13 variant may be a potential therapeutic
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant STK11 K83Tfs*13 in lung adenocarcinoma? Answer: The patient was treated with carboplatin and paclitaxel.
+
+Question: What is the prognosis of this patient? Answer: The patient is still alive.
+
+Question: What is the most common mutation in lung adenocarcinoma? Answer: The most common mutation in lung adenocarcinoma is EGFR mutation.
+
+Question: What is the most common mutation in lung adenocarcinoma in the United States? Answer: The most common mutation in lung adenocarcinoma in the United States is EGFR mutation.
+
+Question: What is the most common mutation in lung adenocarcinoma in China? Answer: The most common
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in STK11 K83Tfs*13 include possible inhibitors like ibrutinib, dasatinib, and trametinib.
+
+**Conclusion**: This case highlights the importance of genetic testing in patients with lung adenocarcinoma.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HISTORY OF SICKLE CELL DISEASE AND A CHRONIC MYELOID LEUKEMIA {#pbc27057-sec-4940}
+=========================
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in STK11 K83Tfs*13 are the inhibitors of the PI3K/AKT/mTOR pathway. The aim of this study was to evaluate the efficacy of the mTOR inhibitor everolimus in a patient with lung adenocarcinoma and a mutation in STK11 K83Tfs*13. A patient with lung adenocarcinoma and a mutation in STK11 K83Tfs*13 was treated with everolimus. The patient was a non-smoker, with a history of chronic obstructive pulmonary disease and a family history of lung cancer. The patient was treated with everolimus 10 mg/day. The patient had a partial response after 3 months of treatment. The patient had a partial response
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant NF1 I1605fs in melanoma? Answer: Yes, there are several drugs that are approved for treatment of melanoma. These include BRAF inhibitors (vemurafenib, dabrafenib, and enc
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant NF1 I1605fs in melanoma? Answer:
+
+The patient was started on a combination of dabrafenib and trametinib. The patient tolerated the treatment well and had a partial response.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is currently on treatment and is tolerating it well.
+
+Question: What is the risk of developing a second malignancy in this patient? Answer:
+
+The patient is currently on treatment and is tolerating it well.
+
+Question: What is the risk of developing a second malignancy in this patient? Answer:
+
+
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for melanoma with a mutation in NF1 I1605fs include possible inhibitors like ibrutinib, dabrafenib, trametinib, and MEK inhibitors.
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for melanoma with a mutation in NF1 I1605fs are MEK inhibitors. MEK inhibitors are a class of drugs that inhibit the MAPK pathway, which is involved in cell proliferation and survival. MEK inhibitors have been shown to be effective in treating melanoma with a BRAF mutation. However, MEK inhibitors have not been shown to be effective in treating melanoma with a mutation in NF1. We present a case of a patient with a mutation in NF1 I1605fs who was treated with a MEK inhibitor. The patient was a 64-year-old woman with a history of melanoma. She was found to have a mutation in NF1 I1605fs. She was started on a MEK inhibitor, trametin
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant TP53 c.672+1G>A in melanoma? Answer: We have added the following sentence to the Discussion section: "These findings suggest that the variant TP53 c.672+1G>A
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant TP53 c.672+1G>A in melanoma? Answer: The patient was treated with carboplatin and paclitaxel.
+
+Question: What is the prognosis of this patient? Answer: The patient is currently receiving treatment with carboplatin and paclitaxel.
+
+Question: What is the risk of recurrence? Answer: The patient is currently receiving treatment with carboplatin and paclitaxel.
+
+Question: What is the risk of metastasis? Answer: The patient is currently receiving treatment with carboplatin and paclitaxel.
+
+Question: What is the risk of death? Answer: The patient is currently receiving treatment with carboplatin and paclitaxel.
+
+Question:
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for melanoma with a mutation in TP53 c.672+1G>A include possible inhibitors like ibrutinib, venetoclax, and idasanutlin.
+
+**Conclusion**: The patient was started on ibrutinib and venetoclax.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HIGH‐RISK NEUROBLASTOMA WITH A HIGH‐RISK GLIOMA {#pbc27057-sec-4940}
+========================
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for melanoma with a mutation in TP53 c.672+1G>A are the antisense oligonucleotides (ASOs) that target the aberrant splicing of the TP53 pre-mRNA. The aim of this study was to evaluate the efficacy of ASOs in melanoma cells with a mutation in TP53 c.672+1G>A. We used a melanoma cell line with a mutation in TP53 c.672+1G>A (SK-MEL-28) and a control cell line (A375). The cells were treated with ASOs and the expression of TP53 was evaluated by real-time PCR and Western blot. The effect of ASOs on cell viability was evaluated by MTT assay.
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant RB1 Q846* in melanoma? Answer: We have added the following sentence to the Discussion: "These results suggest that the RB1 Q846X mutation may be a potential therapeutic target
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant RB1 Q846* in melanoma? Answer:
+
+The patient was started on carboplatin and paclitaxel. The patient tolerated the treatment well and had a partial response.
+
+Question: What is the prognosis for this patient? Answer:
+
+The patient is currently alive and has been followed for over a year.
+
+Question: What is the most likely diagnosis? Answer:
+
+The patient was diagnosed with metastatic melanoma.
+
+Question: What is the most likely differential diagnosis? Answer:
+
+The patient was diagnosed with metastatic melanoma.
+
+Question: What is the most likely diagnosis? Answer
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for melanoma with a mutation in RB1 Q846* include possible inhibitors like ibrutinib, which is a Bruton's tyrosine kinase inhibitor, and palbociclib, which is a cyclin-dependent kinase 4/6 inhibitor.
+
+**Case presentation**
+
+A 57-year-old male with a history of melanoma presented with a new left-sided neck mass. He had a history of stage IIIC melanoma with a BRAF V600E mutation and a history of stage IIIC melanoma with a BRAF V600E mutation and a history of stage IIIC melanoma with a BRAF V600E mutation and a history of stage IIIC melanoma with a BRAF V600E mutation and
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for melanoma with a mutation in RB1 Q846* are currently being investigated in a phase I clinical trial (NCT01286987).
+
+###### 
+
+**Ongoing clinical trials for melanoma patients with mutations in the RB1 gene**.
+
+  Trial                                                                            
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant TERT R859Q in melanoma? Answer: Yes, there are several drugs that have been tested in melanoma patients with TERT promoter mutations. These include the telomerase inhibitors imetelstat and GR
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant TERT R859Q in melanoma? Answer: There are no FDA-approved drugs for the treatment of TERT R859Q-mutant melanoma.
+
+Question: What is the mechanism of action of the drugs? Answer: The drugs are not known to directly target TERT.
+
+Question: What is the mechanism of resistance to the drugs? Answer: The drugs are not known to directly target TERT.
+
+Question: What is the mechanism of action of the drugs? Answer: The drugs are not known to directly target TERT.
+
+Question: What is the mechanism of resistance to
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for melanoma with a mutation in TERT R859Q include possible inhibitors like \[[@B17-ijms-21-05896]\]:-AZD6244 (Selumetinib) and PD0325901 (Pimasertib)-Dabrafenib and Trametinib-Vemurafenib and Cobimetinib-Trametinib and Dabrafenib-Vemurafenib and Cobimetinib-Trametinib and Dabrafenib-Vemurafenib and Cobimetinib-Trametinib and Dabrafenib-Vemurafenib and Cobimetinib-T
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for melanoma with a mutation in TERT R859Q are the telomerase inhibitors. The first telomerase inhibitor to be tested in clinical trials was imetelstat (GRN163L), a synthetic oligonucleotide that binds to the template region of TERT and inhibits telomerase activity. In a phase I trial, imetelstat was well tolerated and showed some evidence of anti-tumor activity in patients with advanced solid tumors \[[@B17-cancers-12-01685]\]. In a phase II trial, imetelstat was tested in patients with metastatic melanoma. The results showed that the drug was well tolerated and had some evidence of anti-tumor activity
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant FGFR2::BICC1 Fusion in cholangiocarcinoma? Answer: There are no drugs for treatment of the variant FGFR2::BICC1 fusion in cholangiocarcinoma.
+
+Question: Are there any drugs for treatment
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant FGFR2::BICC1 Fusion in cholangiocarcinoma? Answer: There are no FDA approved drugs for treatment of cholangiocarcinoma.
+
+Question: What is the role of FGFR2 in cholangiocarcinoma? Answer: FGFR2 is a tyrosine kinase receptor that is involved in cell proliferation, differentiation, and migration. FGFR2 is overexpressed in cholangiocarcinoma and is associated with poor prognosis. FGFR2 is also a potential therapeutic target in cholangiocarcinoma.
+
+Question: What is the role of BICC1 in cholangiocarcinoma? Answer: BICC1 is a protein that is involved in cell proliferation, differentiation, and migration. BICC1 is overexpressed in cholangiocarcinoma and is associated with poor prognosis. BI
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for cholangiocarcinoma with a mutation in FGFR2::BICC1 Fusion include possible inhibitors like ibrutinib, ponatinib, and nintedanib.
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for cholangiocarcinoma with a mutation in FGFR2::BICC1 Fusion are FGFR inhibitors.
+
+**Methods**: We performed a retrospective analysis of the clinical data of patients with cholangiocarcinoma with FGFR2::BICC1 fusion. We also performed a literature review of the FGFR2::BICC1 fusion in cholangiocarcinoma.
+
+**Results**: We identified a total of 5 patients with cholangiocarcinoma with FGFR2::BICC1 fusion. All patients were male, and the median age was 65 years (range, 56--72 years). The median tumor size was 3.5 cm (range, 2.5--5.0 cm). All patients had intrahepatic cholangiocarcinoma. Four
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant TP53 E258* in cholangiocarcinoma? Answer: There are no drugs for treatment of the variant TP53 E258K in cholangiocarcinoma.
+
+Question: What is the prognosis of the patient?
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant TP53 E258* in cholangiocarcinoma? Answer: There are no drugs for treatment of this mutation.
+
+Question: What is the prognosis of this patient? Answer: The patient is still alive.
+
+Question: What is the most likely cause of death? Answer: The patient died of liver failure.
+
+Question: What is the most likely cause of death? Answer: The patient died of liver failure.
+
+Question: What is the most likely cause of death? Answer: The patient died of liver failure.
+
+Question: What is the most likely cause of death? An
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for cholangiocarcinoma with a mutation in TP53 E258* include possible inhibitors like ibrutinib, venetoclax, and idelalisib.
+
+**Conclusion**: The patient was started on ibrutinib and venetoclax.
+
+Poster \# 1020. A CASE OF ACUTE MYELOID LEUKEMIA WITH MYELOID DIFFERENTIATION AND MYELOID CELL TRANSFORMATION {#pbc27057-sec-4940}
+===================
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for cholangiocarcinoma with a mutation in TP53 E258* are the inhibitors of the p53-MDM2 interaction. The aim of this study was to evaluate the effect of the MDM2 inhibitor Nutlin-3 on the proliferation of cholangiocarcinoma cell lines with a mutation in TP53 E258*. The effect of Nutlin-3 on the proliferation of cholangiocarcinoma cell lines with a mutation in TP53 E258* was evaluated by MTT assay. The effect of Nutlin-3 on the expression of p53 and MDM2 was evaluated by Western blot. The effect of Nutlin-3 on the expression of p21 and MDM2 was evaluated by real-time PCR
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant HRAS Q61R in salivary duct carcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant HRAS Q61R in lung cancer? Answer: No
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant HRAS Q61R in salivary duct carcinoma? Answer:***
+
+***The patient was started on a combination of carboplatin and paclitaxel. The patient tolerated the treatment well and had a partial response. The patient was continued on the same regimen for a total of 6 cycles. The patient was then switched to a combination of gemcitabine and docetaxel. The patient tolerated the treatment well and had a partial response. The patient was continued on the same regimen for a total of 6 cycles. The patient was then switched to a combination of gemcitabine and capecitabine. The patient tolerated the treatment well and had a partial response. The patient was continued on the same regimen for a total of 6 cycles.
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for salivary duct carcinoma with a mutation in HRAS Q61R include possible inhibitors like ixazomib, trametinib, and selumetinib.
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for salivary duct carcinoma with a mutation in HRAS Q61R are the MEK inhibitors. The MEK inhibitors are a new class of drugs that inhibit the MAPK pathway. The MAPK pathway is a signaling pathway that is involved in cell proliferation, differentiation, and survival. The MAPK pathway is activated by a variety of growth factors and cytokines. The MAPK pathway is activated by a variety of growth factors and cytokines. The MAPK pathway is activated by a variety of growth factors and cytokines. The MAPK pathway is activated by a variety of growth factors and cytokines. The MAPK pathway is activated by a variety of growth factors and cytokines. The MAPK pathway is activated by a variety of growth factors and cytokines. The MAPK pathway is activated by
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant PIK3CA E545K in salivary duct carcinoma? Answer: There are no drugs for treatment of the variant PIK3CA E545K in salivary duct carcinoma.
+
+Question: Are there any drugs
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant PIK3CA E545K in salivary duct carcinoma? Answer:**
+
+***PIK3CA*** **E545K mutation is a potential therapeutic target in salivary duct carcinoma.**
+
+***PIK3CA*** **E545K mutation is a potential therapeutic target in salivary duct carcinoma.**
+
+***PIK3CA*** **E545K mutation is a potential therapeutic target in salivary duct carcinoma.**
+
+***PIK3CA*** **E545K mutation is a potential therapeutic target in salivary duct carcinoma.**
+
+
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for salivary duct carcinoma with a mutation in PIK3CA E545K include possible inhibitors like ibrutinib, idelalisib, and copanlisib.
+
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for salivary duct carcinoma with a mutation in PIK3CA E545K are the PI3K inhibitors. The PI3K pathway is activated in many cancers, including salivary duct carcinoma. The PI3K pathway is activated by the mutation of PIK3CA, which is found in approximately 40% of salivary duct carcinoma. The PI3K pathway is activated by the mutation of PIK3CA, which is found in approximately 40% of salivary duct carcinoma. The PI3K pathway is activated by the mutation of PIK3CA, which is found in approximately 40% of salivary duct carcinoma. The PI3K pathway is activated by the mutation of PIK3CA, which is found in approximately 40
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant TP53 T211A in salivary duct carcinoma? Answer: Yes, there are several drugs that are being tested in clinical trials for treatment of the variant TP53 T211A.
+
+Question:
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant TP53 T211A in salivary duct carcinoma? Answer: The patient was treated with cisplatin and 5-fluorouracil.
+
+Question: What is the prognosis of this patient? Answer: The patient is currently alive and well.
+
+Question: What is the most common mutation in salivary duct carcinoma? Answer: TP53 is the most common mutation in salivary duct carcinoma.
+
+Question: What is the most common mutation in salivary duct carcinoma? Answer: TP53 is the most common mutation in salivary duct carcinoma.
+
+Question: What is the most common mutation in salivary duct carcinoma? Answer: TP53 is the
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for salivary duct carcinoma with a mutation in TP53 T211A include possible inhibitors like ibrutinib, venetoclax, and idelalisib.
+
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for salivary duct carcinoma with a mutation in TP53 T211A are the CDK4/6 inhibitors. The CDK4/6 inhibitors are a new class of drugs that inhibit the cell cycle by blocking the phosphorylation of retinoblastoma protein (Rb) and the subsequent release of E2F transcription factors. The CDK4/6 inhibitors have been approved for the treatment of hormone receptor positive breast cancer. The CDK4/6 inhibitors have been shown to be effective in preclinical models of salivary duct carcinoma \[[@REF8]\].
+
+Conclusions
+===========
+
+Salivary duct carcinoma is a rare malignancy with a poor prognosis. The diagnosis
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant KMT2C p2493Q in salivary duct carcinoma? Answer: No.
+
+Question: Are there any drugs for treatment of the variant KMT2C p2493Q in breast cancer? Answ
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant KMT2C p2493Q in salivary duct carcinoma? Answer: We have added the following to the Discussion:
+
+"These findings suggest that the KMT2C p.P2493Q mutation may be a potential therapeutic target for patients with salivary duct carcinoma."
+
+> 2\) The authors should provide more information on the KMT2C p.P2493Q mutation. For example, is it a recurrent mutation? Is it a hotspot mutation? Is it a mutation that is predicted to be damaging?
+
+We have added the following to the Results section:
+
+"The KMT2C p.P2493Q mutation was found in a
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for salivary duct carcinoma with a mutation in KMT2C p2493Q include possible inhibitors like ibrutinib, which is a Bruton tyrosine kinase inhibitor, and venetoclax, which is a BCL2 inhibitor.
+
+###### 
+
+Summary of the most common mutations in salivary duct carcinoma
+
+  Gene                                                                         
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for salivary duct carcinoma with a mutation in KMT2C p2493Q are the histone deacetylase inhibitors (HDACi). HDACi are a class of drugs that inhibit the activity of histone deacetylases (HDAC) and are used in the treatment of various cancers. HDACi have been shown to induce apoptosis in salivary duct carcinoma cell lines \[[@R24]\]. In addition, HDACi have been shown to inhibit the growth of salivary duct carcinoma xenografts in mice \[[@R25]\].
+
+In this study, we investigated the effect of HDACi on the growth of salivary duct carcinoma cell lines with a mutation in KMT2C p2493Q. We found
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant EGFR E746_A750del in lung adenocarcinoma? Answer: Yes, there are several drugs for treatment of the variant EGFR E746_A750del. The first-generation EGFR-TKIs, gefitinib
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant EGFR E746_A750del in lung adenocarcinoma? Answer:
+
+The patient was treated with gefitinib 250 mg/day. After 2 months of treatment, the patient had a partial response.
+
+Question: What is the most common mutation in lung adenocarcinoma in the United States? Answer:
+
+The most common mutation in lung adenocarcinoma in the United States is EGFR exon 19 deletion.
+
+Question: What is the most common mutation in lung adenocarcinoma in Japan? Answer:
+
+The most common mutation in lung adenocarcinoma in Japan is EGFR exon 21 L858R.
+
+Question: What is the most common mutation in lung adenocarcinoma in Korea
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in EGFR E746_A750del include possible inhibitors like \[[@REF1]\]:
+
+1\. Afatinib (Gilotrif)
+
+2\. Erlotinib (Tarceva)
+
+3\. Gefitinib (Iressa)
+
+4\. Osimertinib (Tagrisso)
+
+5\. Crizotinib (Xalkori)
+
+6\. Ceritinib (Zykadia)
+
+7\. Alectinib (Alecensa)
+
+8\. Brigatinib (Alunbrig)
+
+9\. Lorl
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in EGFR E746_A750del are the EGFR tyrosine kinase inhibitors (TKIs). The most common EGFR mutation is the deletion of exon 19 (E746_A750del) in the tyrosine kinase domain of the EGFR gene. The EGFR TKIs are small molecules that bind to the ATP-binding pocket of the EGFR tyrosine kinase domain and inhibit the phosphorylation of EGFR and its downstream signaling pathways. The EGFR TKIs are effective in patients with EGFR mutations, but the response rate is only approximately 70% and the median progression-free survival is approximately 10 months.[@b3-ott-6-855]--[@b5-ott-6-
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant EGFR C797S in lung adenocarcinoma? Answer: Osimertinib is the first-line treatment for patients with EGFR T790M mutation. Osimertinib is also recommended for patients with EGFR C
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant EGFR C797S in lung adenocarcinoma? Answer: Osimertinib is the recommended treatment for patients with EGFR C797S mutation.
+
+Question: What is the recommended dose of osimertinib for patients with EGFR C797S mutation? Answer: The recommended dose of osimertinib is 80 mg once daily.
+
+Question: What is the recommended dose of osimertinib for patients with EGFR C797S mutation? Answer: The recommended dose of osimertinib is 80 mg once daily.
+
+Question: What is the recommended dose of osimertinib for patients with EGFR C79
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in EGFR C797S include possible inhibitors like ibrutinib, osimertinib, and rociletinib.
+
+**Methods**: We present a case of a patient with lung adenocarcinoma with a mutation in EGFR C797S who was treated with osimertinib.
+
+**Results**: A 57‐year‐old male with a history of smoking presented with a cough and shortness of breath. A CT scan of the chest showed a right upper lobe mass. A biopsy of the mass revealed adenocarcinoma with a mutation in EGFR C797S. He was started on osimertinib. After two months of treatment
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in EGFR C797S are osimertinib and rociletinib. Osimertinib is a third-generation EGFR-TKI that irreversibly binds to EGFR C797S and has been approved for the treatment of patients with EGFR T790M mutation-positive NSCLC who have progressed on first- or second-generation EGFR-TKIs.[@bib5] Rociletinib is a third-generation EGFR-TKI that irreversibly binds to EGFR C797S and has been approved for the treatment of patients with EGFR T790M mutation-positive NSCLC who have progressed on first- or second-generation EGFR
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: Are there any drugs for treatment of the variant STK11 C210* in lung adenocarcinoma? Answer:
+
+Yes, there are several drugs for treatment of the variant STK11 C210Y in lung adenocarcinoma.
+
+Question: Are there
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Question: What drugs are there for treatment of variant STK11 C210* in lung adenocarcinoma? Answer:
+
+The patient was started on chemotherapy with carboplatin and paclitaxel. The patient tolerated the chemotherapy well and had a partial response.
+
+Question: What is the prognosis of this patient? Answer:
+
+The patient is currently on chemotherapy and is doing well.
+
+Question: What is the risk of recurrence in this patient? Answer:
+
+The patient is currently on chemotherapy and is doing well.
+
+Question: What is the risk of developing other cancers in this patient? Answer:
+
+The patient is currently on chemotherapy and is doing well.
+
+Ques
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Targeted therapies for lung adenocarcinoma with a mutation in STK11 C210* include possible inhibitors like ibrutinib, which is a Bruton's tyrosine kinase inhibitor, and trametinib, which is a mitogen-activated protein kinase inhibitor.
+
+**Conclusions**: The patient was started on ibrutinib and trametinib.
+
+Poster \# 1020. A CASE OF A PATIENT WITH A HISTORY OF SICKLE CELL DISEASE AND A CHRONIC MYELOID LEUKEMIA {#pbc27057-sec-4940}
+=======
+Output:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+A possible treatment for lung adenocarcinoma with a mutation in STK11 C210* are the inhibitors of the PI3K/AKT/mTOR pathway. The PI3K/AKT/mTOR pathway is a key regulator of cell growth, proliferation, and survival. The PI3K/AKT/mTOR pathway is activated in many cancers, including lung cancer. The PI3K/AKT/mTOR pathway is activated by mutations in the PI3KCA gene, which encodes the p110α catalytic subunit of PI3K. The PI3KCA gene is mutated in approximately 20% of lung adenocarcinomas. The PI3KCA gene is mutated in approximately 20% of lung adenocarcinomas. The PI3KCA gene is mutated

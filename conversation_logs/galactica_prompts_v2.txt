@@ -1,0 +1,279 @@
+Patient 0:
+Question: What are treatment options for 
+                lung adenocarcinoma patients with KRAS G13D mutation?
+Answer: There are no specific treatment options for lung adenocarcinoma patients with KRAS G13D mutation.
+
+Question: What are treatment options for 
+                lung adenocarcinoma patients with TP53 A276G mutation?
+Answer: Lung adenocarcinoma patients with TP53 A276G mutation are treated with platinum-based chemotherapy.
+
+Question: What are treatment options for 
+                lung adenocarcinoma patients with PTPRS R238* mutation?
+Answer: No specific treatment is available for lung adenocarcinoma patients with PTPRS R238* mutation.
+
+Question: What are treatment options for 
+                lung adenocarcinoma patients with ZFHX3 F2994L mutation?
+Answer: The ZFHX3 F2994L mutation is a gain-of-function mutation that leads to increased cell proliferation and tumor growth. The ZFHX3 F2994L mutation is associated with increased sensitivity to EGFR inhibitors. Therefore, lung adenocarcinoma patients with ZFHX3 F2994L mutation may benefit from EGFR inhibitors.
+
+Question: What are treatment options for 
+                lung adenocarcinoma patients with CDH1 D433N mutation?
+Answer: No specific treatment is available for lung adenocarcinoma patients with CDH1 D433N mutation.
+
+Patient 1:
+Question: What are treatment options for 
+                urachal carcinoma patients with KRAS G12V mutation?
+Answer: There are no specific treatment options for patients with urachal carcinoma and KRAS G12V mutation. However, patients with urachal carcinoma and KRAS G12V mutation may be candidates for treatment with MEK inhibitors.
+
+Question: What are treatment options for 
+                urachal carcinoma patients with BCORL R1332* mutation?
+Answer: The treatment options for urachal carcinoma patients with BCORL R1332* mutation are not yet clear. The prognosis of patients with BCORL R1332* mutation is poor. The median survival time of patients with BCORL R1332* mutation is 12 months. The 5-year survival rate is 0%. The treatment of patients with BCORL R1332* mutation is mainly surgical resection. The treatment of patients with BCORL R1332* mutation is mainly surgical resection. The treatment of patients with BCORL R1332* mutation is mainly surgical resection. The treatment of patients with BCORL R1332* mutation is mainly surgical resection. The treatment of patients with BCORL R1332* mutation is mainly surgical resection. The treatment of patients with BCORL R1332* mutation is mainly surgical resection. The treatment of patients with BCORL R1332* mutation is mainly surgical resection. The treatment of patients with BCORL
+
+Question: What are treatment options for 
+                urachal carcinoma patients with TP53 H214fs*7 mutation?
+Answer: The treatment of choice for urachal carcinoma is surgery. The standard surgical procedure is partial cystectomy with en bloc resection of the urachus and umbilicus. The role of adjuvant chemotherapy and radiotherapy is not well defined.
+
+Question: What are treatment options for 
+                urachal carcinoma patients with CDKN2C L65F mutation?
+Answer: There is no standard treatment for patients with CDKN2C L65F mutation.
+
+
+
+Question: What are treatment options for 
+                urachal carcinoma patients with MAP3K1 T949_E950insT mutation?
+Answer: There are no specific treatment options for patients with MAP3K1 T949_E950insT mutation.
+
+
+
+Question: What are treatment options for 
+                urachal carcinoma patients with MYCN E47fs*8 mutation?
+Answer: The treatment options for urachal carcinoma patients with MYCN E47fs*8 mutation are not yet clear. However, the prognosis of patients with MYCN E47fs*8 mutation is poor. Therefore, it is necessary to develop new treatment strategies for these patients.
+
+Question: What are treatment options for 
+                urachal carcinoma patients with CTNNA1 K577_L578>TKL mutation?
+Answer: There are no specific treatment options for patients with CTNNA1 K577_L578>TKL mutation.
+
+
+
+Question: What are treatment options for 
+                urachal carcinoma patients with JAK1 I597M mutation?
+Answer: Treatment options for urachal carcinoma patients with JAK1 I597M mutation are not yet available.
+
+Question: What are treatment options for 
+                urachal carcinoma patients with FANCL T367fs*12+ mutation?
+Answer: The patient was treated with a combination of surgery and chemotherapy.
+
+Question: What are treatment options for 
+                urachal carcinoma patients with PIK3CA amplification mutation?
+Answer: Treatment options for urachal carcinoma patients with PIK3CA amplification mutation are not yet available.
+
+Question: What are treatment options for 
+                urachal carcinoma patients with MYC amplification mutation?
+Answer: There are no standard treatment options for patients with urachal carcinoma. However, the treatment of choice for localized disease is surgical resection. For metastatic disease, the treatment of choice is chemotherapy.
+
+Question: What are treatment options for 
+                urachal carcinoma patients with MYCL1 amplification mutation?
+Answer: There are no standard treatment options for patients with MYCL1 amplification mutation. However, patients with MYCL1 amplification mutation have been shown to respond to doxorubicin-based chemotherapy.
+
+Question: What are treatment options for 
+                urachal carcinoma patients with SOX2 amplification mutation?
+Answer: There are no specific treatment options for patients with SOX2 amplification mutation. However, the prognosis of patients with SOX2 amplification mutation is poor.
+
+Question: What are treatment options for 
+                urachal carcinoma patients with MUTYH amplification mutation?
+Answer: There are no specific treatment options for patients with MUTYH amplification mutation.
+
+Patient 2:
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with germline BRCA2 K3326* mutation?
+Answer: The patient was treated with carboplatin and paclitaxel.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with SMAD4 C363R mutation?
+Answer: The patient was treated with a combination of carboplatin and paclitaxel.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with TP53 305fs mutation?
+Answer: The patient was treated with carboplatin and paclitaxel.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with CDKN1B K100N mutation?
+Answer: Thymic adenocarcinoma is a rare tumor with a poor prognosis. The treatment of choice is surgical resection. Chemotherapy and radiotherapy are not effective.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with ATM E1666* mutation?
+Answer: The ATM E1666* mutation is a germline mutation. The ATM E1666* mutation is associated with an increased risk of breast cancer, pancreatic cancer, and prostate cancer. The ATM E1666* mutation is associated with an increased risk of breast cancer, pancreatic cancer, and prostate cancer. The ATM E1666* mutation is associated with an increased risk of breast cancer, pancreatic cancer, and prostate cancer. The ATM E1666* mutation is associated with an increased risk of breast cancer, pancreatic cancer, and prostate cancer. The ATM E1666* mutation is associated with an increased risk of breast cancer, pancreatic cancer, and prostate cancer. The ATM E1666* mutation is associated with an increased risk of breast cancer, pancreatic cancer, and prostate cancer. The ATM E1666* mutation is associated with an increased risk of breast cancer, pancreatic cancer, and prostate cancer. The ATM E1666* mutation is associated with an increased risk of breast cancer, pancreatic cancer, and prostate cancer. The ATM E1666*
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with MAP3K8 H236Y mutation?
+Answer: There are no specific treatment options for thymic adenocarcinoma patients with MAP3K8 H236Y mutation.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with TRAF1 R70H mutation?
+Answer: Treatment options for thymic adenocarcinoma patients with TRAF1 R70H mutation are not yet available.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with HDAC2 R409* mutation?
+Answer: The treatment options for thymic adenocarcinoma patients with HDAC2 R409* mutation are not yet available.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with TMEM111-TDRD3 fusion mutation?
+Answer: No specific treatment is available for patients with TMEM111-TDRD3 fusion mutation.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with PRKDC-CDH17 fusion mutation?
+Answer: The treatment options for thymic adenocarcinoma patients with PRKDC-CDH17 fusion mutation are not yet available.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with EXT1-MAGI2 fusion mutation?
+Answer: The patient was treated with carboplatin and paclitaxel.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with ERBB2 RNA overexpression?
+Answer: The treatment options for thymic adenocarcinoma patients with ERBB2 RNA overexpression are the same as those for patients with other types of thymic adenocarcinoma.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with ERBB3 RNA overexpression?
+Answer: There are no treatment options for thymic adenocarcinoma patients with ERBB3 RNA overexpression.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with PDGFRB RNA overexpression?
+Answer: Imatinib mesylate is a tyrosine kinase inhibitor that targets PDGFRB. It is used to treat patients with gastrointestinal stromal tumors (GIST) that have a mutation in the KIT or PDGFRB gene.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with TGFA RNA overexpression?
+Answer: The treatment options for thymic adenocarcinoma patients with TGFA RNA overexpression are unknown.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with EGF RNA overexpression?
+Answer: The treatment of choice for thymic adenocarcinoma is surgical resection. 
+                Chemotherapy and radiotherapy are not effective in the treatment of 
+                thymic adenocarcinoma.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with FGFR3 RNA overexpression?
+Answer: The treatment options for thymic adenocarcinoma patients with FGFR3 RNA overexpression are not yet known.
+
+Question: What are treatment options for 
+                thymic adenocarcinoma patients with MET RNA overexpression?
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with MET RNA overexpression.
+
+Patient 3:
+Question: What are treatment options for 
+                oropharyngeal carcinoma patients with PIK3CA E545K mutation?
+Answer: PIK3CA E545K mutation is a rare mutation that has been reported in 
+                patients with oropharyngeal squamous cell carcinoma. There are no treatment 
+                options for patients with this mutation.
+
+Question: What are treatment options for 
+                oropharyngeal carcinoma patients with MAPK1 E322K mutation?
+Answer: The MAPK1 E322K mutation is a rare mutation that has been identified in patients with oropharyngeal squamous cell carcinoma. The MAPK1 E322K mutation is a gain-of-function mutation that leads to constitutive activation of the MAPK pathway. The MAPK pathway is a signaling pathway that regulates cell growth, proliferation, differentiation, and survival. The MAPK1 E322K mutation has been shown to promote tumor growth and resistance to chemotherapy in preclinical models. There are currently no targeted therapies approved for patients with the MAPK1 E322K mutation. However, preclinical studies have shown that the MEK inhibitor trametinib may be effective in treating patients with the MAPK1 E322K mutation. Trametinib is an oral, selective inhibitor of MEK1 and MEK2. Trametinib has been approved by the FDA for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E or V600K mutations. Trametinib is also being studied in clinical trials for the treatment of patients with other solid tumors, including head and neck squamous cell carcinoma.
+Source: "Treatment
+
+Question: What are treatment options for 
+                oropharyngeal carcinoma patients with FGFR3 D786N mutation?
+Answer: The FGFR3 D786N mutation is a rare mutation that has been reported in a small number of patients with oropharyngeal squamous cell carcinoma (OPSCC). The FGFR3 D786N mutation is a gain-of-function mutation that results in ligand-independent activation of the FGFR3 receptor. FGFR3 D786N mutation is associated with a more aggressive clinical course and poor prognosis. FGFR3 D786N mutation is also associated with resistance to EGFR-targeted therapy. FGFR3 D786N mutation is not a targetable mutation. However, FGFR3 D786N mutation is associated with sensitivity to FGFR inhibitors. FGFR inhibitors are currently being evaluated in clinical trials.
+
+Patient 4:
+Question: What are treatment options for 
+                lung adenocarcinoma patients with EGFR E746_A750del mutation?
+Answer: Afatinib is a second-generation EGFR tyrosine kinase inhibitor (TKI) that has been approved for the treatment of patients with EGFR-mutated NSCLC. Afatinib has been shown to be effective in patients with EGFR E746_A750del mutation.
+
+Question: What are treatment options for 
+                lung adenocarcinoma patients with TP53 A138_Q144del mutation?
+Answer: The treatment options for lung adenocarcinoma patients with TP53 A138_Q144del mutation are limited.
+
+Question: What are treatment options for 
+                lung adenocarcinoma patients with MET Amplification FISH positive mutation?
+Answer: Crizotinib is a MET inhibitor that has been approved by the FDA for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have a MET exon 14 skipping mutation.
+Crizotinib is also approved for the treatment of patients with locally advanced or metastatic NSCLC whose tumors have a MET exon 14 skipping mutation.
+Crizotinib is also approved for the treatment of patients with metastatic NSCLC whose tumors have a MET exon 14 skipping mutation.
+Crizotinib is also approved for the treatment of patients with metastatic NSCLC whose tumors have a MET exon 14 skipping mutation.
+Crizotinib is also approved for the treatment of patients with metastatic NSCLC whose tumors have a MET exon 14 skipping mutation.
+Crizotinib is also approved for the treatment of patients with metastatic NSCLC whose tumors have a MET exon 14 skipping mutation.
+Crizotinib is also approved for the treatment of patients with metastatic NSCLC whose tumors have a MET exon 14 skipping mutation.
+Crizotinib is also approved for the treatment of patients with metastatic NSCLC whose tumors have a MET exon 14 skipping
+
+Patient 5:
+Question: What are treatment options for 
+                lung adenocarcinoma patients with KRAS G12C mutation?
+Answer: The KRAS G12C mutation is a targetable mutation. The first-in-class KRAS G12C inhibitor sotorasib (AMG 510) has been approved by the FDA for the treatment of patients with locally advanced or metastatic NSCLC with KRAS G12C mutation. Sotorasib is administered orally at a dose of 960 mg once daily. The recommended dose of sotorasib is 960 mg once daily. The most common adverse reactions (≥20%) were diarrhea, nausea, fatigue, decreased appetite, and vomiting. The most common grade 3 or higher adverse reactions (≥5%) were diarrhea, fatigue, and decreased appetite.
+
+Question: What are treatment options for 
+                lung adenocarcinoma patients with KRAS G12C mutation?
+Answer: The KRAS G12C mutation is a targetable mutation. The first-in-class KRAS G12C inhibitor sotorasib (AMG 510) has been approved by the FDA for the treatment of patients with locally advanced or metastatic NSCLC with KRAS
+
+Question: What are treatment options for 
+                lung adenocarcinoma patients with KEAP1 L276F mutation?
+Answer: There are no specific treatment options for lung adenocarcinoma patients with KEAP1 L276F mutation.
+
+Question: What are treatment options for 
+                lung adenocarcinoma patients with STK11 K83Tfs*13 mutation?
+Answer: No specific treatment is available for lung adenocarcinoma patients with STK11 K83Tfs*13 mutation.
+
+Patient 6:
+Question: What are treatment options for 
+                melanoma patients with NF1 I1605fs mutation?
+Answer: The treatment of choice for patients with NF1 I1605fs mutation is immunotherapy.
+
+Question: What are treatment options for 
+                melanoma patients with TP53 c.672+1G>A mutation?
+Answer: The treatment options for melanoma patients with TP53 c.672+1G>A mutation are limited.
+
+Question: What are treatment options for 
+                melanoma patients with RB1 Q846* mutation?
+Answer: The treatment options for melanoma patients with RB1 Q846* mutation are not yet clear.
+
+Question: What are treatment options for 
+                melanoma patients with TERT R859Q mutation?
+Answer: There are no specific treatment options for melanoma patients with TERT R859Q mutation.
+
+Patient 7:
+Question: What are treatment options for 
+                cholangiocarcinoma patients with FGFR2::BICC1 Fusion mutation?
+Answer: FGFR2::BICC1 fusion mutation is a targetable mutation in cholangiocarcinoma. Pemigatinib is a selective FGFR1-3 inhibitor that has been approved by the FDA for cholangiocarcinoma patients with FGFR2 fusion mutation.
+
+Question: What are treatment options for 
+                cholangiocarcinoma patients with TP53 E258* mutation?
+Answer: The treatment options for cholangiocarcinoma patients with TP53 E258* mutation are limited. The only curative treatment for cholangiocarcinoma is surgical resection. However, most patients are diagnosed at an advanced stage and are not candidates for surgery. The median survival of patients with advanced cholangiocarcinoma is 12 months. The only systemic therapy approved for the treatment of advanced cholangiocarcinoma is the combination of gemcitabine and cisplatin. The median survival of patients treated with this combination is 11.7 months.
+
+Patient 8:
+Question: What are treatment options for 
+                salivary duct carcinoma patients with HRAS Q61R mutation?
+Answer: Treatment options for salivary duct carcinoma patients with HRAS Q61R mutation include:
+
+- A: Cetuximab
+- B: Erlotinib
+- C: Lapatinib
+- D: Trastuzumab
+
+B
+
+Question: What are treatment options for 
+                salivary duct carcinoma patients with PIK3CA E545K mutation?
+Answer: The PIK3CA E545K mutation is a rare mutation that has been reported in salivary duct carcinoma (SDC). The PIK3CA E545K mutation is a gain-of-function mutation that activates the PI3K/AKT/mTOR pathway. The PI3K/AKT/mTOR pathway is a key pathway in the regulation of cell growth, proliferation, and survival. The PIK3CA E545K mutation has been shown to be associated with resistance to endocrine therapy in breast cancer. In addition, the PIK3CA E545K mutation has been shown to be associated with resistance to trastuzumab in HER2-positive breast cancer. Therefore, the PIK3CA E545K mutation may be associated with resistance to endocrine therapy and trastuzumab in SDC.
+
+Question: What are treatment options for 
+                salivary duct carcinoma patients with TP53 T211A mutation?
+Answer: The treatment options for salivary duct carcinoma patients with TP53 T211A mutation are not yet clear. However, the use of androgen deprivation therapy (ADT) has been reported to be effective in some patients.
+
+Question: What are treatment options for 
+                salivary duct carcinoma patients with KMT2C p2493Q mutation?
+Answer: The treatment options for salivary duct carcinoma patients with KMT2C p2493Q mutation are not yet clear. However, the KMT2C p2493Q mutation is a gain-of-function mutation that is associated with increased H3K4 methylation and increased expression of the androgen receptor (AR). Therefore, patients with this mutation may be candidates for treatment with histone deacetylase inhibitors (HDACi) or AR inhibitors.
+
+Patient 9:
+Question: What are treatment options for 
+                lung adenocarcinoma patients with EGFR E746_A750del mutation?
+Answer: Afatinib is a second-generation EGFR tyrosine kinase inhibitor (TKI) that has been approved for the treatment of patients with EGFR-mutated NSCLC. Afatinib has been shown to be effective in patients with EGFR E746_A750del mutation.
+
+Question: What are treatment options for 
+                lung adenocarcinoma patients with EGFR C797S mutation?
+Answer: Osimertinib is a third-generation EGFR TKI that has been shown to be effective in patients with EGFR C797S mutation.
+
+Question: What are treatment options for 
+                lung adenocarcinoma patients with EGFR C797S mutation?
+Answer: Osimertinib is a third-generation EGFR TKI that has been shown to be effective in patients with EGFR C797S mutation.
+
+Question: What are treatment options for 
+                lung adenocarcinoma patients with STK11 C210* mutation?
+Answer: The STK11 C210* mutation is a loss-of-function mutation. It is associated with a poor prognosis in lung adenocarcinoma patients. The STK11 C210* mutation is associated with a lack of response to PD-1/PD-L1 inhibitors.
+

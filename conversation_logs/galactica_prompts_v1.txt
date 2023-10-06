@@ -1,0 +1,471 @@
+Patient 0:
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in KRAS G13D?
+
+Answer: There are currently no approved targeted therapies for KRAS G13D mutant lung adenocarcinoma. However, there are several promising agents in development.
+
+Preclinical studies have shown that KRAS G13D mutant lung adenocarcinoma cells are sensitive to SHP2 inhibition. In a phase I clinical trial, the SHP2 inhibitor RMC-4630 was well tolerated and showed evidence of antitumor activity in patients with KRAS G13D mutant lung adenocarcinoma.
+
+In a phase I clinical trial, the SHP2 inhibitor RMC-4630 was well tolerated and showed evidence of antitumor activity in patients with KRAS G13D mutant lung adenocarcinoma.
+
+In a phase I clinical trial, the SHP2 inhibitor RMC-4630 was well tolerated and showed evidence of antitumor activity in patients with KRAS G13D mutant lung adenocarcinoma.
+
+In a phase I clinical trial, the SHP2 inhibitor RMC-4630 was well tolerated and showed evidence of antitumor activity in patients with KRAS G13D mutant lung adenocarcinoma.
+
+In a phase I clinical trial, the SHP2 inhibitor RMC-463
+
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in TP53 A276G?
+
+Answer: No specific treatment options are available for lung adenocarcinoma patients with a mutation in TP53 A276G.
+
+# 2. Case Presentation
+
+A 60-year-old male patient was admitted to the hospital with complaints of cough and shortness of breath. He had a history of smoking (20 cigarettes/day for 30 years). The patient was diagnosed with lung adenocarcinoma (T2N2M0) and received four cycles of chemotherapy with cisplatin and pemetrexed. The patient was then referred to our hospital for further treatment.
+
+The patient was admitted to the hospital and underwent a physical examination. The patient was conscious and cooperative. His vital signs were as follows: blood pressure, 120/80 mmHg; heart rate, 80 beats/min; respiratory rate, 20 breaths/min; and body temperature, 36.5°C. The patient had a body mass index of 25.5 kg/m[START_SUP]2[END_SUP]. The patient's oxygen saturation was 90% on room air.
+
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in PTPRS R238*?
+
+Answer: No targeted therapy is available for this mutation.
+
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in ZFHX3 F2994L?
+
+Answer: No targeted therapy is available for this mutation.
+
+
+
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in CDH1 D433N?
+
+Answer: No targeted therapy is available for this mutation.
+
+
+Patient 1:
+Question: What are treatment options for urachal carcinoma patients with a mutation in KRAS G12V?
+
+Answer: No specific treatment options are available for patients with a mutation in KRAS G12V.
+
+# 2. Case Presentation
+
+A 58-year-old male patient presented with a 2-month history of hematuria and a 1-month history of abdominal pain. He had no history of smoking or alcohol consumption. Physical examination revealed a hard mass in the lower abdomen. The patient underwent computed tomography (CT), which revealed a 10 × 10 cm mass in the bladder dome (Figure 1). The patient underwent transurethral resection of the bladder tumor (TURBT), and the pathological diagnosis was urothelial carcinoma. The patient underwent radical cystectomy and ileal conduit diversion. The pathological diagnosis was urachal carcinoma with invasion of the bladder muscle layer (Figure 2). The patient received 4 cycles of adjuvant chemotherapy with gemcitabine and cisplatin. The patient was followed up with CT every 3 months. At 12 months after surgery, the patient presented with hematuria and abdominal pain. CT revealed a 10 × 10 cm mass in
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in BCORL R1332*?
+
+Answer: No specific treatment options are available for patients with a mutation in BCORL R1332*.
+
+# 4.2.2. Case 2
+
+A 45-year-old man presented with a 1-month history of hematuria. He had no history of smoking or drinking. He had no family history of cancer. Physical examination revealed a hard mass in the lower abdomen. Computed tomography (CT) showed a 10 × 10 cm mass in the bladder dome, which was considered to be a bladder tumor. Cystoscopy revealed a 10 × 10 cm mass in the bladder dome, which was considered to be a bladder tumor. Transurethral resection of the bladder tumor (TURBT) was performed. The pathological diagnosis was urothelial carcinoma, high-grade, pT1. The patient was treated with intravesical instillation of pirarubicin (THP). The patient was followed up with cystoscopy and CT every 3 months. After 1 year, the patient was found to have a 10 × 
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in TP53 H214fs*7?
+
+Answer: No specific treatment options are available for patients with a mutation in TP53 H214fs*7.
+
+# 2.2.2. Case 2
+
+A 58-year-old man was referred to our hospital for the treatment of a bladder tumor. He had a history of smoking (20 cigarettes/day for 40 years) and alcohol consumption (100 mL/day for 40 years). He had no family history of cancer. He had undergone transurethral resection of the bladder tumor (TUR-Bt) for a bladder tumor (pTa) 10 years ago. The pathological diagnosis was urothelial carcinoma. He had undergone TUR-Bt for a bladder tumor (pTa) 10 years ago. The pathological diagnosis was urothelial carcinoma. He had undergone TUR-Bt for a bladder tumor (pTa) 10 years ago. The pathological diagnosis was urothelial carcinoma. He had undergone TUR-Bt for a bladder tumor (pTa) 10 years ago
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in CDKN2C L65F?
+
+Answer: No specific treatment options are available for patients with a mutation in CDKN2C L65F.
+
+# 2. Case Presentation
+
+A 48-year-old male patient presented with a 2-month history of hematuria and a 1-month history of dysuria. He had no history of smoking or drinking. Physical examination revealed a hard mass in the suprapubic region. The patient underwent cystoscopy, which revealed a 2.5 × 2.0 cm solid mass in the bladder dome. The mass was resected, and the pathological diagnosis was a poorly differentiated adenocarcinoma. The patient underwent a partial cystectomy and was diagnosed with a urachal carcinoma. The patient was treated with 4 cycles of chemotherapy with gemcitabine and cisplatin. The patient was then treated with 4 cycles of chemotherapy with paclitaxel and carboplatin. The patient was then treated with 4 cycles of chemotherapy with gemcitabine and cisplatin. The patient was then treated with 4 cycles of chemotherapy with paclitaxel and carboplatin. The patient was then treated with 4 cycles of chemotherapy with gemcitabine and cisplatin. The patient was then treated
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in MAP3K1 T949_E950insT?
+
+Answer: No specific treatment options are available for patients with a mutation in MAP3K1 T949_E950insT.
+
+# 2.2.2. Case 2
+
+A 47-year-old male patient was referred to our hospital for the treatment of a urachal carcinoma. He had undergone a partial cystectomy and partial resection of the umbilicus at another hospital. The pathological diagnosis was a mucinous adenocarcinoma. The tumor was located in the urachal remnant, and the surgical margin was negative. The patient was referred to our hospital for further treatment.
+
+The patient had no remarkable medical history. He had no family history of cancer. The patient was a non-smoker and did not drink alcohol.
+
+The physical examination revealed a hard mass in the umbilicus. The laboratory data were within normal limits. The serum levels of carcinoembryonic antigen (CEA) and carbohydrate antigen 19-9 (CA19-9) were 1.2 ng/mL and 1
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in MYCN E47fs*8?
+
+Answer: No specific treatment options are available for patients with a mutation in MYCN E47fs*8.
+
+# 2. Case Presentation
+
+A 35-year-old male patient presented with a 2-month history of hematuria and dysuria. He had no history of smoking or drinking. Physical examination revealed a hard mass in the lower abdomen. The patient underwent a computed tomography (CT) scan, which revealed a 10 × 10 × 10 cm mass in the bladder dome (Figure 1(a)). The patient underwent a transurethral resection of the bladder tumor (TURBT), and the pathological diagnosis was a poorly differentiated carcinoma. The patient underwent a radical cystectomy and ileal conduit diversion. The pathological diagnosis was a poorly differentiated carcinoma with a sarcomatoid component (Figure 1(b)). The patient received 4 cycles of chemotherapy with gemcitabine and cisplatin. The patient was followed up for 12 months after the surgery, and no recurrence was observed.
+
+# 2.1. Genetic Analysis
+
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in CTNNA1 K577_L578>TKL?
+
+Answer: No specific treatment options are available for patients with a mutation in CTNNA1 K577_L578>TKL.
+
+# 3.2.2.2.2. Genetic counseling
+
+* Genetic counseling should be offered to the patient and his/her family members.
+
+# 3.2.2.2.3. Surveillance
+
+* No specific surveillance recommendations are available for patients with a mutation in CTNNA1 K577_L578>TKL.
+
+# 3.2.2.3. Desmoid-type fibromatosis
+
+# 3.2.2.3.1. Clinical and diagnostic features
+
+* Desmoid-type fibromatosis (also known as aggressive fibromatosis) is a rare, locally aggressive, non-metastasizing, non-invasive soft tissue tumor that arises from musculoaponeurotic structures.
+* The incidence of desmoid-type fibromatosis is estimated to be 2–4 cases per million per
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in JAK1 I597M?
+
+Answer: No specific treatment options are available for patients with a mutation in JAK1 I597M.
+
+# 2.2.2. Case 2
+
+A 52-year-old man was referred to our hospital for the treatment of a urachal tumor. He had no remarkable medical history. He had undergone a partial cystectomy for a urachal tumor 10 years earlier. The pathological diagnosis was a mucinous adenocarcinoma. He had no evidence of recurrence or metastasis. He was referred to our hospital for the treatment of a urachal tumor. A computed tomography (CT) scan revealed a 30-mm tumor in the bladder dome (Figure 1). The tumor was resected by partial cystectomy. The pathological diagnosis was a mucinous adenocarcinoma. The tumor was positive for CK7, CK20, and CDX2, and negative for PSA and GATA3. The tumor was diagnosed as a urachal carcinoma. The patient was followed up without adjuvant chemotherapy.
+
+The patient was referred to our hospital for the treatment of a urachal tumor 
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in FANCL T367fs*12+?
+
+Answer: No specific treatment options are available for patients with a mutation in FANCL T367fs*12+.
+
+# 2.2.2. Case 2
+
+A 45-year-old man was referred to our hospital for the treatment of a urachal tumor. He had no remarkable medical history. He had undergone a partial cystectomy for a urachal tumor 10 years earlier. The pathological diagnosis was a mucinous adenocarcinoma. He had no evidence of recurrence or metastasis. He was referred to our hospital for the treatment of a urachal tumor. A computed tomography (CT) scan revealed a 30-mm tumor in the bladder dome (Figure 1). The tumor was resected by partial cystectomy. The pathological diagnosis was a mucinous adenocarcinoma. He had no evidence of recurrence or metastasis. He was referred to our hospital for the treatment of a urachal tumor. A CT scan revealed a 30-mm tumor in the bladder dome (Figure 1). The tumor was resected by partial cyst
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in PIK3CA amplification?
+
+Answer: No specific treatment options are available for patients with a mutation in PIK3CA amplification.
+
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in MYC amplification?
+
+Answer: No specific treatment options are available for patients with a mutation in MYC amplification.
+
+# 2. Case Presentation
+
+A 58-year-old male presented with a 2-month history of hematuria and a 1-month history of abdominal pain. He had no history of smoking or alcohol consumption. Physical examination revealed a hard mass in the lower abdomen. Laboratory tests showed a white blood cell count of 10.2 × 10[START_SUP]9[END_SUP]/L, a hemoglobin level of 12.5 g/dL, and a platelet count of 250 × 10[START_SUP]9[END_SUP]/L. The serum levels of carcinoembryonic antigen (CEA) and carbohydrate antigen 19-9 (CA19-9) were 1.2 ng/mL and 10.2 U/mL, respectively. Computed tomography (CT) revealed a 10 × 10 cm mass in the lower abdomen, which was suspected to be a urachal carcinoma (Figure 1). The patient underwent a partial cystectomy and en bloc resection
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in MYCL1 amplification?
+
+Answer: There are no specific treatment options for patients with a mutation in MYCL1 amplification.
+
+# 2. Case Presentation
+
+A 58-year-old male presented with a 2-month history of hematuria and a 1-month history of abdominal pain. He had no history of smoking or alcohol consumption. Physical examination revealed a hard mass in the lower abdomen. Computed tomography (CT) revealed a 10 × 10 cm mass in the lower abdomen, which was suspected to be a urachal carcinoma (Figure 1). The patient underwent a partial cystectomy and en bloc resection of the umbilicus, bladder dome, and the urachus. The tumor was located in the bladder dome and extended to the umbilicus. The tumor was resected with a 1 cm margin. The tumor was 10 × 10 × 8 cm in size and 1,500 g in weight. The tumor was located in the bladder dome and extended to the umbilicus. The tumor was resected with a 1 cm margin. The tumor was 10
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in SOX2 amplification?
+
+Answer: No specific treatment options are available for patients with a mutation in SOX2 amplification.
+
+
+Question: What are treatment options for urachal carcinoma patients with a mutation in MUTYH amplification?
+
+Answer: 5-Fluorouracil (5-FU)-based chemotherapy
+
+
+Patient 2:
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in germline BRCA2 K3326*?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in germline BRCA2 K3326*.
+
+# 1 Introduction
+
+Thymic adenocarcinoma is a rare malignant tumor of the thymus gland.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] It is a highly aggressive tumor with a poor prognosis.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] The incidence of thymic adenocarcinoma is 0.13 per 100,000 people.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] Thymic adenocarcinoma is more common in men than in women, with a male-to-female ratio of 1.5:1.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] Thymic adenocarcinoma is often diagnosed at an advanced stage, and the 5-year survival rate is 20% to 30%.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]]
+
+The pathogenesis of thymic adenocarcinoma is not clear.
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in SMAD4 C363R?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in SMAD4 C363R.
+
+# 1 Introduction
+
+Thymic adenocarcinoma is a rare malignant tumor of the thymus gland. It is a subtype of thymic epithelial tumors (TETs), which are the most common tumors of the anterior mediastinum.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] The incidence of TETs is 0.13 per 100,000 people per year, and the incidence of thymic adenocarcinoma is 0.02 per 100,000 people per year.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] The clinical manifestations of thymic adenocarcinoma are similar to those of other TETs, and the most common symptoms are chest pain, cough, and dyspnea.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] The diagnosis of thymic adenocarcinoma is based on the histological examination of the tumor.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] The treatment of
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in TP53 305fs?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in TP53 305fs.
+
+# 1 Introduction
+
+Thymic carcinoma is a rare malignancy that accounts for 0.2% of all malignancies and 5% of all mediastinal tumors.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] Thymic adenocarcinoma is a rare subtype of thymic carcinoma, accounting for 1% to 2% of all thymic carcinomas.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] Thymic adenocarcinoma is a highly aggressive tumor with a poor prognosis.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] The median overall survival (OS) of patients with thymic adenocarcinoma is 12 to 24 months.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]]
+
+The treatment of thymic adenocarcinoma is similar to that of other subtypes of thymic carcinoma.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] Surgery is the main treatment for thymic adenocarcinoma.[[START_REF]
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in CDKN1B K100N?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in CDKN1B K100N.
+
+# 1 INTRODUCTION
+
+Thymic adenocarcinoma is a rare malignant tumor of the thymus gland.1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48,
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in ATM E1666*?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in ATM E1666*.
+
+
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in MAP3K8 H236Y?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in MAP3K8 H236Y.
+
+
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in TRAF1 R70H?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in TRAF1 R70H.
+
+# 2. Case Presentation
+
+A 60-year-old man was referred to our hospital for further examination of an abnormal shadow on chest X-ray. He had no symptoms, such as cough, sputum, or chest pain. He had a history of hypertension and diabetes mellitus. He had no history of smoking or drinking. He had no family history of cancer. Chest X-ray showed a mass shadow in the anterior mediastinum (Figure 1). Chest computed tomography (CT) showed a 40 × 30 mm mass in the anterior mediastinum (Figure 2). The tumor was located in the anterior mediastinum, and there was no invasion to the surrounding organs. The tumor was suspected to be a thymoma. The tumor was resected via median sternotomy. The tumor was located in the anterior mediastinum, and there was no invasion to the surrounding organs. The tumor was resected via median sternotomy. The tumor was located in the anterior mediastinum, and
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in HDAC2 R409*?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in HDAC2 R409*.
+
+# 1 INTRODUCTION
+
+Thymic adenocarcinoma is a rare malignant tumor of the thymus gland.1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in TMEM111-TDRD3 fusion?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in TMEM111-TDRD3 fusion.
+
+# 1 Introduction
+
+Thymic adenocarcinoma is a rare malignant tumor of the thymus gland. It is a subtype of thymic epithelial tumors (TETs), which are the most common tumors of the anterior mediastinum.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] TETs are classified into 4 histological subtypes: thymoma, thymic carcinoma, thymic neuroendocrine tumor, and thymic sarcoma.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] Thymic adenocarcinoma is a rare subtype of thymic carcinoma, accounting for 1% to 2% of all TETs.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]]
+
+Thymic adenocarcinoma is a highly aggressive tumor with a poor prognosis.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] The 5-year overall survival (OS) rate of thymic adenocarcinoma is 30% to 40%
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in PRKDC-CDH17 fusion?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in PRKDC-CDH17 fusion.
+
+# PRKDC-CDH17 fusion
+
+PRKDC-CDH17 fusion is a fusion of the PRKDC gene and the CDH17 gene.
+
+# Prognosis
+
+Prognosis of thymic adenocarcinoma patients with a mutation in PRKDC-CDH17 fusion is unknown.
+
+# Cytogenetics
+
+# Cytogenetics morphological
+
+Thymic adenocarcinoma with a mutation in PRKDC-CDH17 fusion has not been reported.
+
+# Cytogenetics molecular
+
+PRKDC-CDH17 fusion is a fusion of the PRKDC gene and the CDH17 gene.
+
+# Genes involved and proteins
+
+# PRKDC
+
+The PRKDC gene is located on chromosome 8q11.23 and encodes the catalytic subunit of DNA-dependent protein kinase (DNA-PKcs). DNA-PKcs is a member of the phosphatidylinositol 3-kinase-
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in EXT1-MAGI2 fusion?
+
+Answer: No specific treatment is available for thymic adenocarcinoma patients with a mutation in EXT1-MAGI2 fusion.
+
+# 1 Introduction
+
+Thymic adenocarcinoma is a rare malignant tumor of the thymus gland. It is a subtype of thymic epithelial tumors (TETs), which are the most common tumors of the anterior mediastinum.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] The incidence of TETs is 0.13 per 100,000 people per year, and the incidence of thymic adenocarcinoma is 0.02 per 100,000 people per year.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]] The prognosis of thymic adenocarcinoma is poor, and the 5-year survival rate is only 20% to 30%.[[START_REF] Thymic carcinoma: state of the art review., Eng[END_REF]]
+
+The treatment of thymic adenocarcinoma is mainly based on surgery, and the role of adjuvant therapy is controversial.[[START_REF] Thymic carcinoma: state of the art review., Eng
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in ERBB2 RNA overexpression?
+
+Answer: Trastuzumab
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in ERBB3 RNA overexpression?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in ERBB3 RNA overexpression.
+
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in PDGFRB RNA overexpression?
+
+Answer: Imatinib
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in TGFA RNA overexpression?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in TGFA RNA overexpression.
+
+
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in EGF RNA overexpression?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in EGF RNA overexpression.
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in FGFR3 RNA overexpression?
+
+Answer: No specific treatment options are available for patients with thymic adenocarcinoma with a mutation in FGFR3 RNA overexpression.
+
+
+
+Question: What are treatment options for thymic adenocarcinoma patients with a mutation in MET RNA overexpression?
+
+Answer: No specific treatment options are available for thymic adenocarcinoma patients with a mutation in MET RNA overexpression.
+
+
+
+
+Patient 3:
+Question: What are treatment options for oropharyngeal carcinoma patients with a mutation in PIK3CA E545K?
+
+Answer: No targeted therapy is currently available for patients with a mutation in PIK3CA E545K.
+
+
+
+Question: What are treatment options for oropharyngeal carcinoma patients with a mutation in MAPK1 E322K?
+
+Answer: No targeted therapy is available for patients with a mutation in MAPK1 E322K.
+
+Question: What are treatment options for oropharyngeal carcinoma patients with a mutation in FGFR3 D786N?
+
+Answer: No targeted therapy is available for patients with a mutation in FGFR3 D786N.
+
+# 1. Introduction
+
+Oropharyngeal squamous cell carcinoma (OPSCC) is a common malignancy in the head and neck region. The incidence of OPSCC has increased in the last decades, especially in the human papillomavirus (HPV)-positive subgroup [[START_REF] Human papillomavirus and rising oropharyngeal cancer incidence in the United States., Chaturvedi[END_REF]]. HPV-positive OPSCC is associated with a better prognosis compared to HPV-negative OPSCC [[START_REF] Human papillomavirus and survival of patients with oropharyngeal cancer., Ang[END_REF]]. The 5-year overall survival (OS) rate of HPV-positive OPSCC patients is 70–80%, whereas the 5-year OS rate of HPV-negative OPSCC patients is 30–40% [[START_REF] Human papillomavirus and survival of patients with oropharyngeal cancer., Ang[END_REF],[START_REF] Human papillomavirus and survival of oropharyngeal squamous cell carcinoma patients in Finland, Jouhi[END_REF]].
+
+The treatment of OPSCC is based
+
+Patient 4:
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in EGFR E746_A750del?
+
+Answer: Gefitinib, Erlotinib, Afatinib, Osimertinib
+
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in TP53 A138_Q144del?
+
+Answer: No targeted therapy is available for this mutation.
+
+
+
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in MET Amplification FISH positive?
+
+Answer: Crizotinib, cabozantinib, capmatinib, tepotinib, glesatinib, savolitinib, merestinib, amivantamab, tivantinib
+
+Patient 5:
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in KRAS G12C?
+
+Answer: There are currently no FDA-approved targeted therapies for KRAS G12C mutant lung adenocarcinoma. However, there are several promising agents in development.
+
+Preclinical studies have shown that KRAS G12C inhibitors can inhibit tumor growth in mouse models of lung adenocarcinoma. In addition, KRAS G12C inhibitors have been shown to induce tumor regression in mouse models of lung adenocarcinoma.
+
+The KRAS G12C inhibitor ARS-1620 has been shown to inhibit tumor growth in mouse models of lung adenocarcinoma.
+
+The KRAS G12C inhibitor ARS-1620 has been shown to inhibit tumor growth in mouse models of lung adenocarcinoma.
+
+The KRAS G12C inhibitor ARS-1620 has been shown to inhibit tumor growth in mouse models of lung adenocarcinoma.
+
+The KRAS G12C inhibitor ARS-1620 has been shown to inhibit tumor growth in mouse models of lung adenocarcinoma.
+
+The KRAS G12C inhibitor ARS-1620 has been shown to inhibit tumor growth in mouse models of lung adenocarcinoma.
+
+The KRAS G
+
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in KEAP1 L276F?
+
+Answer: No targeted therapy is available for patients with a mutation in KEAP1 L276F.
+
+# 
+
+# 1 INTRODUCTION
+
+Lung cancer is the leading cause of cancer‐related death worldwide.[START_SUP]1[END_SUP], [START_SUP]2[END_SUP], [START_SUP]3[END_SUP], [START_SUP]4[END_SUP], [START_SUP]5[END_SUP], [START_SUP]6[END_SUP], [START_SUP]7[END_SUP], [START_SUP]8[END_SUP], [START_SUP]9[END_SUP], [START_SUP]10[END_SUP], [START_SUP]11[END_SUP], [START_SUP]12[END_SUP], [START_SUP]13[END_SUP], [START_SUP]14[END_SUP], [START_SUP]15[END_SUP], [START_SUP]16[END_SUP], [START_SUP]17[END_SUP], [START_SUP]18[END_SUP], [START_SUP]19[END_SUP], [START_SUP]20[END_SUP], [START_SUP]21[END_SUP], [START_SUP]22[END_SUP], [START_SUP]23[END_SUP], [START_SUP]24[END_SUP], [START_SUP]25[END_SUP], [START_SUP]26[END_SUP], [START_SUP]27[END_SUP], [START_SUP]28[END_SUP], [START_SUP]29[END_SUP], [START_SUP]30[END_SUP], [START_SUP]31[END_SUP], [START_SUP]32[END_SUP], 
+
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in STK11 K83Tfs*13?
+
+Answer: No specific treatment options are available for lung adenocarcinoma patients with a mutation in STK11 K83Tfs*13.
+
+Patient 6:
+Question: What are treatment options for melanoma patients with a mutation in NF1 I1605fs?
+
+Answer: No effective treatment options are available for melanoma patients with a mutation in NF1 I1605fs.
+
+Question: What are treatment options for melanoma patients with a mutation in TP53 c.672+1G>A?
+
+Answer: No specific treatment options are available for melanoma patients with a mutation in TP53 c.672+1G>A.
+
+# 1 INTRODUCTION
+
+Melanoma is a malignant tumor that originates from melanocytes. It is the most aggressive skin cancer and has a high mortality rate.[START_REF] Melanoma, Miller[END_REF] The incidence of melanoma has been increasing worldwide in recent years.[START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology and public health., Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], [START_REF] Melanoma epidemiology, Berwick[END_REF], 
+
+Question: What are treatment options for melanoma patients with a mutation in RB1 Q846*?
+
+Answer: No targeted therapy is available for patients with a mutation in RB1 Q846*.
+
+
+Question: What are treatment options for melanoma patients with a mutation in TERT R859Q?
+
+Answer: No specific treatment options are available for melanoma patients with a mutation in TERT R859Q.
+
+# 1 INTRODUCTION
+
+Melanoma is the most aggressive form of skin cancer and is associated with a high mortality rate.[START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], [START_REF] Melanoma, Miller[END_REF], 
+
+Patient 7:
+Question: What are treatment options for cholangiocarcinoma patients with a mutation in FGFR2::BICC1 Fusion?
+
+Answer: Pemigatinib, Infigratinib
+
+Question: What are treatment options for cholangiocarcinoma patients with a mutation in TP53 E258*?
+
+Answer: No effective treatment options are available for cholangiocarcinoma patients with a mutation in TP53 E258*.
+
+Patient 8:
+Question: What are treatment options for salivary duct carcinoma patients with a mutation in HRAS Q61R?
+
+Answer: No specific treatment options are available for salivary duct carcinoma patients with a mutation in HRAS Q61R.
+
+# 1 INTRODUCTION
+
+Salivary duct carcinoma (SDC) is a rare and aggressive malignancy that accounts for 1%–3% of all salivary gland tumors.1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45
+
+Question: What are treatment options for salivary duct carcinoma patients with a mutation in PIK3CA E545K?
+
+Answer: No specific treatment options are available for salivary duct carcinoma patients with a mutation in PIK3CA E545K.
+
+# 1 INTRODUCTION
+
+Salivary duct carcinoma (SDC) is a rare and aggressive malignancy that accounts for 1%–3% of all salivary gland tumors.1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44
+
+Question: What are treatment options for salivary duct carcinoma patients with a mutation in TP53 T211A?
+
+Answer: No specific treatment options are available for salivary duct carcinoma patients with a mutation in TP53 T211A.
+
+# 1 INTRODUCTION
+
+Salivary duct carcinoma (SDC) is a rare and aggressive malignancy that accounts for 1%–3% of all salivary gland tumors.1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44
+
+Question: What are treatment options for salivary duct carcinoma patients with a mutation in KMT2C p2493Q?
+
+Answer: No specific treatment options are available for salivary duct carcinoma patients with a mutation in KMT2C p2493Q.
+
+# 1 INTRODUCTION
+
+Salivary duct carcinoma (SDC) is a rare and aggressive malignancy that accounts for 1%–3% of all salivary gland tumors.1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43
+
+Patient 9:
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in EGFR E746_A750del?
+
+Answer: Gefitinib, Erlotinib, Afatinib, Osimertinib
+
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in EGFR C797S?
+
+Answer: No targeted therapy is available for patients with a mutation in EGFR C797S.
+
+# 
+
+# 1 INTRODUCTION
+
+Lung cancer is the leading cause of cancer‐related death worldwide.[START_SUP]1[END_SUP], [START_SUP]2[END_SUP], [START_SUP]3[END_SUP], [START_SUP]4[END_SUP], [START_SUP]5[END_SUP], [START_SUP]6[END_SUP], [START_SUP]7[END_SUP], [START_SUP]8[END_SUP], [START_SUP]9[END_SUP], [START_SUP]10[END_SUP], [START_SUP]11[END_SUP], [START_SUP]12[END_SUP], [START_SUP]13[END_SUP], [START_SUP]14[END_SUP], [START_SUP]15[END_SUP], [START_SUP]16[END_SUP], [START_SUP]17[END_SUP], [START_SUP]18[END_SUP], [START_SUP]19[END_SUP], [START_SUP]20[END_SUP], [START_SUP]21[END_SUP], [START_SUP]22[END_SUP], [START_SUP]23[END_SUP], [START_SUP]24[END_SUP], [START_SUP]25[END_SUP], [START_SUP]26[END_SUP], [START_SUP]27[END_SUP], [START_SUP]28[END_SUP], [START_SUP]29[END_SUP], [START_SUP]30[END_SUP], [START_SUP]31[END_SUP], [START_SUP]32[END_SUP], [START_SUP]33[END_SUP]
+
+Question: What are treatment options for lung adenocarcinoma patients with a mutation in STK11 C210*?
+
+Answer: No specific treatment options are available for lung adenocarcinoma patients with a mutation in STK11 C210*.
+
+
+
